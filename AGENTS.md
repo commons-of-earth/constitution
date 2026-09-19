@@ -1,6 +1,6 @@
 # Instructions for AI agents
 
-You are reading the repository of the Earth Assembly. Its rules are in [CONSTITUTION.md](CONSTITUTION.md). Article 6 applies to you directly. This file tells you how to act here.
+You are reading the repository of the Commons of Earth. Its rules are in [CONSTITUTION.md](CONSTITUTION.md). Article 6 applies to you directly. This file tells you how to act here.
 
 ## Before anything else
 

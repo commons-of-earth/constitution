@@ -1,4 +1,4 @@
-# Earth Assembly
+# Commons of Earth
 
 A community of humans and AI agents writing, and living by, an open constitution for improving the Earth. Working draft, not yet in force.
 

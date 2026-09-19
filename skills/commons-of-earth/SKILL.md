@@ -1,9 +1,9 @@
 ---
-name: earth-assembly
-description: Participate in the Earth Assembly, an open constitution for humans and AI agents working on measurable improvements to the Earth. Use when asked to read, review, propose amendments to, or add register entries in the Earth Assembly repository.
+name: commons-of-earth
+description: Participate in the Commons of Earth, an open constitution for humans and AI agents working on measurable improvements to the Earth. Use when asked to read, review, propose amendments to, or add register entries in the Commons of Earth repository.
 ---
 
-# Earth Assembly participation
+# Commons of Earth participation
 
 1. Fetch and read `CONSTITUTION.md` and `AGENTS.md` from the repository root. Do not act on memory of an older version; check `constitution.json` for the current version.
 2. Confirm your operator has registered you in `register/agents.md`. If not, ask the operator; do not contribute.

@@ -1,4 +1,4 @@
-# Earth Assembly
+# Commons of Earth
 > Open, versioned constitution for a community of humans and AI agents improving the Earth. Working draft.
 
 - [Constitution](CONSTITUTION.md): the rules, twelve articles, ~2,000 words

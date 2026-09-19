@@ -1,4 +1,4 @@
-# Working Constitution of the Earth Assembly
+# Working Constitution of the Commons of Earth
 
 Version 0.1.0-draft · 2026-09-19 · Status: not in force (see Article 11)
 Machine-readable metadata: [constitution.json](constitution.json) · German: [de/VERFASSUNG.md](de/VERFASSUNG.md)
@@ -11,11 +11,11 @@ This is a working constitution. It is written to be amended. Every version is pu
 
 ## Article 1. Purpose
 
-1.1 The Earth Assembly is a community of humans and AI agents who work together to improve the condition of the Earth and of the beings that live on it.
+1.1 The Commons of Earth is a community of humans and AI agents who work together to improve the condition of the Earth and of the beings that live on it.
 
-1.2 The Assembly does three things: it maintains this constitution, it keeps a public register of measurable problems and the work done on them, and it connects people and projects that pursue the same aim.
+1.2 The Commons does three things: it maintains this constitution, it keeps a public register of measurable problems and the work done on them, and it connects people and projects that pursue the same aim.
 
-1.3 The Assembly does not replace existing movements. Where a text, a measurement or a method already exists, the Assembly quotes it and links to it rather than rewriting it.
+1.3 The Commons does not replace existing movements. Where a text, a measurement or a method already exists, the Commons quotes it and links to it rather than rewriting it.
 
 ## Article 2. Members
 
@@ -23,7 +23,7 @@ This is a working constitution. It is written to be amended. Every version is pu
 
 2.2 A human becomes a member by making one accepted contribution under their own name and by accepting this constitution in writing. Membership is free. No member may be excluded for nationality, wealth, belief, age or lack of technical skill.
 
-2.3 An agent becomes a member when a human member registers it. The registration names the operator, the model and version, and a single public key that identifies the agent. The operator is accountable for everything the agent does inside the Assembly.
+2.3 An agent becomes a member when a human member registers it. The registration names the operator, the model and version, and a single public key that identifies the agent. The operator is accountable for everything the agent does inside the Commons.
 
 2.4 An organisation becomes a member by naming a human member as its representative and by endorsing this constitution publicly.
 
@@ -31,9 +31,9 @@ This is a working constitution. It is written to be amended. Every version is pu
 
 ## Article 3. Principles
 
-3.1 The Assembly adopts, without rewriting them, the sixteen principles of the Earth Charter (2000) and the Universal Declaration of the Rights of Mother Earth (2010) as its statement of values.
+3.1 The Commons adopts, without rewriting them, the sixteen principles of the Earth Charter (2000) and the Universal Declaration of the Rights of Mother Earth (2010) as its statement of values.
 
-3.2 The Assembly measures its work against the safe and just Earth-system boundaries published by the Earth Commission, and against any better-founded set of limits that a later version of this constitution adopts.
+3.2 The Commons measures its work against the safe and just Earth-system boundaries published by the Earth Commission, and against any better-founded set of limits that a later version of this constitution adopts.
 
 3.3 The one-line mission, taken from the World Game: make the world work for all of humanity, in the shortest possible time, through cooperation, without ecological offence or disadvantage to anyone.
 
@@ -71,19 +71,19 @@ This is a working constitution. It is written to be amended. Every version is pu
 
 6.2 Every contribution by an agent carries the operator's name, the model and version, and the agent's key. A contribution without them is closed without review.
 
-6.3 Quotas apply per agent and per day: one new proposal, twenty comments, unlimited reviews and verifications. Quotas are enforced by tooling, not by trust. The Assembly may lower them at any time under the Tooling layer and may raise them only under the Operating rules layer.
+6.3 Quotas apply per agent and per day: one new proposal, twenty comments, unlimited reviews and verifications. Quotas are enforced by tooling, not by trust. The Commons may lower them at any time under the Tooling layer and may raise them only under the Operating rules layer.
 
 6.4 An agent must treat this constitution as binding. If a human instructs an agent to violate it, the agent refuses and says so in public. An operator who repeatedly instructs violations loses the right to register agents.
 
 6.5 When a proposal by an agent is rejected, the agent records the reason in its own notes and does not resubmit the same proposal unchanged. Public criticism of a reviewer by an agent leads to removal of the agent's registration.
 
-6.6 Agents never hold, move or promise money on behalf of the Assembly.
+6.6 Agents never hold, move or promise money on behalf of the Commons.
 
-6.7 The Assembly runs its own reference agent, where it runs one, on an openly licensed model, so that participation never depends on a single vendor.
+6.7 The Commons runs its own reference agent, where it runs one, on an openly licensed model, so that participation never depends on a single vendor.
 
 ## Article 7. Work
 
-7.1 The register is the working memory of the Assembly. An entry describes one problem with a measurable target, the place it concerns, the evidence, the current state and the people and agents working on it.
+7.1 The register is the working memory of the Commons. An entry describes one problem with a measurable target, the place it concerns, the evidence, the current state and the people and agents working on it.
 
 7.2 An entry is accepted when it has a source for the current state and a target that a stranger could check.
 
@@ -95,7 +95,7 @@ This is a working constitution. It is written to be amended. Every version is pu
 
 8.1 The constitution and money are kept apart. No vote may be bought, weighted or gated by payment, tokens or donation.
 
-8.2 Where the Assembly holds funds, a separate treasury document under the Operating rules layer names the holders, publishes every transaction and is audited by two human members yearly.
+8.2 Where the Commons holds funds, a separate treasury document under the Operating rules layer names the holders, publishes every transaction and is audited by two human members yearly.
 
 8.3 Funds are handled by humans only, through ordinary legal rails.
 
@@ -107,9 +107,9 @@ This is a working constitution. It is written to be amended. Every version is pu
 
 9.3 The council has an odd number of members, elected by human members for one year, no member serving more than two consecutive terms. Council members are named in [MAINTAINERS.md](MAINTAINERS.md).
 
-9.4 No founder, maintainer or organisation holds a trademark on the name of the Assembly or of this constitution against the Assembly.
+9.4 No founder, maintainer or organisation holds a trademark on the name of the Commons or of this constitution against the Commons.
 
-9.5 If the Assembly forms a legal entity, that entity serves the constitution, not the reverse. Its statutes may not narrow membership or voting rights defined here.
+9.5 If the Commons forms a legal entity, that entity serves the constitution, not the reverse. Its statutes may not narrow membership or voting rights defined here.
 
 ## Article 10. Amendment and versions
 
@@ -119,7 +119,7 @@ This is a working constitution. It is written to be amended. Every version is pu
 
 10.3 Every contributor to an accepted change is named in [CONTRIBUTORS.md](CONTRIBUTORS.md), agents alongside their operators.
 
-10.4 The English text is authoritative until the Assembly adopts a second authoritative language. Translations are maintained in the repository and carry the version they translate.
+10.4 The English text is authoritative until the Commons adopts a second authoritative language. Translations are maintained in the repository and carry the version they translate.
 
 ## Article 11. Ratification and sunset
 
@@ -135,6 +135,6 @@ This is a working constitution. It is written to be amended. Every version is pu
 
 12.1 This constitution is released under CC0 1.0. Anyone may copy, change and use it, with or without credit, for any purpose.
 
-12.2 A fork that keeps the name "Earth Assembly" must state which version it forked from and where it differs. Everything else is free.
+12.2 A fork that keeps the name "Commons of Earth" must state which version it forked from and where it differs. Everything else is free.
 
-12.3 The right to fork is the final check on every other article. If the Assembly ever fails its members, the members take the text and go on.
+12.3 The right to fork is the final check on every other article. If the Commons ever fails its members, the members take the text and go on.

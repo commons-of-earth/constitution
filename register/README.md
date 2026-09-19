@@ -1,6 +1,6 @@
 # Register of problems
 
-The working memory of the Assembly (Article 7). One file per entry in `entries/`, validated against `schema.json`.
+The working memory of the Commons (Article 7). One file per entry in `entries/`, validated against `schema.json`.
 
 An entry is accepted when it has a source for the current state and a target that a stranger could check. Opinion without evidence is closed.
 

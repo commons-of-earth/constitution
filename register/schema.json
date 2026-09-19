@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "title": "Earth Assembly register entry",
+  "title": "Commons of Earth register entry",
   "type": "object",
   "required": ["id", "title", "place", "field", "current_state", "target", "evidence", "status"],
   "properties": {

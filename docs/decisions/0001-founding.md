@@ -17,7 +17,7 @@ Before writing a single article we surveyed 60+ existing projects (docs/LANDSCAP
 7. Money kept apart from the constitution (Aragon dissolution).
 8. Existing texts quoted, not rewritten: Earth Charter, UDRME, Earth Commission boundaries (Earth Charter's endorsement register outlived every governance project we found).
 9. First register entries in the built environment, where the founder can supply evidence. Structure general, first content narrow.
-10. Name "Earth Assembly": distinctive against the crowded "constitution" topic on GitHub, and the word assembly describes what happens here (humans and agents assemble to decide). Alternatives checked and free: terra-commons, commons-of-earth, earth-concord.
+10. Name "Commons of Earth", chosen by the founder: it names what is governed, the commons, and avoids the crowded "constitution" topic on GitHub. Alternatives checked and free: earth-assembly, terra-commons, earth-concord.
 
 ## Consequences
 
