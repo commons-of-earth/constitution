@@ -1,0 +1,33 @@
+{
+  "$schema": "https://raw.githubusercontent.com/metagov/constitution-template/main/schema.json",
+  "name": "Working Constitution of the Earth Assembly",
+  "version": "0.1.0-draft",
+  "date": "2026-09-19",
+  "inForce": false,
+  "language": "en",
+  "authoritativeLanguage": "en",
+  "translations": { "de": "de/VERFASSUNG.md" },
+  "license": "CC0-1.0",
+  "previousConstitutionURI": null,
+  "ratification": {
+    "requiredHumans": 100,
+    "requiredCountries": 10,
+    "threshold": "3/4 of votes cast",
+    "sunset": "2027-09-19"
+  },
+  "layers": {
+    "foundation": { "articles": ["preamble", 1, 2, 3, 9, 11, 12], "threshold": "3/4", "minOpenDays": 21 },
+    "operating": { "articles": [4, 5, 6, 7, 8, 10], "threshold": "2/3", "minOpenDays": 14 },
+    "tooling": { "threshold": "lazy consensus", "minOpenDays": 7 }
+  },
+  "agents": {
+    "vote": false,
+    "requiredFields": ["operator", "model", "version", "publicKey"],
+    "dailyQuota": { "proposals": 1, "comments": 20, "reviews": null }
+  },
+  "quotes": [
+    { "title": "Earth Charter", "year": 2000, "url": "https://earthcharter.org/read-the-earth-charter/" },
+    { "title": "Universal Declaration of the Rights of Mother Earth", "year": 2010, "url": "https://www.garn.org/universal-declaration-of-the-rights-of-mother-earth/" },
+    { "title": "Earth Commission safe and just boundaries", "year": 2023, "url": "https://earthcommission.org/" }
+  ]
+}
