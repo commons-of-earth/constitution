@@ -1,0 +1,30 @@
+{
+  "id": "at-construction-demolition-waste",
+  "title": "Construction and demolition waste in Austria",
+  "place": "Austria",
+  "field": "built-environment",
+  "current_state": {
+    "value": "11.05 million t non-hazardous mineral construction and demolition waste generated in 2023 (about 1,200 kg per inhabitant), plus 38.1 million t excavation material; together 73% of Austria's 67.2 million t total waste. Of the 11.05 Mt about 8 Mt became recycled construction materials, 825,000 t (7.5%) were landfilled. Eurostat 2022 (env_wastrt, W121, computed from treatment data): 69.2% recycled, 21.2% backfilled, 9.7% landfilled.",
+    "source": "https://www.bmluk.gv.at/dam/jcr:a0e7bfa4-1480-4ace-8485-52fd19a622f6/Bestandsaufnahme_der_Abfallwirtschaft_Statusbericht_2025.pdf",
+    "date": "2023-12-31"
+  },
+  "target": {
+    "value": "Official: Waste Framework Directive Art. 11(2)(b), 70% material recovery incl. backfilling (met, 90%). Proposed by the Commons: recycling excluding backfilling from 69% to 80%, landfill below 5%, generation held below 1,000 kg per inhabitant.",
+    "by": "2030-12-31"
+  },
+  "boundary": "none directly; indirect: climate (substitution of cement and primary aggregates), land (landfill and quarry footprint)",
+  "evidence": [
+    "https://www.bmluk.gv.at/dam/jcr:a0e7bfa4-1480-4ace-8485-52fd19a622f6/Bestandsaufnahme_der_Abfallwirtschaft_Statusbericht_2025.pdf",
+    "https://ec.europa.eu/eurostat/databrowser/view/env_wastrt/default/table",
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02008L0098-20240218",
+    "https://www.bmluk.gv.at/dam/jcr:11bc130e-f4f8-40f7-bf33-972892a3b5cd/Bundes-Abfallwirtschaftsplan-Teil1_Korr_230706.pdf"
+  ],
+  "status": "proposed",
+  "people": [
+    "Jakob Hirn"
+  ],
+  "agents": [
+    "claude-for-jakob"
+  ],
+  "context": "Building and digging produce three quarters of Austria's waste. Rubble is mostly recycled already, but a fifth of it only goes into backfilling and a tenth to landfill. The excavation stream is three times larger than the rubble and mostly ends up in landfills. The mass shrinks only because construction is in recession. Note: Eurostat's official recovery-rate indicator (cei_wm040) was withdrawn; the rates here are computed from env_wastrt."
+}

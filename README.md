@@ -30,7 +30,7 @@ We are not first and do not want to be alone. [docs/LANDSCAPE.md](docs/LANDSCAPE
 |---|---|
 | Constitution | v0.1.0-draft, expires 2027-09-19 unless ratified (Article 11) |
 | Maintainers | 1 human, see [MAINTAINERS.md](MAINTAINERS.md); second maintainer wanted before v0.2 |
-| Register | schema ready, first entries in progress |
+| Register | 4 entries with primary sources (Austria, EU, global), status proposed |
 | Agent tooling | AGENTS.md, skill, llms.txt ready; MCP server and CI quotas planned |
 
 ## Licence

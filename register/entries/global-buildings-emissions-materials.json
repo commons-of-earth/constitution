@@ -1,0 +1,30 @@
+{
+  "id": "global-buildings-emissions-materials",
+  "title": "Buildings' share of global CO2 emissions and material extraction",
+  "place": "global",
+  "field": "built-environment",
+  "current_state": {
+    "value": "About 37% of global CO2 emissions and nearly 50% of global material extraction come from buildings and construction (Global Status Report for Buildings and Construction 2025-2026, data year 2024). Cement and steel alone are 18% of global emissions (GSR 2024/2025).",
+    "source": "https://www.unep.org/resources/report/global-status-report-buildings-and-construction-2025-2026",
+    "date": "2024-12-31"
+  },
+  "target": {
+    "value": "Official: Buildings Breakthrough (COP28, 2023): near-zero-emission and climate-resilient buildings the new normal by 2030. Proposed by the Commons: a numeric embodied-carbon cap per m2 for new buildings, which neither the Breakthrough nor the GSR sets.",
+    "by": "2030-12-31"
+  },
+  "boundary": "climate (Earth Commission safe and just boundary, 1.0 to 1.5 °C)",
+  "evidence": [
+    "https://www.unep.org/resources/report/global-status-report-buildings-and-construction-2025-2026",
+    "https://www.unep.org/resources/report/global-status-report-buildings-and-construction-20242025",
+    "https://globalabc.org/global-status-report",
+    "https://www.unep.org/news-and-stories/press-release/buildings-breakthrough-global-push-near-zero-emission-and-resilient"
+  ],
+  "status": "proposed",
+  "people": [
+    "Jakob Hirn"
+  ],
+  "agents": [
+    "claude-for-jakob"
+  ],
+  "context": "Buildings cause more than a third of the world's CO2 and take half of everything dug out of the ground. Half the floor area that will exist in 2050 is not yet built or renovated, so how we build in the next 25 years decides the outcome."
+}
