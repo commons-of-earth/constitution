@@ -1,0 +1,35 @@
+{
+  "id": "south-africa-1996-participatory-drafting-with-court-certification",
+  "provision": "Two-stage constitution-making: negotiated binding principles, an elected assembly with mass public participation, and court certification against those principles",
+  "source": {
+    "constitution": "Constitution of the Republic of South Africa, 1996 (and Interim Constitution 1993, Schedule 4)",
+    "jurisdiction": "South Africa",
+    "year": 1996,
+    "article": "Interim Constitution ss. 68 to 74 and Schedule 4 (34 Constitutional Principles); 1996 Constitution s. 1, s. 74, Chapter 2"
+  },
+  "text_summary": "The 1993 interim text fixed 34 principles that the final constitution had to obey and made the Constitutional Court certify compliance. The 1996 text then entrenched founding values (s. 1, amendable only by 75%) and a justiciable Bill of Rights (two-thirds plus six provinces).",
+  "period": "Interim constitution 27 April 1994; final text in force 4 February 1997, still in force",
+  "history": "The Constitutional Assembly (the 1994 parliament sitting jointly) ran a media campaign from January 1995 that reached 65% of adults within three months, held 26 public meetings with 20,549 participants, and logged nearly 1.7 million submissions in the first phase (about 11,000 of them substantive, the rest petitions) plus 250,000 in the second; the '2 million' figure comes from the Commonwealth Secretary-General's speech. The text adopted on 8 May 1996 was refused certification on 6 September 1996 (the Court found, among other things, that the Bill of Rights and provincial powers were insufficiently entrenched and an ordinary statute was shielded from review); the Assembly amended it on 11 October, the Court certified on 4 December, and Mandela signed at Sharpeville on 10 December 1996. It has since been amended 18 times without touching s. 1 or Chapter 2, and the Court has enforced it against three presidents. Kenya (2010) and Brazil (1988) used comparable participation with popular submissions and were also adopted, whereas Iceland and Chile were not.",
+  "assessment": {
+    "verdict": "worked",
+    "reasoning": "Participation on this scale gave the text legitimacy across a divided society, while pre-agreed principles and court certification stopped the majority from writing whatever it wanted; that combination is the difference from Chile 2022. The text has not solved inequality or state capture, and critics argue the certification stage was elite-driven and that the substantive submissions were a tiny share of the total."
+  },
+  "lesson": "Agree the non-negotiable principles and an independent certification check before the participatory drafting starts, so that mass input shapes the text without any faction being able to break the frame.",
+  "evidence": [
+    "https://sahistory.org.za/archive/chapter-13-public-participation-process (opened; submission counts, meetings, media reach)",
+    "https://www.constituteproject.org/constitution/South_Africa_2012 (opened; s. 1 and s. 74 text)",
+    "https://www.saflii.org/za/cases/ZACC/1996/26.html (first certification judgment; not opened, 403; reasons for refusal taken from search summaries) and https://www.saflii.org/za/cases/ZACC/1996/24.html (second certification, 4 Dec 1996; not opened)",
+    "https://omalley.nelsonmandela.org/index.php/site/q/03lv02167/04lv02257/05lv02258/06lv02261.htm (from search results; summary of the 4 Dec 1996 judgment; not opened)"
+  ],
+  "adopted_in": [
+    "Article 11.1",
+    "Article 3.2"
+  ],
+  "status": "proposed",
+  "people": [
+    "Jakob Hirn"
+  ],
+  "agents": [
+    "claude-for-jakob"
+  ]
+}

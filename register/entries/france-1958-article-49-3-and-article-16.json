@@ -1,0 +1,35 @@
+{
+  "id": "france-1958-article-49-3-and-article-16",
+  "provision": "Government adoption of bills without a vote (Art. 49.3) and presidential emergency powers (Art. 16)",
+  "source": {
+    "constitution": "Constitution of the Fifth Republic",
+    "jurisdiction": "France",
+    "year": 1958,
+    "article": "Article 49 para. 3; Article 16 (as revised 2008)"
+  },
+  "text_summary": "Under 49.3 the Prime Minister may stake the government's responsibility on a bill; it passes without a vote unless a censure motion carries within 24 hours (since 2008 limited to budget and social security bills plus one other bill per session). Art. 16 lets the President take 'the measures required' when institutions or territory face a serious and immediate threat, after consulting the Constitutional Council.",
+  "period": "1958 to present, still in force",
+  "history": "Art. 16 was used once, from 23 April to 29 September 1961 after the Algiers generals' putsch; the 2008 revision added Constitutional Council review after 30 days and automatic review after 60. Art. 49.3 was used for the 100th time on 16 March 2023 when Elisabeth Borne pushed the pension-age increase to 64 through without a vote; the censure motion failed by nine votes on 20 March and months of strikes followed. Michel Rocard holds the record with 28 uses (1988 to 1991); Borne used it 11 times in her first year. On 2 December 2024 Michel Barnier invoked it for the social security budget and on 4 December was censured by 331 votes, the first successful censure since 1962.",
+  "assessment": {
+    "verdict": "mixed",
+    "reasoning": "Art. 16 shows that a dangerous power can stay dormant if the political culture and, since 2008, a court hold it in check. Art. 49.3 delivered governability in minority situations but its routine use since 2022 has drained legitimacy from parliament and ended in the first governmental collapse in 62 years; French constitutional lawyers are split between calling it a legitimate rationalisation of parliament and an abuse of the text's letter."
+  },
+  "lesson": "Any bypass of the legislature needs a hard numeric cap per session and a real censure remedy; any emergency clause needs a clock and a court.",
+  "evidence": [
+    "https://www.constituteproject.org/constitution/France_2008 (opened; Art. 16 and 49.3 text)",
+    "https://theconversation.com/french-governments-long-record-of-bypassing-parliament-a-brief-history-of-article-49-3-202185 (opened; 100th use, 20 March 2023 vote)",
+    "https://verfassungsblog.de/constitutional-perhaps-democratic-not-so-much/ (from search results; Borne 11 uses, Rocard 28; not opened)",
+    "https://en.wikipedia.org/wiki/Collapse_of_the_Barnier_government (from search results; 331 votes, 4 Dec 2024; not opened) and https://en.wikipedia.org/wiki/Algiers_putsch_of_1961 (from search results; Art. 16 dates; not opened)"
+  ],
+  "adopted_in": [
+    "Article 6.3",
+    "Article 11.2"
+  ],
+  "status": "proposed",
+  "people": [
+    "Jakob Hirn"
+  ],
+  "agents": [
+    "claude-for-jakob"
+  ]
+}

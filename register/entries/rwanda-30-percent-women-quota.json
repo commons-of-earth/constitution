@@ -1,0 +1,34 @@
+{
+  "id": "rwanda-30-percent-women-quota",
+  "provision": "At least 30% of positions in decision-making organs for women, with reserved parliamentary seats",
+  "source": {
+    "constitution": "Constitution of the Republic of Rwanda",
+    "jurisdiction": "Rwanda",
+    "year": "2003 (revised 2015)",
+    "article": "Art. 10 (fundamental principle); Art. 75 (24 women-only seats of 80 in the Chamber of Deputies)"
+  },
+  "text_summary": "Art. 10 lists among the state's fundamental principles 'equality of all Rwandans and between men and women which is affirmed by women occupying at least thirty percent (30%) of positions in decision-making organs.' Art. 75 reserves 24 of 80 deputies for women elected by women-only electoral colleges and repeats the 30% floor.",
+  "period": "2003 to present (still in force)",
+  "history": "In the first post-constitution election (2003) women took 48.8% of the lower house; in 2008 Rwanda became the first country with a female majority (56.3%), rising to 61.3% in 2018 and 63.8% in 2024, the highest share in the world. Women won many of the 53 open seats as well, so the quota lifted the ceiling rather than just setting a floor. Substantive results include the 2008 gender-based-violence law and land and inheritance reforms. The same period saw the ruling RPF consolidate a single-party-dominant system rated 'not free' by Freedom House; Burnet (2011) and Bauer/Burnet (2013) find women MPs gained respect and access but limited autonomy, and that policy still runs through the presidency.",
+  "assessment": {
+    "verdict": "mixed",
+    "reasoning": "As a numbers mechanism it worked beyond design and changed norms about women in public life, which is why it is copied across Africa. But the legislature it filled has little independent power, so the quota's proof of substantive representation is weak; scholars disagree on how much of the reform record to credit to the women deputies versus the executive."
+  },
+  "lesson": "A hard quota with reserved seats delivers descriptive representation reliably; pair it with a legislature that actually decides things, or the gain is symbolic.",
+  "evidence": [
+    "https://www.constituteproject.org/constitution/Rwanda_2015 (opened)",
+    "https://data.ipu.org/parliament/RW/RW-LC01/data-on-women/ (snippet; IPU Parline)",
+    "https://www.cambridge.org/core/journals/politics-and-gender/article/abs/women-have-found-respect-gender-quotas-symbolic-representation-and-female-empowerment-in-rwanda/9591DD720A7A606928E1F5287668B465 (snippet; Burnet 2011)",
+    "https://www.sciencedirect.com/science/article/abs/pii/S0277539513000915 (snippet; Bauer & Burnet 2013)"
+  ],
+  "adopted_in": [
+    "Article 5.4"
+  ],
+  "status": "proposed",
+  "people": [
+    "Jakob Hirn"
+  ],
+  "agents": [
+    "claude-for-jakob"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "eu-1992-article-7-teu-unanimity",
+  "provision": "Article 7 TEU sanction procedure for breaches of EU values, with unanimity at the decisive stage",
+  "source": {
+    "constitution": "Treaty on European Union (Maastricht 1992, Amsterdam 1997, Nice 2001, Lisbon 2007)",
+    "jurisdiction": "European Union",
+    "year": 1997,
+    "article": "Article 7(1) to (3) TEU; Article 48 TEU treaty amendment by unanimity"
+  },
+  "text_summary": "Art. 7(1) lets the Council find a 'clear risk of a serious breach' by four-fifths; Art. 7(2) requires the European Council to determine a breach unanimously (minus the state concerned); only then can voting rights be suspended by qualified majority under 7(3). Treaty change itself needs unanimity and ratification by all member states.",
+  "period": "Amsterdam Treaty in force 1 May 1999 to present, still in force",
+  "history": "The Commission triggered Art. 7(1) against Poland on 20 December 2017 over its judicial reforms; the European Parliament triggered it against Hungary on 12 September 2018. Neither procedure ever reached 7(2), because Poland and Hungary each promised to veto a finding against the other. After the Tusk government took office, the Commission withdrew the Polish proposal on 29 May 2024 (Hungary alone objected); the Hungarian procedure remains open in 2026 after seven Council hearings, and the EU has instead used the 2020 budget conditionality regulation and frozen funds. Treaty reform by the 2021 to 2022 Conference on the Future of Europe stalled on the same unanimity rule.",
+  "assessment": {
+    "verdict": "critical",
+    "reasoning": "A sanction that requires the unanimity of all other members is unusable as soon as two members backslide together, which is exactly the case it was written for. The EU has worked around it with money, which some scholars consider a healthier tool than voting-right suspension; others say the workaround shows Art. 7 is dead letter."
+  },
+  "lesson": "Do not make the enforcement of the constitution's own values depend on unanimity; a two-thirds or three-quarters rule that excludes accused parties is the maximum a sanction clause can bear.",
+  "evidence": [
+    "https://www.europarl.europa.eu/topics/en/article/20180222STO98434/breaches-of-eu-values-how-the-eu-can-act-infographic (opened; mechanics, trigger dates, Hungary status Nov 2025)",
+    "https://notesfrompoland.com/2024/05/29/eu-closes-article-7-rule-of-law-proceedings-against-poland-after-seven-years/ (opened; closure 29 May 2024, unanimity problem)",
+    "https://www.consilium.europa.eu/en/policies/article-7-procedures/timeline-the-story-of-article-7/ (from search results; official timeline; not opened, 403)",
+    "https://dcubrexitinstitute.eu/2024/05/understanding-the-commissions-decision-closing-article-7-against-poland/ (from search results; 'never reached 7(2)'; not opened)"
+  ],
+  "adopted_in": [
+    "Article 5.1",
+    "Article 5.4"
+  ],
+  "status": "proposed",
+  "people": [
+    "Jakob Hirn"
+  ],
+  "agents": [
+    "claude-for-jakob"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "iceland-2011-crowdsourced-constitution",
+  "provision": "Citizen-drafted constitution (Constitutional Council 2011) approved by referendum, never enacted",
+  "source": {
+    "constitution": "Draft Constitution of the Republic of Iceland (Constitutional Council bill)",
+    "jurisdiction": "Iceland",
+    "year": 2011,
+    "article": "whole draft; notably Art. 34 natural resources as national property"
+  },
+  "text_summary": "A 25-member elected council rewrote the 1944 constitution in four months, publishing drafts online and taking public comments, and declared natural resources national property, added environmental rights and citizen-initiated referendums.",
+  "period": "Draft delivered 29 July 2011; advisory referendum 20 October 2012; never in force",
+  "history": "After the 2008 bank collapse, a 1,000-person National Forum (2010) set values, then 25 citizens were elected from 522 candidates on 27 November 2010. The Supreme Court voided that election in January 2011 on technical grounds; parliament reappointed the same 25 as a Constitutional Council, which delivered a unanimous bill in July 2011. On 20 October 2012, 67% voted to use the bill as the basis of a new constitution on 48.9% turnout. The bill stalled in the Althingi before the April 2013 election (a February 2013 compromise 'brought further handling to an end'), the incoming centre-right coalition started a parallel committee, and later attempts (2016 to 2024) produced only piecemeal proposals; in 2022 'Where is the constitution?' graffiti covered Reykjavík.",
+  "assessment": {
+    "verdict": "mixed",
+    "reasoning": "The drafting process is the model everyone cites: transparent, deliberative, cheap, with a clear popular mandate. It failed because the constitution in force required the Althingi to pass the text twice with an election in between, and the process had no binding link to that ratification path; the political class was never committed and legal scholars attacked the text's coherence. Whether the fault lay with the elites or with a text drafted too fast is still argued."
+  },
+  "lesson": "A participatory drafting process is worthless unless the ratification path is fixed and binding before drafting starts.",
+  "evidence": [
+    "https://nordics.info/show/artikel/icelands-constitutional-revision-and-the-new-constitution (opened; timeline and analysis)",
+    "https://en.wikipedia.org/wiki/2012_Icelandic_constitutional_referendum (opened; 67%, turnout 48.9%, 115,890 votes)",
+    "https://cepr.org/voxeu/columns/constitution-making-action-case-iceland (from search results, Gylfason; not opened)",
+    "https://delibdemjournal.org/article/id/974/ (from search results, Landemore on the deliberative quality; not opened)"
+  ],
+  "adopted_in": [
+    "Article 11.1",
+    "Article 3.1"
+  ],
+  "status": "proposed",
+  "people": [
+    "Jakob Hirn"
+  ],
+  "agents": [
+    "claude-for-jakob"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "kenya-two-thirds-gender-rule",
+  "provision": "No more than two-thirds of any elective or appointive body may be of the same gender",
+  "source": {
+    "constitution": "Constitution of Kenya",
+    "jurisdiction": "Kenya",
+    "year": "2010 (promulgated 27 August 2010)",
+    "article": "Art. 27(8), Art. 81(b); Art. 261 and Fifth Schedule (five-year legislative deadline); Art. 261(7) (dissolution of Parliament for non-enactment)"
+  },
+  "text_summary": "Art. 27(8): 'the State shall take legislative and other measures to implement the principle that not more than two-thirds of the members of elective or appointive bodies shall be of the same gender.' Art. 81(b) restates it for the electoral system; the Fifth Schedule gave Parliament five years to enact the implementing law, with Art. 261(7) allowing the Chief Justice to advise the President to dissolve Parliament on failure.",
+  "period": "2010 to present, but never implemented for Parliament",
+  "history": "On 11 December 2012 the Supreme Court (Chief Justice Mutunga dissenting) advised that the principle applies to Parliament only 'progressively', with a legislative deadline of 27 August 2015; Parliament extended the deadline by a year and then let five bills fail for lack of quorum. In 2017 the High Court (Mativo J) ruled the failure a 'gross violation' and gave 60 days; nothing followed. On 21 September 2020 Chief Justice Maraga advised President Kenyatta to dissolve Parliament under Art. 261(7); Kenyatta did not act, and on 5 June 2026 a five-judge High Court bench held the advisory itself unconstitutional for procedural reasons. After the 2022 election women held 69 of 349 National Assembly seats (about 20%); President Ruto's campaign promise to deliver the rule within a year is unfulfilled. Devolution to 47 counties under the same constitution, by contrast, was implemented on schedule in 2013.",
+  "assessment": {
+    "verdict": "critical",
+    "reasoning": "A clear numerical rule with a deadline and a nuclear sanction has been evaded for sixteen years because the body required to implement it is the body that would lose seats, and the sanction depends on a president who would lose a working Parliament. The devolution provisions in the same text, which created new offices rather than removing them, show that self-interest, not drafting quality, is the variable."
+  },
+  "lesson": "Never make the enforcement of a representation rule depend on the incumbents it displaces; write the mechanism into the electoral formula itself (reserved or top-up seats) so it executes automatically.",
+  "evidence": [
+    "https://www.constituteproject.org/constitution/Kenya_2010 (opened)",
+    "https://en.wikipedia.org/wiki/Two-thirds_Gender_Rule_in_Kenya (opened)",
+    "https://new.kenyalaw.org/akn/ke/judgment/kesc/2012/5/eng@2012-12-11 (snippet; 2012 advisory opinion)",
+    "https://www.the-star.co.ke/news/2026-06-05-court-maraga-push-to-dissolve-parliament-unconstitutional (snippet)"
+  ],
+  "adopted_in": [
+    "Article 6.3",
+    "Article 9.2"
+  ],
+  "status": "proposed",
+  "people": [
+    "Jakob Hirn"
+  ],
+  "agents": [
+    "claude-for-jakob"
+  ]
+}

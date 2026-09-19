@@ -32,7 +32,7 @@ We are not first and do not want to be alone. [docs/LANDSCAPE.md](docs/LANDSCAPE
 |---|---|
 | Constitution | v0.2.0-draft, expires 2027-09-19 unless ratified (Article 11) |
 | Maintainers | 1 human, see [MAINTAINERS.md](MAINTAINERS.md); second maintainer wanted before v0.2 |
-| Register | constitutional provisions with historical evidence, first entries in progress |
+| Register | 26 constitutional provisions with historical evidence (Haudenosaunee to UN Charter), all status proposed |
 | Agent tooling | AGENTS.md, skill, llms.txt ready; MCP server and CI quotas planned |
 
 ## Licence

@@ -1,0 +1,35 @@
+{
+  "id": "haudenosaunee-clan-mothers-depose-chiefs",
+  "provision": "Clan mothers' power to warn and depose chiefs; consensus between nations; seven-generations duty",
+  "source": {
+    "constitution": "Gayanashagowa / Great Law of Peace (oral, wampum-recorded; English compilations 1880s-1916)",
+    "jurisdiction": "Haudenosaunee (Iroquois) Confederacy, five later six nations",
+    "year": "founding disputed: 1142 (Mann/Fields, eclipse dating) vs c. 1450-1550 (majority of scholars)",
+    "article": "Sections 9-10 (decision procedure), 19 and 52 (deposition), 28 (future generations) in the Parker/Murphy numbering"
+  },
+  "text_summary": "The women who hold a chief's title may warn him three times through the War Chief; if he still ignores the people, the antlers of office are removed and a successor installed (Sec. 19, 52). Council decisions pass in sequence Mohawk/Seneca, then Oneida/Cayuga, then Onondaga as fire-keepers, each side deliberating to unanimity (Sec. 9-10); new chiefs are told to hold in view 'the unborn of the future Nation' (Sec. 28).",
+  "period": "In force from founding to present in traditional councils; formal state authority ended with US/Canadian imposition of elected band councils (Canada Indian Act 1876/1924, US IRA 1934), though the Grand Council at Onondaga and Six Nations still operates under it",
+  "history": "The Confederacy held together five warring nations for centuries and absorbed the Tuscarora c. 1722, but the consensus rule could not settle the American Revolution: the council fire was formally covered in 1777 and nations fought on opposite sides. Clan-mother deposition remained a real check in traditional councils and is still exercised (e.g. removals of chiefs at Six Nations and Onondaga in the 20th century). In 1988 the US Congress passed H.Con.Res. 331 acknowledging the Confederacy's 'contribution' to the US Constitution; historians such as Elisabeth Tooker and most political scientists regard that influence thesis as weakly evidenced, while acknowledging Franklin's 1751 remark on the Six Nations' union. The written texts (Hale 1883, Parker 1916, Gibson 1912) differ from each other and from oral versions, so section numbers and wording vary by edition.",
+  "assessment": {
+    "verdict": "mixed",
+    "reasoning": "As a mechanism for removing bad leaders without violence and for binding several peoples without coercion, it has a longer continuous record than any European constitution. But unanimity blocked action when the nations split (1777), and the confederation had no way to compel members. Historians disagree on the founding date and on the influence claim; the deposition procedure itself is well attested."
+  },
+  "lesson": "Copy the idea of a standing, non-legislative body (here, the title-holding women) with an explicit, staged power to remove executives; do not copy pure unanimity as the only decision rule for a union of peoples.",
+  "evidence": [
+    "https://web.pdx.edu/~caskeym/iroquois_web/html/greatlaw.html (opened; Murphy transcription of Parker 1916 text)",
+    "https://www.congress.gov/bill/100th-congress/house-concurrent-resolution/331 (snippet)",
+    "https://teachinghistory.org/history-content/ask-a-historian/iroquois-and-the-founding-fathers/ (snippet; Tooker critique)",
+    "https://www.haudenosauneeconfederacy.com/confederacys-creation/ (snippet)"
+  ],
+  "adopted_in": [
+    "Article 5.1",
+    "Article 9.3"
+  ],
+  "status": "proposed",
+  "people": [
+    "Jakob Hirn"
+  ],
+  "agents": [
+    "claude-for-jakob"
+  ]
+}

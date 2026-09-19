@@ -1,0 +1,35 @@
+{
+  "id": "hungary-2011-fundamental-law-capture",
+  "provision": "Cardinal laws requiring two-thirds majorities, enlarged and repacked Constitutional Court, serial amendment by the governing supermajority",
+  "source": {
+    "constitution": "Fundamental Law of Hungary",
+    "jurisdiction": "Hungary",
+    "year": 2011,
+    "article": "Article T(4) cardinal Acts; Article 24 Constitutional Court; Article S amendment by two-thirds of MPs"
+  },
+  "text_summary": "Some 30 policy areas (family, pensions, taxation, media, elections, judiciary) may only be legislated by 'cardinal Acts' passed with two-thirds of members present; the Constitutional Court has 15 judges elected by the same two-thirds majority, and the constitution itself is amended by two-thirds of all MPs.",
+  "period": "Adopted 18 April 2011, in force since 1 January 2012, still in force",
+  "history": "Fidesz, holding a two-thirds majority after the 2010 election, passed the text 262 to 44 with the opposition boycotting; the Venice Commission (June 2011) objected to the speed, the lack of consultation and the number of cardinal laws that would 'bind future governments'. In 2011 the Court was enlarged from 11 to 15 judges and the nomination rule changed so the governing majority alone could fill seats; the judicial retirement age was cut from 70 to 62, removing about 274 judges, which the CJEU found unlawful on 6 November 2012. The Fourth Amendment (March 2013, 265 to 11) wrote previously annulled laws into the constitution and repealed all pre-2012 Court case law. By July 2026 the text had been amended 17 times; the European Parliament triggered Art. 7 TEU on 12 September 2018 and about 18 billion euros of EU funds remained frozen in late 2025.",
+  "assessment": {
+    "verdict": "critical",
+    "reasoning": "Every device here (supermajority laws, a large court, an amendable constitution) exists in healthy democracies; the failure is that all were calibrated to the majority one party happened to hold, so the constitution locks in that party's policy and neutralises the court meant to check it. Some Hungarian scholars defend the text as a legitimate expression of a democratic mandate; the Venice Commission, HRW and most comparative lawyers describe it as constitutional capture."
+  },
+  "lesson": "Never let the majority that writes or amends a constitution be the same majority that appoints the court and fixes the entrenched policies; require cross-party or supermajority consent that the drafters themselves cannot supply.",
+  "evidence": [
+    "https://www.constituteproject.org/constitution/Hungary_2016 (opened; Art. T(4), Art. 24(8) text)",
+    "https://docs-venice.coe.int/api/Document?pdffile=CDL-AD%282011%29016-e (opened, PDF of Venice Commission opinion CDL-AD(2011)016; the extraction misdated the adoption, the opinion was adopted at the 87th plenary, 17 to 18 June 2011 per the Venice Commission site)",
+    "https://www.hrw.org/report/2013/05/16/wrong-direction-rights/assessing-impact-hungarys-new-constitution-and-laws (opened; court enlargement, retirement age, CJEU ruling, Fourth Amendment)",
+    "https://en.wikipedia.org/wiki/Fundamental_Law_of_Hungary (opened; adoption vote, 17 amendments) and https://www.europarl.europa.eu/topics/en/article/20180222STO98434/breaches-of-eu-values-how-the-eu-can-act-infographic (opened; Art. 7 trigger 2018, frozen funds)"
+  ],
+  "adopted_in": [
+    "Article 9.3",
+    "Article 9.5"
+  ],
+  "status": "proposed",
+  "people": [
+    "Jakob Hirn"
+  ],
+  "agents": [
+    "claude-for-jakob"
+  ]
+}

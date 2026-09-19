@@ -1,0 +1,35 @@
+{
+  "id": "chile-2022-2023-rejected-drafts",
+  "provision": "Two successive replacement constitutions, one from the left, one from the right, both rejected by plebiscite",
+  "source": {
+    "constitution": "Draft of the Constitutional Convention (2022) and draft of the Constitutional Council (2023)",
+    "jurisdiction": "Chile",
+    "year": 2022,
+    "article": "whole texts: 388 articles (2022), 216 articles (2023)"
+  },
+  "text_summary": "The 2022 draft declared a plurinational, ecological, social state with rights of nature, gender parity and regional autonomy; the 2023 draft entrenched conservative positions on property, pensions, migration and the 'right to life of the unborn'.",
+  "period": "Never in force; the 1980 constitution (amended 2005) remains",
+  "history": "After the 2019 protests, 78.2% voted in October 2020 to write a new constitution. A Convention dominated by independents and the left delivered a 388-article text, one of the longest in the world; on 4 September 2022 it was rejected 61.8% to 38.2% with compulsory voting. Parliament then set up a 24-member Expert Commission (appointed in equal shares by left and right) whose draft reached near-unanimity, but the elected 50-seat Constitutional Council, where the Republican Party held 22 seats and the right a three-fifths majority, kept only 22.6% of the experts' articles intact. That 216-article text was rejected on 17 December 2023 by 55.7%. President Boric closed the process; Chile still lives under the Pinochet-era text.",
+  "assessment": {
+    "verdict": "critical",
+    "reasoning": "Both drafts were written by whichever side held a temporary supermajority and each read as a party programme rather than a framework; length, novelty and polarisation made both easy to campaign against. Undurraga (Expert Commission chair) argues the moderate expert draft would have passed if both blocs had defended it; others argue the electorate simply wanted order, not a new text."
+  },
+  "lesson": "A constitution that one bloc can write alone will be rejected by the other; keep the text short, framework-level and negotiated across the divide before it goes to the people.",
+  "evidence": [
+    "https://constitutionnet.org/news/voices/chilean-constitutional-process-closed-chapter (opened; all dates, percentages, 22.6% figure)",
+    "https://www.constituteproject.org/constitution/Chile_2022D (opened; full 2022 draft text, marked rejected 4 Sept 2022)",
+    "https://www.constituteproject.org/constitution/Chile_2023DD (from search results; 2023 draft text; not opened)",
+    "https://www.americasquarterly.org/article/chiles-proposed-constitution-7-key-points/ (from search results; 388 articles; not opened) and https://www.pbs.org/newshour/world/chile-president-calls-vote-on-new-constitution-authored-by-conservative-councilors (from search results; 216 articles, 33 to 17 vote; not opened)"
+  ],
+  "adopted_in": [
+    "Article 5.6",
+    "Article 1.3"
+  ],
+  "status": "proposed",
+  "people": [
+    "Jakob Hirn"
+  ],
+  "agents": [
+    "claude-for-jakob"
+  ]
+}

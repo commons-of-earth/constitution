@@ -1,0 +1,34 @@
+{
+  "id": "japan-article-9-renunciation-of-war",
+  "provision": "Renunciation of war and prohibition of armed forces",
+  "source": {
+    "constitution": "Constitution of Japan",
+    "jurisdiction": "Japan",
+    "year": "1946 (in force 3 May 1947)",
+    "article": "Art. 9; Art. 96 (amendment: two-thirds of each House plus referendum)"
+  },
+  "text_summary": "Art. 9(1): 'the Japanese people forever renounce war as a sovereign right of the nation and the threat or use of force as means of settling international disputes.' Art. 9(2): 'land, sea, and air forces, as well as other war potential, will never be maintained. The right of belligerency of the state will not be recognized.'",
+  "period": "1947 to present; never formally amended",
+  "history": "The National Police Reserve was created in 1950 and became the Self-Defense Forces in 1954. In Sunakawa (1959) the Supreme Court held that Art. 9 does not deny the inherent right of self-defence and treated the US-Japan security treaty as a political question beyond review; that remained the governing reading for fifty years. The Cabinet Legislation Bureau long held that collective self-defence was barred; on 1 July 2014 the Abe cabinet reinterpreted Art. 9 to allow limited collective self-defence, and the Diet enacted the security laws in September 2015 amid mass protests and legal-scholar opposition. In December 2022 Japan adopted a five-year, 43-trillion-yen build-up targeting 2% of GDP, ending the informal 1% ceiling in place since the 1970s. No government has attempted the Art. 96 amendment route.",
+  "assessment": {
+    "verdict": "mixed",
+    "reasoning": "Japan has fought no war since 1945 and the clause has real cultural weight, so on its own terms it worked. But the text now describes a state that does not exist: Japan has one of the world's largest militaries and the change was made by executive reinterpretation, not amendment, which many Japanese constitutional scholars call unconstitutional. Whether the clause restrained policy or merely relabelled it is contested."
+  },
+  "lesson": "Absolute prohibitions that a state cannot live with will be hollowed out by interpretation; write the real rule (defensive force only, with defined limits and parliamentary control) rather than an aspiration.",
+  "evidence": [
+    "https://www.constituteproject.org/constitution/Japan_1946 (opened)",
+    "https://stuff.coffeecode.net/www.loc.gov/law/help/japan-constitution/japan-constitution-article9.pdf (opened; Law Library of Congress report)",
+    "https://www.tokyofoundation.org/research/detail.php?id=536 (snippet; 2014 reinterpretation)",
+    "https://digitalcommons.law.uw.edu/cgi/viewcontent.cgi?article=1739&context=wilj (snippet; post-Sunakawa)"
+  ],
+  "adopted_in": [
+    "Article 3.5"
+  ],
+  "status": "proposed",
+  "people": [
+    "Jakob Hirn"
+  ],
+  "agents": [
+    "claude-for-jakob"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "india-directive-principles-basic-structure",
+  "provision": "Non-justiciable Directive Principles plus judicially enforced limits on amendment (basic structure)",
+  "source": {
+    "constitution": "Constitution of India",
+    "jurisdiction": "India",
+    "year": "1950",
+    "article": "Art. 36-51 (Directive Principles), Art. 37, Art. 368 (amendment); basic structure is case law, not text"
+  },
+  "text_summary": "Art. 37: 'The provisions contained in this Part shall not be enforceable by any court, but the principles therein laid down are nevertheless fundamental in the governance of the country and it shall be the duty of the State to apply these principles in making laws.' Kesavananda Bharati (1973) added, without any textual basis, that Parliament's Art. 368 power cannot destroy the constitution's 'basic structure'.",
+  "period": "1950 to present (still in force); basic structure since 24 April 1973",
+  "history": "Kesavananda Bharati v. State of Kerala was decided by 13 judges after 68 hearing days, 7:6, on 24 April 1973. Indira Gandhi's 42nd Amendment (1976, during the Emergency) tried to put Directive Principles above fundamental rights and to exclude judicial review of amendments; Minerva Mills (1980) struck those parts down. In 2015 the Court (4:1) voided the 99th Amendment creating a National Judicial Appointments Commission as a breach of judicial independence, a decision the government and later Vice-President Dhankhar attacked as unparalleled overreach. The Directive Principles have been delivered slowly and unevenly: Art. 45 promised free education within ten years of 1950, but it became an enforceable right only via Art. 21A (86th Amendment 2002) and the RTE Act 2009 (in force 1 April 2010); Art. 44 (uniform civil code) was first enacted by a single state, Uttarakhand, in force 27 January 2025, and remains politically divisive.",
+  "assessment": {
+    "verdict": "mixed",
+    "reasoning": "The basic structure doctrine has held against an emergency-era executive and against later parliaments, which is why it was copied in Bangladesh, Pakistan and elsewhere; critics note it rests on a one-vote majority and lets unelected judges define what is unamendable. Non-justiciable principles produced real law only decades later and only when converted into justiciable rights, which suggests they work as agenda, not as guarantee."
+  },
+  "lesson": "Write the unamendable core explicitly instead of leaving it to a court to invent, and make social goals either justiciable or time-bound with reporting duties; aspirational principles alone deliver little for decades.",
+  "evidence": [
+    "https://www.constituteproject.org/constitution/India_2016 (opened)",
+    "https://judgments.ecourts.gov.in/KBJ/?p=home%2Fintro (snippet; official Kesavananda portal)",
+    "https://www.scobserver.in/journal/why-did-the-sc-strike-down-the-njac-act-in-2015/ (snippet)",
+    "https://en.wikipedia.org/wiki/Eighty-sixth_Amendment_of_the_Constitution_of_India (snippet)"
+  ],
+  "adopted_in": [
+    "Article 4.1",
+    "Article 3.1"
+  ],
+  "status": "proposed",
+  "people": [
+    "Jakob Hirn"
+  ],
+  "agents": [
+    "claude-for-jakob"
+  ]
+}

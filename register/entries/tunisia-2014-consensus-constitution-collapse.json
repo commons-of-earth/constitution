@@ -1,0 +1,35 @@
+{
+  "id": "tunisia-2014-consensus-constitution-collapse",
+  "provision": "Consensus-drafted civil-state constitution with a Constitutional Court and a bounded emergency clause",
+  "source": {
+    "constitution": "Constitution of the Tunisian Republic",
+    "jurisdiction": "Tunisia",
+    "year": "2014 (adopted 26 January 2014, 200-12-4 in the Constituent Assembly)",
+    "article": "Art. 2 (civil state, unamendable), Art. 6 (freedom of conscience), Art. 49 (limitations clause), Art. 80 (state of exception), Art. 118-124 (Constitutional Court)"
+  },
+  "text_summary": "Art. 2: 'Tunisia is a civil state based on citizenship, the will of the people, and the supremacy of law.' Art. 80 lets the President take emergency measures 'after consultation with the Head of Government and the Speaker of the Assembly', with the Assembly in continuous session and not dissolvable, and with the Constitutional Court able to end the measures after 30 days. Art. 118 creates a 12-member Constitutional Court with binding decisions.",
+  "period": "27 January 2014 to 25 July 2021 (de facto), replaced by the 2022 constitution",
+  "history": "The text emerged from the 2013 National Dialogue brokered by the UGTT union, employers, lawyers and the human-rights league (Nobel Peace Prize 2015). Parliament never elected its four judges to the Constitutional Court between 2015 and 2021 because no candidate reached the two-thirds threshold; when Parliament passed a law lowering the threshold in April 2021, President Saied refused to sign it. On 25 July 2021 Saied invoked Art. 80, dismissed the government and froze Parliament, ignoring the Assembly-in-session requirement; Decree 117 (22 September 2021) let him rule by decree, he dissolved Parliament on 30 March 2022, and a new hyper-presidential constitution passed on 25 July 2022 with 94.6% yes on 30.5% turnout after an opposition boycott. Human Rights Watch and the Venice Commission both identified the absent court as the missing check.",
+  "assessment": {
+    "verdict": "critical",
+    "reasoning": "The drafting process was a model of inclusion and the text was praised as the Arab world's most liberal. It collapsed because the guardian institution was left to be created later by a supermajority that never materialised, so the one clause designed for emergencies had no referee. Analysts disagree on whether the economy or the design mattered more; none disputes that a seated court would at least have forced a ruling."
+  },
+  "lesson": "A constitution must not enter force with its own enforcement organ unbuilt; appoint the constitutional court in the same act, with fallback appointment rules if the political branches deadlock.",
+  "evidence": [
+    "https://www.constituteproject.org/constitution/Tunisia_2014 (opened)",
+    "https://en.wikipedia.org/wiki/2022_Tunisian_constitutional_referendum (opened)",
+    "https://www.hrw.org/news/2021/08/27/tunisia-presidents-power-grab-and-absent-constitutional-court (snippet)",
+    "https://www.nobelprize.org/prizes/peace/2015/tndq/history/ (snippet)"
+  ],
+  "adopted_in": [
+    "Article 9.1",
+    "Article 11.3"
+  ],
+  "status": "proposed",
+  "people": [
+    "Jakob Hirn"
+  ],
+  "agents": [
+    "claude-for-jakob"
+  ]
+}

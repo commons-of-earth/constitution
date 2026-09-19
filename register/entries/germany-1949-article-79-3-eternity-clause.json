@@ -1,0 +1,35 @@
+{
+  "id": "germany-1949-article-79-3-eternity-clause",
+  "provision": "Eternity clause protecting human dignity (Art. 1) and the democratic, social, federal, rule-of-law state (Art. 20), plus an explicit constitutional court",
+  "source": {
+    "constitution": "Basic Law for the Federal Republic of Germany",
+    "jurisdiction": "Germany",
+    "year": 1949,
+    "article": "Articles 1, 20, 79(3), 93, 94"
+  },
+  "text_summary": "Amendments touching the federal structure or 'the principles laid down in Articles 1 and 20' are inadmissible. Art. 1(1): 'Human dignity shall be inviolable. To respect and protect it shall be the duty of all state authority.'",
+  "period": "23 May 1949 to present, still in force",
+  "history": "Written by the Parliamentary Council as a direct answer to 1933, the Basic Law was meant as provisional and has outlived every expectation. It has been amended roughly 70 times (the 69th amending law came in March 2025 for the defence and infrastructure debt rule), each with two-thirds of Bundestag and Bundesrat, while the Art. 79(3) core has never been touched. The Federal Constitutional Court, created in the text and operating since 1951, has struck down statutes from the 1952 party ban cases to the 2021 climate ruling and the 2024 electoral law ruling. In December 2024 the Bundestag (600 of 733 votes) entrenched the Court's structure, 12-year terms and the binding force of its decisions in Arts. 93 and 94, explicitly citing Poland and Hungary.",
+  "assessment": {
+    "verdict": "worked",
+    "reasoning": "A short list of unamendable principles, an active court and a workable amendment threshold have produced 76 years of stability with continuous adaptation. The remaining weakness identified in 2024 is that the two-thirds rule for electing judges still sits in ordinary law; and critics note eternity clauses only bind as long as a court and a political culture defend them."
+  },
+  "lesson": "Entrench a small core (dignity, democracy, rule of law, the court that defends them) permanently, and keep everything else amendable by a broad but reachable supermajority.",
+  "evidence": [
+    "https://www.constituteproject.org/constitution/German_Federal_Republic_2014 (opened; Art. 1, 20, 79(3) text)",
+    "https://www.gesetze-im-internet.de/englisch_gg/englisch_gg.html (opened; official translation, last amendment March 2025)",
+    "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1501131 (from search results; Tschentscher edition counting the 69th amendment of March 2025; not opened, 403)",
+    "https://blog.bham.ac.uk/lawresearch/2025/01/strengthening-the-resilience-of-the-german-federal-constitutional-court/ (opened; December 2024 entrenchment, vote 600 of 733)"
+  ],
+  "adopted_in": [
+    "Article 4.1",
+    "Article 3.1"
+  ],
+  "status": "proposed",
+  "people": [
+    "Jakob Hirn"
+  ],
+  "agents": [
+    "claude-for-jakob"
+  ]
+}

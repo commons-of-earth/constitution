@@ -1,0 +1,33 @@
+{
+  "id": "us-1803-judicial-review-marbury",
+  "provision": "Judicial review of legislation (not in the text; established by Marbury v. Madison)",
+  "source": {
+    "constitution": "Constitution of the United States",
+    "jurisdiction": "United States",
+    "year": 1803,
+    "article": "Article III (implied); Marbury v. Madison, 5 U.S. 137"
+  },
+  "text_summary": "The constitution names a Supreme Court and makes the constitution supreme law but never says courts may strike down statutes. Marshall inferred the power in 1803: 'It is emphatically the province and duty of the judicial department to say what the law is.'",
+  "period": "1803 to present, still in force as precedent",
+  "history": "On 24 February 1803 the Court held section 13 of the Judiciary Act 1789 unconstitutional, in a case engineered so that the losing party (Jefferson's administration) had nothing to enforce against. No further federal statute was struck until 1857 (Dred Scott). The power was contested through the nineteenth century and again in 1937 (Roosevelt's court-packing plan), but survived and was copied worldwide after 1945: Germany, Italy, India, later South Africa and most new democracies wrote it into their texts explicitly rather than leaving it to inference.",
+  "assessment": {
+    "verdict": "worked",
+    "reasoning": "An unwritten power became the most exported constitutional institution of the twentieth century and is the main reason rights clauses have teeth. The cost is the 'countermajoritarian difficulty': unelected judges deciding contested questions (Heller, Bruen, Dobbs), and scholars such as Waldron argue strong-form review is illegitimate in functioning democracies, while Germany's and South Africa's records argue the other way."
+  },
+  "lesson": "Write judicial review into the text explicitly, with a defined court, clear jurisdiction and an amendment path, instead of leaving it to be inferred by the court itself.",
+  "evidence": [
+    "https://www.archives.gov/milestone-documents/marbury-v-madison (opened; date, holding, quote, 'power not explicitly mentioned', next strike 1857)",
+    "https://www.constituteproject.org/constitution/United_States_of_America_1992 (opened; Article III text)",
+    "https://www.constituteproject.org/constitution/German_Federal_Republic_2014 (opened; contrast, explicit Federal Constitutional Court in Art. 93/94)"
+  ],
+  "adopted_in": [
+    "Article 5.6"
+  ],
+  "status": "proposed",
+  "people": [
+    "Jakob Hirn"
+  ],
+  "agents": [
+    "claude-for-jakob"
+  ]
+}

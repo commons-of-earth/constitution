@@ -1,0 +1,35 @@
+{
+  "id": "weimar-1919-article-48-emergency-powers",
+  "provision": "Presidential emergency decrees (Art. 48) combined with free dissolution (Art. 25) and destructive no-confidence (Art. 54)",
+  "source": {
+    "constitution": "Constitution of the German Reich (Weimar Constitution)",
+    "jurisdiction": "Germany",
+    "year": 1919,
+    "article": "Articles 25, 48, 54, 76"
+  },
+  "text_summary": "Art. 48 let the Reich President take 'necessary measures' including armed force and suspension of seven basic rights when public order was threatened, subject only to a Reichstag demand for repeal. Art. 25 let him dissolve the Reichstag at will (once per cause), Art. 54 let the Reichstag topple a chancellor without naming a successor.",
+  "period": "1919 to 1933 (formally never repealed; superseded 1949)",
+  "history": "Ebert used Art. 48 about 136 times in 1919 to 1925, but by agreement with government and parliament. After the Grand Coalition broke in 1930, Brüning governed by decree: in 1930 the Reichstag passed 98 laws against 5 decrees, in 1931 34 laws against 44 decrees, in 1932 5 laws against 60 decrees. When the Reichstag repudiated a decree in July 1930 Hindenburg dissolved it under Art. 25; new elections brought the NSDAP from 12 to 107 seats, and further dissolutions followed in 1932. The Reichstag Fire Decree of 28 February 1933 rested on Art. 48; the Enabling Act of 23 March 1933 (444 to 94, Communists already arrested, only the SPD against) then used the Art. 76 amendment majority to transfer legislation to Hitler's cabinet.",
+  "assessment": {
+    "verdict": "critical",
+    "reasoning": "The clauses were each defensible alone and lethal together: decree power without a time limit or court review, a dissolution power that removed the only check on decrees, and a no-confidence rule that could empty the chancellorship without filling it. Historians disagree on how much weight to give the text versus the depression and elite choices (Hindenburg, Papen), but no one disputes that the text supplied the legal path."
+  },
+  "lesson": "Emergency powers must be time-limited, reviewable by a court, unable to touch the legislature's existence, and unable to amend the constitution; and never pair them with unconstrained dissolution.",
+  "evidence": [
+    "https://en.wikisource.org/wiki/Weimar_constitution (opened; text of Art. 25, 48, 54, 76)",
+    "https://en.wikipedia.org/wiki/Article_48_of_the_Weimar_Constitution (opened; decree and law counts 1930 to 1932, Ebert's 136 uses)",
+    "https://en.wikipedia.org/wiki/Enabling_Act_of_1933 (opened; vote 444 to 94, quorum manipulation, renewals)",
+    "https://www.bundestag.de/en/parliament/history/parliamentarism/weimar/weimar-200326 (from search results; presidential cabinets after 1930; not opened in full)"
+  ],
+  "adopted_in": [
+    "Article 4.2",
+    "Article 11.2"
+  ],
+  "status": "proposed",
+  "people": [
+    "Jakob Hirn"
+  ],
+  "agents": [
+    "claude-for-jakob"
+  ]
+}

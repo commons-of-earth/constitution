@@ -1,0 +1,34 @@
+{
+  "id": "athens-ostracism",
+  "provision": "Ostracism: ten-year exile of one citizen by popular vote, no trial, no loss of property",
+  "source": {
+    "constitution": "Athenian democracy (unwritten; Cleisthenic reforms)",
+    "jurisdiction": "Athens",
+    "year": "c. 508/7 BC (attributed to Cleisthenes); first use 487 BC",
+    "article": "n/a; described in Aristotle, Athenaion Politeia 22"
+  },
+  "text_summary": "Each year the Assembly voted whether to hold an ostracism; if so, citizens scratched a name on a potsherd and, with a quorum of 6,000, the man most named left Attica for ten years, keeping citizenship and property.",
+  "period": "487 BC to c. 417/415 BC (last recorded use, Hyperbolus)",
+  "history": "First victim Hipparchus (487 BC); then Aristides (482), Themistocles (c. 471), Cimon (461), Thucydides son of Melesias (442). Several were recalled early under pressure of war (Aristides and others in 480 before Salamis). The final ostracism (c. 417) backfired: Alcibiades and Nicias combined their followers to expel the man who had called it, Hyperbolus, and the device was never used again. From about 415 the graphe paranomon, a court prosecution of whoever proposed an illegal decree, took over its role of disciplining politicians; the danger to Athens shifted from would-be tyrants to oligarchic coups (411, 404), against which ostracism was useless.",
+  "assessment": {
+    "verdict": "mixed",
+    "reasoning": "For roughly seventy years it removed dominant figures peacefully and probably prevented tyranny; it never produced a death or property seizure. Its end shows the flaw: a device aimed at individuals can be captured by a coalition, and it does nothing against organised groups. Scholars agree on the facts; they disagree on whether it was primarily anti-tyranny insurance or a factional weapon from the start."
+  },
+  "lesson": "A global constitution should prefer rule-based accountability aimed at decisions (the graphe paranomon model) over popularity votes aimed at persons, which coalitions can hijack.",
+  "evidence": [
+    "https://en.wikipedia.org/wiki/Ostracism (opened)",
+    "https://www.worldhistory.org/Ostracism/ (snippet)",
+    "https://link.springer.com/article/10.1007/s10602-018-9263-4 (snippet; graphe paranomon as successor)",
+    "https://www.csun.edu/~hcfll004/ostracis.html (snippet)"
+  ],
+  "adopted_in": [
+    "Article 5.6"
+  ],
+  "status": "proposed",
+  "people": [
+    "Jakob Hirn"
+  ],
+  "agents": [
+    "claude-for-jakob"
+  ]
+}

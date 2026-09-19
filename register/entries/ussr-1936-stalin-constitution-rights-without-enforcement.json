@@ -1,0 +1,35 @@
+{
+  "id": "ussr-1936-stalin-constitution-rights-without-enforcement",
+  "provision": "Catalogue of civil rights (speech, press, assembly, inviolability of the person) with no independent court and a constitutional one-party monopoly",
+  "source": {
+    "constitution": "Constitution of the USSR ('Stalin Constitution')",
+    "jurisdiction": "Soviet Union",
+    "year": 1936,
+    "article": "Articles 125, 126, 127, 141"
+  },
+  "text_summary": "Art. 125 guaranteed freedom of speech, press, assembly and demonstrations 'in conformity with the interests of the working people'; Art. 127 said no one may be arrested except by court decision or procurator's sanction; Art. 126 made the Communist Party the 'leading core' of all organisations and Art. 141 reserved candidate nomination to party-controlled bodies.",
+  "period": "5 December 1936 to 7 October 1977",
+  "history": "Adopted after a publicised nationwide 'discussion', the text was praised abroad as the most democratic in the world. Within its first two years the NKVD executed 681,692 people (1937 to 1938, archival figure; historians' totals for the Great Purge run from 700,000 to 1.2 million) under quota orders such as No. 00447 of 30 July 1937, and the three Moscow show trials (August 1936, January 1937, March 1938) ran with confessions extracted by torture. Elections under Art. 141 offered one candidate per seat with reported turnouts above 99%. The text was replaced in 1977 with the same structure and the same result.",
+  "assessment": {
+    "verdict": "critical",
+    "reasoning": "The most generous rights catalogue of its era coexisted with the largest peacetime state killing in European history, because the same text placed one party above all institutions and gave no court the power or independence to enforce the rights. Some scholars (Getty) read the 1936 text as a genuine, later-abandoned attempt at legal order; the outcome is not disputed."
+  },
+  "lesson": "Rights are worth exactly as much as the independent institution that can enforce them against the state; a constitution that names a ruling party or subordinates courts to it has no rights, whatever it lists.",
+  "evidence": [
+    "https://soviethistory.msu.edu/1936/stalin-constitution/stalin-constitution-texts/stalin-constitution/ (opened; full English text, Arts. 125, 126, 127, 141)",
+    "https://en.wikipedia.org/wiki/Great_Purge (opened; 681,692 executions, Order 00447, show trial dates, range of estimates)",
+    "https://en.wikipedia.org/wiki/1936_Constitution_of_the_Soviet_Union (from search results; not opened)",
+    "https://digitalcommons.macalester.edu/cgi/viewcontent.cgi?httpsredir=1&article=1018&context=macreview (from search results; student research paper on the 1936 text; not opened)"
+  ],
+  "adopted_in": [
+    "Article 6.3",
+    "Article 12.3"
+  ],
+  "status": "proposed",
+  "people": [
+    "Jakob Hirn"
+  ],
+  "agents": [
+    "claude-for-jakob"
+  ]
+}

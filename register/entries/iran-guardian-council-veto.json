@@ -1,0 +1,35 @@
+{
+  "id": "iran-guardian-council-veto",
+  "provision": "Clerical-jurist council with veto over legislation, constitutional interpretation and candidate approval",
+  "source": {
+    "constitution": "Constitution of the Islamic Republic of Iran",
+    "jurisdiction": "Iran",
+    "year": "1979 (revised 1989)",
+    "article": "Art. 4, 91, 94, 96, 98, 99"
+  },
+  "text_summary": "Art. 91 creates a 12-member Guardian Council: six Islamic jurists chosen by the Supreme Leader and six lawyers elected by Parliament from nominees of the judiciary head. Art. 94: 'All legislation passed by the Islamic Consultative Assembly must be sent to the Guardian Council' for review against 'the criteria of Islam and the Constitution'; Art. 96 gives the six clerics alone the vote on Islamic conformity; Art. 98 gives the Council constitutional interpretation; Art. 99 gives it 'supervising' of all elections and referenda.",
+  "period": "1979 to present (still in force)",
+  "history": "In 1991 the Council interpreted Art. 99's 'supervision' as 'approbatory' (estesvabi), giving itself power to vet every candidate; that reading was codified in the 1995 election law. For the 2004 parliamentary election it disqualified about 2,500 candidates including 80 sitting MPs; for the 2021 presidential election it approved 7 of over 600 applicants, excluding Ali Larijani, Eshaq Jahangiri and Mahmoud Ahmadinejad, and Ebrahim Raisi won with turnout of 48.5% and a record 13.4% blank or invalid ballots. For the March 2024 parliamentary election, after a July 2023 law let it also disqualify winners after the vote, it barred most reformists and former President Rouhani from the Assembly of Experts; turnout was a record low of about 41%. Its legislative vetoes have repeatedly blocked bills on women's rights, press freedom and reform, forcing the creation of the Expediency Council (1988) just to break deadlocks.",
+  "assessment": {
+    "verdict": "critical",
+    "reasoning": "The Council works exactly as designed: it keeps every elected organ subordinate to an unelected one. The cost is visible in the decline of participation from over 70% to about 40% and in the elimination of intra-system reform. There is no serious scholarly disagreement that it is the central anti-democratic device of the system; the disagreement is only over whether the 1979 drafters intended the candidate-vetting power."
+  },
+  "lesson": "Never combine legislative veto, constitutional interpretation and candidate approval in one unelected body; each function must sit in a different institution with a different appointment source.",
+  "evidence": [
+    "https://www.constituteproject.org/constitution/Iran_1989 (opened)",
+    "https://en.wikipedia.org/wiki/2021_Iranian_presidential_election (opened)",
+    "https://www.crisisgroup.org/cmt/middle-east-north-africa/gulf-and-arabian-peninsula/iran/closing-circles-irans-exclusionary-2024 (snippet)",
+    "https://iranprimer.usip.org/blog/2024/mar/05/election-results-hardliners-gain-turnout-low (snippet)"
+  ],
+  "adopted_in": [
+    "Article 2.5",
+    "Article 9.4"
+  ],
+  "status": "proposed",
+  "people": [
+    "Jakob Hirn"
+  ],
+  "agents": [
+    "claude-for-jakob"
+  ]
+}

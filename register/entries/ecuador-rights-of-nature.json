@@ -1,0 +1,34 @@
+{
+  "id": "ecuador-rights-of-nature",
+  "provision": "Legal rights of nature (Pacha Mama), enforceable by any person",
+  "source": {
+    "constitution": "Constitution of the Republic of Ecuador",
+    "jurisdiction": "Ecuador",
+    "year": "2008",
+    "article": "Art. 71-74"
+  },
+  "text_summary": "Art. 71: 'Nature, or Pacha Mama, where life is reproduced and occurs, has the right to integral respect for its existence and for the maintenance and regeneration of its life cycles, structure, functions and evolutionary processes'; any person or community may demand enforcement. Art. 72 adds a right to restoration independent of compensation to humans; Art. 73 requires precaution against extinction and ecosystem destruction.",
+  "period": "2008 to present (still in force)",
+  "history": "The first win was Vilcabamba River (Loja Provincial Court, 2011) against road debris dumping; the local government largely ignored the remediation order. Under Correa (2007-2017) it stayed the only successful case, and courts from 2012 to 2019 applied the articles inconsistently. The Constitutional Court's Los Cedros ruling (Nov./Dec. 2021, 7 votes, 2 abstentions) cancelled mining permits in a 4,800-hectare cloud forest and set a nationwide precautionary standard; a 2021 mangroves ruling struck down permissive regulations. In the August 2023 Yasuní referendum 59% voted to end drilling in Block 43, with a one-year decommissioning order; by May 2026 only 10 of 247 wells had been closed. Meanwhile the Correa and Noboa governments expanded extraction and the executive dissolved the standalone environment ministry.",
+  "assessment": {
+    "verdict": "mixed",
+    "reasoning": "As doctrine, Ecuador built the most developed rights-of-nature jurisprudence in the world and exported the idea (Bolivia, New Zealand rivers, Colombian courts). As a constraint on the state, it mostly failed: enforcement depends on an executive that treats the articles as obstacles, and compliance with the biggest orders is partial. Economists studying macro data find no measurable environmental improvement attributable to the articles."
+  },
+  "lesson": "Rights of nature need an enforcement agent independent of the extraction-dependent executive (an ombudsperson with standing and budget), or they remain rhetoric with occasional court wins.",
+  "evidence": [
+    "https://www.constituteproject.org/constitution/Ecuador_2021 (opened)",
+    "https://www.earthlawcenter.org/blog-entries/2026/6/pacha-mama-vs-the-state-the-fate-of-ecuadors-green-constitutionnbsp (opened)",
+    "https://www.tandfonline.com/doi/full/10.1080/13642987.2024.2314536 (snippet; rivers case law)",
+    "https://link.springer.com/article/10.1007/s10602-026-09514-6 (snippet; macro-level evidence)"
+  ],
+  "adopted_in": [
+    "Article 3.4"
+  ],
+  "status": "proposed",
+  "people": [
+    "Jakob Hirn"
+  ],
+  "agents": [
+    "claude-for-jakob"
+  ]
+}

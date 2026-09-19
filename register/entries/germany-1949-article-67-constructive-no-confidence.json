@@ -1,0 +1,34 @@
+{
+  "id": "germany-1949-article-67-constructive-no-confidence",
+  "provision": "Constructive vote of no confidence (with the 5% electoral threshold as its companion in ordinary law)",
+  "source": {
+    "constitution": "Basic Law for the Federal Republic of Germany",
+    "jurisdiction": "Germany",
+    "year": 1949,
+    "article": "Article 67 (and Art. 68); Federal Elections Act §6 for the threshold"
+  },
+  "text_summary": "The Bundestag may withdraw confidence from the Chancellor only by electing a successor with an absolute majority. Parliament cannot create a vacuum; it can only replace.",
+  "period": "1949 to present, still in force",
+  "history": "The clause reverses Weimar's Art. 54. It has been tried twice: on 27 April 1972 Rainer Barzel got 247 votes against Willy Brandt, two short of the 249 needed; on 1 October 1982 Helmut Kohl replaced Helmut Schmidt with 256 votes. No German government has ever fallen without a successor already in place, and the average chancellorship has run over eight years. Spain (1978), Hungary (1989), Poland (1997), Belgium, Slovenia and Israel (2001) copied the mechanism. The companion 5% threshold, upheld by the Constitutional Court since 1952, kept parliament to two to six parties; the Court ruled on 30 July 2024 that the 2023 electoral reform's threshold without a basic-mandate exception violated equality, and in February 2025 the BSW missed entry at 4.98%.",
+  "assessment": {
+    "verdict": "worked",
+    "reasoning": "Two attempts in 76 years and unbroken executive continuity is the intended result. The trade-off is that a chancellor who has lost a majority but faces a divided opposition can linger (Schmidt 1982, Scholz late 2024 used the Art. 68 route to force an election instead), and the threshold excludes several million votes at each election; scholars debate whether 5% is still proportionate in a seven-party landscape."
+  },
+  "lesson": "Let parliament remove a government only by electing its replacement, and pair that with an electoral rule that keeps coalitions formable.",
+  "evidence": [
+    "https://www.constituteproject.org/constitution/German_Federal_Republic_2014 (opened; Art. 67 text)",
+    "https://en.wikipedia.org/wiki/Constructive_vote_of_no_confidence (opened; 1972 and 1982 votes, adopting countries)",
+    "https://de.wikipedia.org/wiki/F%C3%BCnf-Prozent-H%C3%BCrde_in_Deutschland (from search results; 1952 ruling, 2024 ruling, BSW 2025; not opened)",
+    "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/05/es20250512_2bve000625.html (from search results; not opened)"
+  ],
+  "adopted_in": [
+    "Article 9.3"
+  ],
+  "status": "proposed",
+  "people": [
+    "Jakob Hirn"
+  ],
+  "agents": [
+    "claude-for-jakob"
+  ]
+}

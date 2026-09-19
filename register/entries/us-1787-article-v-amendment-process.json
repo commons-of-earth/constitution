@@ -1,0 +1,35 @@
+{
+  "id": "us-1787-article-v-amendment-process",
+  "provision": "Article V amendment procedure (with the Electoral College as the test case of rigidity)",
+  "source": {
+    "constitution": "Constitution of the United States",
+    "jurisdiction": "United States",
+    "year": 1787,
+    "article": "Article V; Article II §1 (electors)"
+  },
+  "text_summary": "Amendments need two-thirds of both houses of Congress (or a convention called by two-thirds of the states) and ratification by three-quarters of the states. Article V also entrenches equal state representation in the Senate against amendment without a state's consent.",
+  "period": "1789 to present, still in force",
+  "history": "About 11,985 amendment measures were introduced in Congress between 1789 and January 2025; Congress approved 33 and the states ratified 27. The convention route has never been used. The last substantive amendment (26th, voting age 18) dates from 1971; the 27th (1992) was a leftover proposed in 1789. The Electoral College shows the cost of rigidity: five presidents took office after losing the popular vote (1824, 1876, 1888, 2000, 2016), the Bayh-Celler abolition amendment cleared the House in 1969 but died in the Senate (not verified in an opened source), and reform has since moved to a workaround, the National Popular Vote Interstate Compact, which by September 2026 covered 18 states plus DC with 222 of the 270 electoral votes needed.",
+  "assessment": {
+    "verdict": "mixed",
+    "reasoning": "The procedure gave the text 235 years of continuity and blocked bad ideas as well as good ones. But a bar this high leaves widely recognised defects (Electoral College, Senate malapportionment) unamendable in practice and pushes change into judicial interpretation and interstate workarounds. Scholars disagree whether that rigidity is a feature (stability) or the main reason the US text now looks archaic; Elkins, Ginsburg and Melton count flexibility as a survival factor, Levinson calls Article V the constitution's central flaw."
+  },
+  "lesson": "Set the amendment bar high enough to prevent capture but low enough that a broad supermajority can actually fix known defects, and never let a procedural rule make one clause permanently untouchable except for core rights.",
+  "evidence": [
+    "https://www.constituteproject.org/constitution/United_States_of_America_1992 (opened; Article V and Article II text)",
+    "https://www.archives.gov/federal-register/constitution (opened; 27 amendments, convention route never used, 27th Amendment certified 18 May 1992)",
+    "https://www.senate.gov/legislative/MeasuresProposedToAmendTheConstitution.htm (not opened, 403; 11,985 proposals figure taken from search summary of this page)",
+    "https://en.wikipedia.org/wiki/List_of_United_States_presidential_elections_in_which_the_winner_lost_the_popular_vote (opened; five elections, margins)"
+  ],
+  "adopted_in": [
+    "Article 4.1",
+    "Article 10.1"
+  ],
+  "status": "proposed",
+  "people": [
+    "Jakob Hirn"
+  ],
+  "agents": [
+    "claude-for-jakob"
+  ]
+}

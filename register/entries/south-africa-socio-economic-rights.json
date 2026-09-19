@@ -1,0 +1,34 @@
+{
+  "id": "south-africa-socio-economic-rights",
+  "provision": "Justiciable socio-economic rights subject to 'reasonable measures within available resources'",
+  "source": {
+    "constitution": "Constitution of the Republic of South Africa",
+    "jurisdiction": "South Africa",
+    "year": "1996 (in force 4 February 1997)",
+    "article": "s. 26 (housing), s. 27 (health, food, water, social security), s. 7(2), s. 167 (Constitutional Court)"
+  },
+  "text_summary": "s. 26(1)-(2): 'Everyone has the right to have access to adequate housing. The state must take reasonable legislative and other measures, within its available resources, to achieve the progressive realisation of this right.' s. 27 uses the same formula for health care, food, water and social security, and adds: 'No one may be refused emergency medical treatment.'",
+  "period": "1997 to present (still in force)",
+  "history": "In Grootboom (4 October 2000) the Constitutional Court held that a housing programme that made no provision for people in desperate need was unreasonable and ordered the state to devise and fund such relief; it refused to recognise a minimum core individual entitlement. In Treatment Action Campaign (2002) the same reasonableness test forced the government to roll out nevirapine against mother-to-child HIV transmission nationwide, a decision that saved many lives. Irene Grootboom herself died in August 2008, in her forties, still in a shack in Wallacedene; the order in her case was never implemented for her community. Later cases (Mazibuko 2009 on water) confirmed that the Court reviews policy reasonableness but will not set quantities.",
+  "assessment": {
+    "verdict": "mixed",
+    "reasoning": "The provisions proved that social rights can be adjudicated without courts running budgets, and TAC shows the model can change national policy. Grootboom shows its limit: a systemic order with no individual remedy and no supervision left the winning litigant without a house. Scholars (Liebenberg, Bilchitz) split on whether a minimum-core standard would have done better."
+  },
+  "lesson": "Copy the justiciable-with-reasonableness formula, but add supervisory jurisdiction and reporting duties so that systemic orders reach the people who won them.",
+  "evidence": [
+    "https://www.constituteproject.org/constitution/South_Africa_2012 (opened)",
+    "https://www.saflii.org/za/cases/ZACC/2000/19.html (snippet; judgment)",
+    "https://mg.co.za/article/2008-08-08-grootboom-dies-homeless-and-penniless/ (snippet)",
+    "https://blog-iacl-aidc.org/new-blog-3/2022/6/7/the-international-impact-of-government-of-the-republic-of-south-africa-v-grootboom-rwblg (snippet)"
+  ],
+  "adopted_in": [
+    "Article 7.5"
+  ],
+  "status": "proposed",
+  "people": [
+    "Jakob Hirn"
+  ],
+  "agents": [
+    "claude-for-jakob"
+  ]
+}

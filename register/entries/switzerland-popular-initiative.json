@@ -1,0 +1,35 @@
+{
+  "id": "switzerland-popular-initiative",
+  "provision": "Popular initiative to amend the Federal Constitution (with the minaret ban as a critical case)",
+  "source": {
+    "constitution": "Federal Constitution of the Swiss Confederation",
+    "jurisdiction": "Switzerland",
+    "year": "1891 (partial-revision initiative); current text 1999, Art. 139",
+    "article": "Art. 139; Art. 72(3) (result of 2009 initiative)"
+  },
+  "text_summary": "Art. 139(1): 'Any 100,000 persons eligible to vote may within 18 months of the official publication of their initiative request a partial revision of the Federal Constitution.' Art. 139(3): an initiative that breaches 'mandatory provisions of international law' is declared invalid; otherwise it goes to the people and cantons unchanged. Art. 72(3), inserted 2009: 'The construction of minarets is prohibited.'",
+  "period": "1891 to present (still in force)",
+  "history": "Federal Chancellery figures as of April 2025: 539 initiatives launched since 1891, 235 put to a vote, 26 accepted by people and cantons; a further 108 were withdrawn, often because Parliament passed a counter-proposal. On 29 November 2009 the initiative 'against the building of minarets' (113,540 signatures) passed with 57.5% and a majority of cantons; Parliament had recommended rejection but held it valid because only jus cogens counts as 'mandatory international law'. The UN High Commissioner for Human Rights called the ban 'clearly discriminatory'; on 28 June 2011 the European Court of Human Rights declared the applications Ouardiri v. Switzerland and Ligue des musulmans de Suisse v. Switzerland inadmissible for lack of victim status, so the clause stands. Later initiatives with the same tension followed: deportation of foreign criminals (2010) and mass-immigration limits (2014), which Parliament implemented only partially to preserve EU treaties.",
+  "assessment": {
+    "verdict": "mixed",
+    "reasoning": "The instrument is the world's longest-running proof that citizens can amend a constitution directly without instability; the low acceptance rate and the counter-proposal mechanism act as filters. The 2009 case shows the weak point: only jus cogens invalidates an initiative, so a majority can write a discriminatory clause into the constitution and no domestic court can strike it. Swiss scholars are divided on whether a broader validity test would cure this or merely move the fight to the reviewing body."
+  },
+  "lesson": "Copy the initiative with a withdrawal/counter-proposal path, but give an independent body power to test initiatives against the full rights catalogue before the vote, not just jus cogens.",
+  "evidence": [
+    "https://www.constituteproject.org/constitution/Switzerland_2014 (opened)",
+    "https://en.wikipedia.org/wiki/Federal_popular_initiative (snippet; Chancellery statistics)",
+    "https://www.jurist.org/news/2011/07/europe-rights-court-rejects-appeals-against-switzerland-minaret-ban/ (snippet)",
+    "https://www.ohchr.org/en/press-releases/2009/12/swiss-law-banning-minarets-clearly-discriminatory-un-human-rights-chief (snippet)"
+  ],
+  "adopted_in": [
+    "Article 5.2",
+    "Article 5.5"
+  ],
+  "status": "proposed",
+  "people": [
+    "Jakob Hirn"
+  ],
+  "agents": [
+    "claude-for-jakob"
+  ]
+}

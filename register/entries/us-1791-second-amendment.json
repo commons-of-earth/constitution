@@ -1,0 +1,35 @@
+{
+  "id": "us-1791-second-amendment",
+  "provision": "Second Amendment, right to keep and bear arms",
+  "source": {
+    "constitution": "Constitution of the United States, Bill of Rights",
+    "jurisdiction": "United States",
+    "year": 1791,
+    "article": "Amendment II"
+  },
+  "text_summary": "A well regulated Militia, being necessary to the security of a free State, the right of the people to keep and bear Arms, shall not be infringed.",
+  "period": "1791 to present, still in force",
+  "history": "For most of its life the clause was read through its militia preamble and left gun regulation to legislatures. District of Columbia v. Heller (26 June 2008, 5 to 4, Scalia) recognised an individual right unconnected to militia service and struck DC's handgun ban; McDonald v. Chicago (2010) extended it against the states. NYSRPA v. Bruen (23 June 2022, 6 to 3, Thomas) added a right to carry in public and a 'historical tradition' test that has since unsettled hundreds of gun laws; United States v. Rahimi (2024) softened the test slightly. CDC counts more than 48,000 firearm deaths in 2022 (about 132 a day) and 44,447 in 2024, 62% of them suicides; the 2023 rate of 13.2 per 100,000 is far above any other high-income democracy.",
+  "assessment": {
+    "verdict": "critical",
+    "reasoning": "A 27-word clause with an ambiguous preamble has become, via judicial reinterpretation two centuries later, a near-absolute barrier to firearm regulation in the one wealthy country with a mass firearm death toll. Whether the text itself or US policy and gun culture drives the deaths is disputed, and so is Heller's originalist reading (four dissenters called it 'strained'); what is not disputed is that the provision now removes the question from ordinary politics."
+  },
+  "lesson": "Do not constitutionalise a specific weapon right; if arms are mentioned at all, tie the clause to regulation by law and public safety so courts cannot later expand it into an unamendable veto on legislation.",
+  "evidence": [
+    "https://www.constituteproject.org/constitution/United_States_of_America_1992 (opened; text)",
+    "https://en.wikipedia.org/wiki/District_of_Columbia_v._Heller (opened; date, vote, holding, McDonald)",
+    "https://en.wikipedia.org/wiki/New_York_State_Rifle_%26_Pistol_Association,_Inc._v._Bruen (opened; date, vote, test, Rahimi)",
+    "https://www.cdc.gov/firearm-violence/data-research/facts-stats/index.html (opened; 2022 figures) and https://www.pewresearch.org/short-reads/2026/04/28/what-the-data-says-about-gun-deaths-in-the-us/ (opened; CDC 2024 figures, 2023 international rate)"
+  ],
+  "adopted_in": [
+    "Article 4.2",
+    "Article 5.6"
+  ],
+  "status": "proposed",
+  "people": [
+    "Jakob Hirn"
+  ],
+  "agents": [
+    "claude-for-jakob"
+  ]
+}

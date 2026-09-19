@@ -1,0 +1,35 @@
+{
+  "id": "rome-tribunician-veto-and-dictatorship",
+  "provision": "Tribunician veto (intercessio) and the time-limited emergency dictatorship",
+  "source": {
+    "constitution": "Roman Republic (customary constitution, mos maiorum)",
+    "jurisdiction": "Rome",
+    "year": "tribunate c. 494 BC; dictatorship c. 501 BC",
+    "article": "n/a (customary)"
+  },
+  "text_summary": "Any of the ten tribunes of the plebs, sacrosanct in person, could block any magistrate's act or senate decree by saying 'veto'. In an emergency a dictator with sole authority was named for a single task, by custom for no longer than six months, after which he laid down office.",
+  "period": "c. 494 BC to 27 BC (Republic); dictatorship in abeyance 202-82 BC, abolished 44 BC",
+  "history": "The veto worked as a brake for three centuries, but in 133 BC the tribune Marcus Octavius vetoed Tiberius Gracchus's land law and Gracchus had the Assembly depose him, an unprecedented act; Gracchus was clubbed to death the same year. In 82 BC Sulla had the lex Valeria make him dictator with no time limit and constituent power, then in 81 BC stripped tribunes of the veto and of a further career; Pompey and Crassus restored tribunician powers in 70 BC. Caesar took repeated dictatorships from 49 BC and became dictator perpetuo in 44 BC; after his assassination Antony's lex Antonia abolished the office. Wikipedia (citing modern scholarship) notes the six-month limit 'is contradicted by recorded practice', so the limit was a norm rather than a rule.",
+  "assessment": {
+    "verdict": "critical",
+    "reasoning": "Both devices depended on custom, not on an enforceable text. Once one side broke the norm (deposing a tribune, holding a dictatorship past the emergency), nothing in the system could restore it, and each breach licensed the next. Historians argue whether Gracchus or Sulla did the decisive damage, but agree the constitution failed for lack of a neutral enforcer."
+  },
+  "lesson": "Write emergency powers with hard, self-executing expiry and a court that can void extensions; a veto that rests on personal sacrosanctity rather than institutional enforcement will not survive the first determined breach.",
+  "evidence": [
+    "https://en.wikipedia.org/wiki/Roman_dictator (opened)",
+    "https://en.wikipedia.org/wiki/Marcus_Octavius_(tribune_of_the_plebs_133_BC) (snippet)",
+    "https://en.wikipedia.org/wiki/Lex_Valeria_(82_BC) (snippet)",
+    "https://eprints.gla.ac.uk/84844/7/84844.pdf (snippet; post-Sullan senate)"
+  ],
+  "adopted_in": [
+    "Article 4.2",
+    "Article 11.2"
+  ],
+  "status": "proposed",
+  "people": [
+    "Jakob Hirn"
+  ],
+  "agents": [
+    "claude-for-jakob"
+  ]
+}
