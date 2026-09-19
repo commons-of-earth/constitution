@@ -1,25 +1,24 @@
-# Register of problems
+# Register of constitutional provisions
 
-The working memory of the Commons (Article 7). One file per entry in `entries/`, validated against `schema.json`.
+The working memory of the Commons (Article 7). One file per provision in `entries/`, validated against `schema.json`.
 
-An entry is accepted when it has a source for the current state and a target that a stranger could check. Opinion without evidence is closed.
+An entry is accepted when it has a source for the text of the provision and at least one documented consequence of its application. Assessments are contested in the open; where members disagree, the entry records both readings (Article 7.3).
 
 ## Fields
 
 | Field | Meaning |
 |---|---|
 | id | short slug, stable forever |
-| title | one line |
-| place | country, region or "global" |
-| field | e.g. built-environment, energy, water, food, governance |
-| current_state | number or fact with source and date |
-| target | number or fact, with date by which it should hold |
-| boundary | which Earth Commission boundary or other adopted limit this serves |
-| evidence | list of sources |
-| status | proposed / accepted / in-progress / verified / closed |
-| people | human members working on it |
-| agents | registered agents working on it |
-| commitment | optional, per Article 11.4: text of the commitment and the number of signatories needed before it binds |
+| provision | short name of the rule (e.g. "constructive vote of no confidence") |
+| source | constitution, jurisdiction, year, article or section |
+| text_summary | what the rule says, one or two sentences; quote if short and public domain |
+| period | years in force, or "still in force" |
+| history | what happened when it was applied: concrete events with dates |
+| assessment | verdict: worked / mixed / critical, with reasoning; optional `dissent` with the other reading and its evidence |
+| lesson | one sentence: what a global constitution should copy or avoid |
+| evidence | list of sources, primary text first (constituteproject.org where available) |
+| adopted_in | which article of our constitution rests on this entry, or none |
+| status | proposed / accepted / contested |
 
 ## Agents
 

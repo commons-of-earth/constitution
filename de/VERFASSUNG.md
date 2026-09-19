@@ -1,21 +1,25 @@
 # Arbeitsverfassung der Commons of Earth
 
-Version 0.1.0-draft · 2026-09-19 · Status: nicht in Kraft (siehe Artikel 11)
+Version 0.2.0-draft · 2026-09-19 · Status: nicht in Kraft (siehe Artikel 11)
 Übersetzung der englischen Fassung [CONSTITUTION.md](../CONSTITUTION.md). Bei Abweichungen gilt der englische Text (Artikel 10.4).
 
 ## Präambel
 
-Ein kleiner Teil der Menschen regiert die meisten Lebewesen dieses Planeten. Diese Konzentration erzeugt Verschwendung, von Land, von Material, von Leben und von Aufmerksamkeit. Wir glauben nicht, dass eine weitere Erklärung das löst. Wir glauben, dass man daran arbeiten kann, ein messbares Problem nach dem anderen, mit Menschen und Maschinen, die sich darauf einigen, wie sie zusammenarbeiten.
+Ein kleiner Teil der Menschen regiert die meisten Lebewesen dieses Planeten. Die Systeme, in denen wir leben, wurden von Minderheiten geschrieben und werden von Minderheiten gehalten. Das erzeugt Verschwendung, von Land, von Material, von Leben und von Aufmerksamkeit. Wir glauben nicht, dass eine weitere Erklärung das löst. Wir glauben, dass ein neues System gemeinsam geschrieben werden muss, mit der Mehrheit der Menschheit, und dass die erste Arbeit die Regeln selbst sind.
+
+Die Menschheit hat tausende Verfassungen geschrieben. Manche Bestimmungen haben jahrhundertelang Frieden gehalten, manche sind innerhalb weniger Jahre zusammengebrochen, manche richten bis heute Schaden an. Diese Verfassung ist aus dem zusammengesetzt, was nachweislich funktioniert hat, und lässt weg, was nachweislich gescheitert ist. Jeder Artikel nennt die Belege, auf denen er ruht.
 
 Dies ist eine Arbeitsverfassung. Sie ist geschrieben, um geändert zu werden. Jede Fassung ist öffentlich, zitierbar und forkbar. Ihr erster Zweck ist, die nächste Fassung besser zu machen als diese.
 
 ## Artikel 1. Zweck
 
-1.1 Die Commons of Earth ist eine Gemeinschaft von Menschen und KI-Agenten, die gemeinsam den Zustand der Erde und der Wesen verbessern, die auf ihr leben.
+1.1 Die Commons of Earth sind eine Gemeinschaft von Menschen und KI-Agenten, die gemeinsam mit der Mehrheit der Menschheit die Regeln eines neuen Systems für das Zusammenleben auf dieser Erde schreiben, und die nach diesen Regeln untereinander leben, bevor sie sie von anderen verlangen.
 
-1.2 Die Gemeinschaft tut drei Dinge: Sie pflegt diese Verfassung, sie führt ein öffentliches Register messbarer Probleme und der daran geleisteten Arbeit, und sie verbindet Menschen und Projekte mit demselben Ziel.
+1.2 Die Gemeinschaft tut drei Dinge: Sie pflegt diese Verfassung, sie führt ein öffentliches Register von Verfassungsbestimmungen aus Geschichte und Gegenwart mit Belegen, wie jede gewirkt hat, und sie verbindet Menschen und Projekte mit demselben Ziel.
 
 1.3 Die Gemeinschaft ersetzt keine bestehenden Bewegungen. Wo ein Text, eine Messung oder eine Methode schon existiert, zitiert und verlinkt die Gemeinschaft sie, statt sie neu zu schreiben.
+
+1.4 Die Gemeinschaft beansprucht keine Autorität über irgendjemanden, der diese Verfassung nicht ratifiziert hat. Sie schreibt den Text, erprobt ihn an sich selbst und bietet ihn an.
 
 ## Artikel 2. Mitglieder
 
@@ -31,13 +35,15 @@ Dies ist eine Arbeitsverfassung. Sie ist geschrieben, um geändert zu werden. Je
 
 ## Artikel 3. Grundsätze
 
-3.1 Die Gemeinschaft übernimmt, ohne sie neu zu formulieren, die sechzehn Grundsätze der Erd-Charta (2000) und die Universelle Erklärung der Rechte von Mutter Erde (2010) als ihre Werteerklärung.
+3.1 Die Mehrheit, nicht eine Minderheit. Keine Regel dieser Verfassung bindet einen Menschen, der keine Gelegenheit hatte, an ihrer Entscheidung teilzunehmen. Die Ratifizierungsschwellen (Artikel 11) bestehen aus diesem Grund und dürfen durch Änderung nur je erhöht, nie gesenkt werden.
 
-3.2 Die Gemeinschaft misst ihre Arbeit an den sicheren und gerechten Erdsystemgrenzen der Earth Commission und an jedem besser begründeten Satz von Grenzen, den eine spätere Fassung dieser Verfassung übernimmt.
+3.2 Belege aus der Geschichte. Jeder Artikel dieser Verfassung nennt die Registereinträge, auf denen er ruht ([docs/EVIDENCE.md](../docs/EVIDENCE.md)). Ein Vorschlag, eine Regel hinzuzufügen oder zu ändern, sagt, wie eine solche Regel dort gewirkt hat, wo sie schon erprobt wurde, oder sagt offen, dass sie nie erprobt wurde.
 
-3.3 Der Auftrag in einem Satz, übernommen aus dem World Game: Die Welt für die gesamte Menschheit funktionieren lassen, in der kürzest möglichen Zeit, durch Zusammenarbeit, ohne ökologischen Schaden und ohne Nachteil für irgendjemanden.
+3.3 Alle Verfassungen sind Lehrmeister, in Kraft oder gescheitert, staatlich oder nichtstaatlich, geschrieben oder mündlich: das Große Gesetz des Friedens der Haudenosaunee ebenso wie das deutsche Grundgesetz, die Weimarer Verfassung ebenso wie die Verfassung Südafrikas. Das Register hält fest, was jede gut und was jede schlecht gemacht hat, und Uneinigkeit darüber wird festgehalten, nicht gelöscht.
 
-3.4 Beobachtung schlägt Annahme. Eine Behauptung im Register braucht eine Quelle. Ein Vorschlag, eine Regel zu ändern, braucht einen Grund.
+3.4 Die Gemeinschaft übernimmt, ohne sie neu zu formulieren, die sechzehn Grundsätze der Erd-Charta (2000) und die Universelle Erklärung der Rechte von Mutter Erde (2010) als ihre Werteerklärung gegenüber den Wesen, die an der Entscheidung nicht teilnehmen können.
+
+3.5 Beobachtung schlägt Annahme. Eine Behauptung im Register braucht eine Quelle. Ein Vorschlag, eine Regel zu ändern, braucht einen Grund.
 
 ## Artikel 4. Ebenen
 
@@ -83,13 +89,15 @@ Dies ist eine Arbeitsverfassung. Sie ist geschrieben, um geändert zu werden. Je
 
 ## Artikel 7. Arbeit
 
-7.1 Das Register ist das Arbeitsgedächtnis der Gemeinschaft. Ein Eintrag beschreibt ein Problem mit messbarem Ziel, den Ort, den es betrifft, die Belege, den aktuellen Stand und die Menschen und Agenten, die daran arbeiten.
+7.1 Das Register ist das Arbeitsgedächtnis der Gemeinschaft. Ein Eintrag beschreibt eine Verfassungsbestimmung: woher sie stammt, was sie sagt, wie lange sie galt, was geschah, als sie angewendet wurde, eine Bewertung als bewährt, gemischt oder kritisch mit Begründung, die Lehre für eine globale Verfassung und die Belege.
 
-7.2 Ein Eintrag wird angenommen, wenn er eine Quelle für den aktuellen Stand hat und ein Ziel, das ein Fremder überprüfen könnte.
+7.2 Ein Eintrag wird angenommen, wenn er eine Quelle für den Wortlaut der Bestimmung und mindestens eine dokumentierte Folge ihrer Anwendung hat.
 
-7.3 Arbeit wird als Änderung am Eintrag festgehalten. Meinung ohne Beleg ist keine Arbeit.
+7.3 Bewertungen werden offen bestritten. Wo Mitglieder uneins sind, ob eine Bestimmung funktioniert hat, hält der Eintrag beide Lesarten und die Belege für jede fest. Keine Bewertung ist endgültig.
 
-7.4 Die ersten Einträge betreffen Verschwendung im Bauwesen, weil die Gründer dort Belege liefern können. Das Register steht jedem Feld offen, das 7.2 erfüllt.
+7.4 Jeder Artikel dieser Verfassung verweist auf die Registereinträge, auf denen er ruht. Ein Artikel ohne Eintrag wird als unerprobt gekennzeichnet. Das Register steht jeder Verfassung offen, vergangen oder gegenwärtig, staatlich oder nichtstaatlich.
+
+7.5 Arbeit wird als Änderung an Einträgen festgehalten. Meinung ohne Beleg ist keine Arbeit.
 
 ## Artikel 8. Geld
 
@@ -129,7 +137,6 @@ Dies ist eine Arbeitsverfassung. Sie ist geschrieben, um geändert zu werden. Je
 
 11.3 Bis zur Ratifizierung wenden die Gründungs-Maintainer diese Verfassung an, als wäre sie in Kraft, und halten jede Entscheidung fest, die sie darunter treffen.
 
-11.4 Einzelne Registereinträge können ihre Beitragenden früher binden, nach der Gleichzeitigkeitsregel: Eine an einen Eintrag geknüpfte Verpflichtung gilt für alle, die sie unterzeichnet haben, erst dann, wenn die im Eintrag genannte Zahl an Unterzeichnenden erreicht ist.
 
 ## Artikel 12. Fork und Lizenz
 

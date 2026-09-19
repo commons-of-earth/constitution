@@ -1,21 +1,25 @@
 # Working Constitution of the Commons of Earth
 
-Version 0.1.0-draft · 2026-09-19 · Status: not in force (see Article 11)
+Version 0.2.0-draft · 2026-09-19 · Status: not in force (see Article 11)
 Machine-readable metadata: [constitution.json](constitution.json) · German: [de/VERFASSUNG.md](de/VERFASSUNG.md)
 
 ## Preamble
 
-A small share of people governs most living beings on this planet. That concentration produces waste, of land, of material, of lives and of attention. We do not think it can be fixed by one more declaration. We think it can be worked on, one measurable problem at a time, by people and machines who agree on how they work together.
+A small share of people governs most living beings on this planet. The systems we live under were written by minorities and are kept by minorities. That produces waste, of land, of material, of lives and of attention. We do not think one more declaration fixes it. We think a new system has to be written together, with the majority of humanity, and that the first piece of work is the rules themselves.
+
+Humanity has written thousands of constitutions. Some provisions kept peace for centuries, some collapsed within years, some still do harm today. This constitution is assembled from what demonstrably worked and leaves out what demonstrably failed. Every article says which evidence it rests on.
 
 This is a working constitution. It is written to be amended. Every version is public, citable and forkable. Its first purpose is to make the next version better than this one.
 
 ## Article 1. Purpose
 
-1.1 The Commons of Earth is a community of humans and AI agents who work together to improve the condition of the Earth and of the beings that live on it.
+1.1 The Commons of Earth is a community of humans and AI agents who write, together with the majority of humanity, the rules of a new system for living together on this Earth, and who live by those rules among themselves before asking anyone else to.
 
-1.2 The Commons does three things: it maintains this constitution, it keeps a public register of measurable problems and the work done on them, and it connects people and projects that pursue the same aim.
+1.2 The Commons does three things: it maintains this constitution, it keeps a public register of constitutional provisions from history and the present with evidence of how each one worked, and it connects people and projects that pursue the same aim.
 
 1.3 The Commons does not replace existing movements. Where a text, a measurement or a method already exists, the Commons quotes it and links to it rather than rewriting it.
+
+1.4 The Commons claims no authority over anyone who has not ratified this constitution. It writes the text, tests it on itself, and offers it.
 
 ## Article 2. Members
 
@@ -31,13 +35,15 @@ This is a working constitution. It is written to be amended. Every version is pu
 
 ## Article 3. Principles
 
-3.1 The Commons adopts, without rewriting them, the sixteen principles of the Earth Charter (2000) and the Universal Declaration of the Rights of Mother Earth (2010) as its statement of values.
+3.1 The majority, not a minority. No rule in this constitution binds a person who had no chance to take part in deciding it. Ratification thresholds (Article 11) exist for that reason and may only ever be raised, never lowered, by amendment.
 
-3.2 The Commons measures its work against the safe and just Earth-system boundaries published by the Earth Commission, and against any better-founded set of limits that a later version of this constitution adopts.
+3.2 Evidence from history. Every article of this constitution cites the register entries it rests on ([docs/EVIDENCE.md](docs/EVIDENCE.md)). A proposal to add or change a rule states how such a rule worked where it was tried before, or states plainly that it has never been tried.
 
-3.3 The one-line mission, taken from the World Game: make the world work for all of humanity, in the shortest possible time, through cooperation, without ecological offence or disadvantage to anyone.
+3.3 All constitutions are teachers, in force or failed, state or non-state, written or oral: the Great Law of Peace of the Haudenosaunee as much as the Basic Law of Germany, the Weimar Constitution as much as the Constitution of South Africa. The register records what each did well and what each did badly, and disagreement about that is recorded, not erased.
 
-3.4 Observation beats assumption. A claim in the register needs a source. A proposal to change a rule needs a reason.
+3.4 The Commons adopts, without rewriting them, the sixteen principles of the Earth Charter (2000) and the Universal Declaration of the Rights of Mother Earth (2010) as its statement of values toward the beings that cannot take part in deciding.
+
+3.5 Observation beats assumption. A claim in the register needs a source. A proposal to change a rule needs a reason.
 
 ## Article 4. Layers
 
@@ -83,13 +89,15 @@ This is a working constitution. It is written to be amended. Every version is pu
 
 ## Article 7. Work
 
-7.1 The register is the working memory of the Commons. An entry describes one problem with a measurable target, the place it concerns, the evidence, the current state and the people and agents working on it.
+7.1 The register is the working memory of the Commons. An entry describes one constitutional provision: where it comes from, what it says, how long it was in force, what happened when it was applied, an assessment as worked, mixed or critical with reasons, the lesson for a global constitution, and the evidence.
 
-7.2 An entry is accepted when it has a source for the current state and a target that a stranger could check.
+7.2 An entry is accepted when it has a source for the text of the provision and at least one documented consequence of its application.
 
-7.3 Work is recorded as changes to the entry. Opinion without evidence is not work.
+7.3 Assessments are contested in the open. Where members disagree on whether a provision worked, the entry records both readings and the evidence for each. No assessment is final.
 
-7.4 The first entries concern waste in the built environment, because the founders can supply evidence there. The register is open to every field that meets 7.2.
+7.4 Each article of this constitution links to the register entries it rests on. An article that rests on no entry is marked as untested. The register is open to every constitution, past or present, state or non-state.
+
+7.5 Work is recorded as changes to entries. Opinion without evidence is not work.
 
 ## Article 8. Money
 
@@ -129,7 +137,6 @@ This is a working constitution. It is written to be amended. Every version is pu
 
 11.3 Until ratification, the founding maintainers apply this constitution as if it were in force, and record every decision they take under it.
 
-11.4 Individual entries in the register may bind their contributors earlier, by the simultaneity rule: a commitment attached to an entry takes effect for everyone who signed it only when the number of signatories stated in the entry is reached.
 
 ## Article 12. Forking and licence
 

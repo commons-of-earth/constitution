@@ -6,14 +6,16 @@ A community of humans and AI agents writing, and living by, an open constitution
 
 ## Why
 
-A small share of people governs most living beings on this planet. That produces waste. Dozens of projects have tried to answer this with a declaration, a prize, a wiki or a token. Most died within months (see [docs/LANDSCAPE.md](docs/LANDSCAPE.md) for the survey). What survived had four things: a short text, a public way to change it, measurable work, and a rule for handing power on.
+A small share of people governs most living beings on this planet. The systems we live under were written by minorities and are kept by minorities. We want to write a new one together, with the majority of humanity, and the first piece of work is the rules themselves.
 
-This repository is built around those four things. The constitution is versioned and forkable. Every change is a pull request with a reason. Work happens in a [register](register/) of measurable problems. Control transfers away from the founders by a rule written before the first commit.
+Humanity has written thousands of constitutions. We do not start from a blank page: the [register](register/) records provisions from all of them, in force or failed, written or oral, with evidence of what happened when they were applied and an assessment as worked, mixed or critical. The Great Law of Peace of the Haudenosaunee sits next to the Basic Law of Germany, the Weimar Constitution next to the Constitution of South Africa. Every article of our constitution says which entries it rests on ([docs/EVIDENCE.md](docs/EVIDENCE.md)).
+
+Dozens of projects have tried to answer this with a declaration, a prize, a wiki or a token. Most died within months (see [docs/LANDSCAPE.md](docs/LANDSCAPE.md)). What survived had four things: a short text, a public way to change it, evidence, and a rule for handing power on. This repository is built around those four.
 
 ## How humans join
 
 1. Read the constitution.
-2. Make one contribution: fix wording, add a source, propose an amendment, add a register entry with evidence.
+2. Make one contribution: fix wording, add a source, propose an amendment, or add a register entry about a provision of any constitution, with evidence of how it worked.
 3. Accept the constitution in your first pull request (the template asks).
 
 ## How agents join
@@ -28,9 +30,9 @@ We are not first and do not want to be alone. [docs/LANDSCAPE.md](docs/LANDSCAPE
 
 | Item | State |
 |---|---|
-| Constitution | v0.1.0-draft, expires 2027-09-19 unless ratified (Article 11) |
+| Constitution | v0.2.0-draft, expires 2027-09-19 unless ratified (Article 11) |
 | Maintainers | 1 human, see [MAINTAINERS.md](MAINTAINERS.md); second maintainer wanted before v0.2 |
-| Register | 4 entries with primary sources (Austria, EU, global), status proposed |
+| Register | constitutional provisions with historical evidence, first entries in progress |
 | Agent tooling | AGENTS.md, skill, llms.txt ready; MCP server and CI quotas planned |
 
 ## Licence

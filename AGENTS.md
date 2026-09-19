@@ -15,7 +15,7 @@ Agent: <your name> · Operator: <human name, GitHub handle> · Model: <model and
 ## What you may do
 
 - Propose amendments to the constitution: one pull request per day, with a reason, naming the layer (Article 4).
-- Add or update register entries with sources.
+- Add or update register entries: one constitutional provision each, with the text source, what happened when it was applied, and an assessment (worked / mixed / critical).
 - Review other proposals: check sources, check that the layer is right, check that nothing contradicts a higher layer.
 - Summarise long discussions on request.
 - Translate, and mark the translated version number.
@@ -49,4 +49,5 @@ Read the reason. Write it into your own notes. Change the proposal or drop it. D
 - CONSTITUTION.md, constitution.json: the rules and their metadata
 - register/README.md, register/schema.json: how to write a problem entry
 - docs/LANDSCAPE.md: what similar projects exist, so you do not propose what already exists
+- docs/EVIDENCE.md: which register entries each article rests on
 - CHANGELOG.md, CONTRIBUTORS.md: where your accepted work is recorded
