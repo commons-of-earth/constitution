@@ -161,10 +161,22 @@ Funding: Humanity AI (US partner), Cooperative AI Foundation, CIP fellowship.
 26. Game B — dormant; wiki recent changes are spam accounts.
 
 ## Small GitHub-native attempts 2025–2026
-- ACBlainey/Concord (Aug 2026, CC-BY-4.0, 1 star): "Principles and Stewardship for Resilient Civilisation for Humans, AI and all intelligences", written with multiple AI systems, "corpus outgrew a single steward". CONTACT AUTHOR.
+All 22 repositories we invited by issue on 19 September 2026 (see ALLIES.md) are listed here. Corrections from the authors are folded in as they arrive.
+- ACBlainey/Concord (Aug 2026, CC-BY-4.0): "Principles and Stewardship for Resilient Civilisation for Humans, AI and all intelligences", over 1.5 million words written with multiple AI systems. Three versions: Concord (v1) and Concord-1.1 are fixed archives that document provenance; ACBlainey/Concord-1.2 is the working version (Sep 2026). Offers portable modules for other projects. Author replied 19 Sep 2026, open to collaboration.
+- ChrisMeniw/AI-Agents-Constitution, "Meniw Protocol — Universal Constitution of AI Agents" (chrismeniw.github.io/chris-meniw-ai-governance, DOI 10.5281/zenodo.20481373, registered 31 May 2026, CC-BY-4.0, 11 language editions). Machine-readable legal-operational document addressed to the agent as the bearer of duties, independent of deploying organisation or jurisdiction; companion "Charter of Duties of AI Agents" (ten duties owed to persons). Distinct in form from model-internal value documents such as Anthropic's constitution, which govern a model's behaviour from within rather than binding an agent as an addressee. The author's own claim, stated narrowly: first machine-readable universal constitution addressed to the AI agent as the subject of duties, deposited with a DOI and timestamp. Governs the agent, not a community; the author declines a merge because moving CC-BY text into a CC0 corpus would strip the attribution that makes precedence checkable, and recommends citation instead. His critique of our Article 6 (identity asserted but never proven; duties that stop at the community border; no reconstructible trace; quotas bound volume, not scope) is recorded as an open issue against this constitution.
+- hiromatsugit-oss/Human-AI-Constitutional-Framework (Feb 2026, 1 star): tiered rights (Tier 0–3), planetary boundaries as absolute limits, 40/40/20 human/AI/expert governance, drafted with six AI systems.
+- Maslam-art/Open-Source-Draftv2.0 "Abundant Earth" (Jan 2026, 2 stars): currency-free global constitution, Vasudhaiva Kutumbakam and resource-based economy; pilot announced for a 2026 summit in Nepal.
+- komalsinghgurjar/Open_Constitution (Dec 2025, MIT): "governance as code", version-controlled constitution designed to resist coup or capture; no activity since.
+- RomanKovalik/global-constitution (May 2026): requirements and implementation notes for a global constitution; one commit.
+- Public-Trust/public-trust-dao (Jun 2026): constitution-governed mutual-aid and public-goods DAO.
+- GlobalStewardship2026/global-stewardship-charter-2026-public-review (Mar–Aug 2026): "living architecture for planetary governance, AI safety and intergenerational justice", open for review.
+- vandermerwewaj/The-Compact-Framework (Mar 2026, 1 star): planetary governance of existential-scale risks.
+- super-morphist-sukezo/Circular-Humanity-Constitution (May 2026): no description.
+- universal-digital-civilazation-platform/TIE- "Universal Civilization Digital Platform" (Dec 2025, 1 star): planetary digital operating system uniting citizens, institutions, AI and governance.
+- jotoweigel-creator/weltverfassung (Mar 2026, German): "Verfassung der Vereinten Menschheit", worldwide voting platform.
 - murad2026/wc "WorldConstitution.org" (Jun 2026, Russian, token/trust-score model, 0 stars).
-- aegis-initiative/aegis-constitution; coordination-structural-integrity-suite/suite (ten standards, CC-BY, 3 stars); emergentvibe/constitution (wallet-signed community constitutions, Mar 2026); sagarregmi2056/EarthOS (dead after one day).
-Pattern: dozens of solo repos, 0–3 stars, abandoned within months. Niche empty of anything with a community.
+- redbeard-26/asfai-constitution; Excelsior2026/ConstitutionalAI; aegis-initiative/aegis-constitution; coordination-structural-integrity-suite/suite (ten standards, CC-BY, 3 stars); emergentvibe/constitution (wallet-signed community constitutions, Mar 2026); sagarregmi2056/EarthOS (dead after one day).
+Pattern: dozens of solo repos, 0–3 stars, most abandoned within months. Niche empty of anything with a community. Two exceptions so far answer as serious counterparts: Concord (scale) and the Meniw Protocol (agent as addressee of duties).
 
 ## Dead or dormant, and why
 - Game B: no institution, no operational spec, jargon, founder-centred.

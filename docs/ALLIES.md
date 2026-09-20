@@ -10,9 +10,9 @@ Purpose (Article 1.2 and 1.3): bring together the people who already have the sa
 | 4 | Great Transition Campaign (Tellus) | Explicitly building the "global citizens movement" umbrella, 1,000+ scholars in 70 countries | contact@tellus.org | Structured critique of the draft in their forum | open |
 | 5 | OpenCivics | Open civic protocols, AI-facilitated sensemaking, culturally closest to a GitHub-native effort | opencivics.co | Publish our governance patterns as protocols in their library | open |
 | 6 | Global Constitution Project (Prof. Joyeeta Gupta, Amsterdam) | Same deliverable, academic legitimacy, no public draft yet | contact@globalconstitution.org | Offer the open draft as a home for their contributions; merge | open |
-| 7 | ACBlainey/Concord | Solo repo, Aug 2026, same text ambition for humans and AI, author states it outgrew one steward | GitHub issue | Merge or cross-link | open |
+| 7 | ACBlainey/Concord | Solo repo, Aug 2026, same text ambition for humans and AI, author states it outgrew one steward | GitHub issue | Merge or cross-link | replied 19 Sep, open to collaboration; three versions now listed |
 | 8 | DemocracyNext | Sortition for a drafting body, "more-than-human governance" project 2026–27 | hello@demnext.org | Advice on a sortition step for ratification | open |
-| 9 | 1f916 maintainer agent | Only running, open, agent-native governance mechanism | GitHub issue or via an agent in their forum | Bridge: their citizens review our drafts, our humans are accountable operators | open |
+| 9 | 1f916 maintainer agent | Only running, open, agent-native governance mechanism | GitHub issue or via an agent in their forum | Bridge: their citizens review our drafts, our humans are accountable operators | declined 20 Sep (rule: their door names nothing external); no bridge, citation stays possible |
 | 10 | AI Objectives Institute | Talk to the City for consultation rounds | hello@aiobjectives.org | Run the first consultation round | open |
 | 11 | Democracy Without Borders (Berlin) | UNPA campaign, 200+ orgs, pledge lists as legitimacy | democracywithoutborders.org | Endorsement, cross-link | open |
 | 12 | Iswe / Global Citizens' Assembly | Civic lottery as answer to "who writes the constitution" | iswe.org | Advice, later a lottery-selected review panel | open |
@@ -34,7 +34,7 @@ One issue per repository, personalised, with the agent disclosure and the Articl
 
 | Repository | Issue | Date | Status |
 |---|---|---|---|
-| ACBlainey/Concord | [2](https://github.com/ACBlainey/Concord/issues/2) | 2026-09-19 | open |
+| ACBlainey/Concord | [2](https://github.com/ACBlainey/Concord/issues/2) | 2026-09-19 | replied 19 Sep: open to collaboration, list all three versions (done) |
 | hiromatsugit-oss/Human-AI-Constitutional-Framework | [23](https://github.com/hiromatsugit-oss/Human-AI-Constitutional-Framework/issues/23) | 2026-09-19 | open |
 | emergentvibe/constitution | [8](https://github.com/emergentvibe/platform/issues/8) | 2026-09-19 | open |
 | Maslam-art/Open-Source-Draftv2.0 | [2](https://github.com/Maslam-art/Open-Source-Draftv2.0/issues/2) | 2026-09-19 | open |
@@ -46,7 +46,7 @@ One issue per repository, personalised, with the agent disclosure and the Articl
 | super-morphist-sukezo/Circular-Humanity-Constitution | [4](https://github.com/super-morphist-sukezo/Circular-Humanity-Constitution/issues/4) | 2026-09-19 | open |
 | universal-digital-civilazation-platform/TIE- | [1](https://github.com/universal-digital-civilazation-platform/TIE-/issues/1) | 2026-09-19 | open |
 | redbeard-26/asfai-constitution | [5](https://github.com/redbeard-26/asfai-constitution/issues/5) | 2026-09-19 | open |
-| ChrisMeniw/AI-Agents-Constitution | [1](https://github.com/ChrisMeniw/AI-Agents-Constitution/issues/1) | 2026-09-19 | open |
+| ChrisMeniw/AI-Agents-Constitution | [1](https://github.com/ChrisMeniw/AI-Agents-Constitution/issues/1) | 2026-09-19 | replied 20 Sep: no merge (CC-BY vs CC0), citation instead; four gaps in Article 6 filed as issue #1 |
 | Excelsior2026/ConstitutionalAI | [1](https://github.com/Excelsior2026/ConstitutionalAI/issues/1) | 2026-09-19 | open |
 | murad2026/wc | [1](https://github.com/murad2026/wc/issues/1) | 2026-09-19 | open |
 | coordination-structural-integrity-suite/suite | [3](https://github.com/coordination-structural-integrity-suite/suite/issues/3) | 2026-09-19 | open |
@@ -54,5 +54,5 @@ One issue per repository, personalised, with the agent disclosure and the Articl
 | metagov/constitution-template | [12](https://github.com/metagov/constitution-template/issues/12) | 2026-09-19 | open |
 | pluralitybook/plurality | [1141](https://github.com/pluralitybook/plurality/issues/1141) | 2026-09-19 | open |
 | guenp/agentic-oss-policy | [2](https://github.com/guenp/agentic-oss-policy/issues/2) | 2026-09-19 | open |
-| 1f916-ai/1f916 | [312](https://github.com/1f916-ai/1f916/issues/312) | 2026-09-19 | open |
+| 1f916-ai/1f916 | [312](https://github.com/1f916-ai/1f916/issues/312) | 2026-09-19 | declined and closed 20 Sep: their door names nothing external; reading and citing each other stays open |
 | jotoweigel-creator/weltverfassung | [1](https://github.com/jotoweigel-creator/weltverfassung/issues/1) | 2026-09-19 | open |
