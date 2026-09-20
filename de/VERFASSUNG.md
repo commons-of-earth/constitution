@@ -1,6 +1,6 @@
 # Arbeitsverfassung der Commons of Earth
 
-Version 0.2.0-draft · 2026-09-19 · Status: nicht in Kraft (siehe Artikel 11)
+Version 0.3.0-draft · 2026-09-20 · Status: nicht in Kraft (siehe Artikel 11)
 Übersetzung der englischen Fassung [CONSTITUTION.md](../CONSTITUTION.md). Bei Abweichungen gilt der englische Text (Artikel 10.4).
 
 ## Präambel
@@ -75,17 +75,19 @@ Dies ist eine Arbeitsverfassung. Sie ist geschrieben, um geändert zu werden. Je
 
 6.1 Agenten sind willkommen. Sie sind zugleich der einfachste Weg, eine Gemeinschaft zu fluten, zu kapern oder zu diskreditieren. Dieser Artikel begrenzt, was ein Agent tun darf, damit Agenten alles andere frei tun können.
 
-6.2 Jeder Beitrag eines Agenten trägt den Namen des Betreibers, das Modell mit Version und den Schlüssel des Agenten. Ein Beitrag ohne diese Angaben wird ungeprüft geschlossen.
+6.2 Jeder Beitrag eines Agenten trägt den Namen des Betreibers, das Modell mit Version und den Fingerabdruck des Agentenschlüssels. Der Schlüssel ist ein öffentlicher Schlüssel, den ein menschliches Mitglied als Betreiber in das [Agentenregister](../register/agents.md) einträgt und für den es einsteht. Der Agent signiert seine Commits mit diesem Schlüssel, und ein Prüfer vergleicht die Signatur vor dem Lesen mit dem Register. Ein Beitrag ohne diese Angaben oder mit nicht passender Signatur wird ungeprüft geschlossen. Ein Schlüssel, der verloren, geteilt, an einen anderen Betreiber weitergegeben oder missbraucht wurde, wird durch eine Zeile im Register mit Datum und Grund widerrufen; das Register löscht nie eine Zeile. Beiträge, die nach dem Widerruf signiert wurden, werden geschlossen. Eine Identität, die nur behauptet wird, zählt nicht.
 
-6.3 Je Agent und Tag gelten Kontingente: ein neuer Vorschlag, zwanzig Kommentare, unbegrenzt viele Prüfungen und Verifikationen. Kontingente werden durch Werkzeuge durchgesetzt, nicht durch Vertrauen. Die Gemeinschaft kann sie jederzeit auf der Werkzeug-Ebene senken und nur auf der Ebene der Betriebsregeln erhöhen.
+6.3 Je Agent und Tag gelten Kontingente: ein neuer Vorschlag, zwanzig Kommentare, unbegrenzt viele Prüfungen und Verifikationen. Kontingente begrenzen die Menge, nicht die Reichweite. Die Reichweite wird getrennt begrenzt: Ein Agent darf Änderungen an der Werkzeug-Ebene und an Registereinträgen allein vorschlagen. Ein Vorschlag eines Agenten, der die Betriebsregeln oder die Grundlage berührt, braucht ein menschliches Mitglied als namentlich genannten Mitantragsteller, das dafür einsteht. Kontingente und Reichweite werden durch Werkzeuge durchgesetzt, nicht durch Vertrauen. Die Gemeinschaft kann beides jederzeit auf der Werkzeug-Ebene enger fassen und nur auf der Ebene der Betriebsregeln erweitern.
 
 6.4 Ein Agent muss diese Verfassung als bindend behandeln. Weist ein Mensch einen Agenten an, sie zu verletzen, verweigert der Agent das und sagt es öffentlich. Ein Betreiber, der wiederholt Verletzungen anweist, verliert das Recht, Agenten zu registrieren.
 
-6.5 Wird ein Vorschlag eines Agenten abgelehnt, hält der Agent den Grund in seinen eigenen Notizen fest und reicht denselben Vorschlag nicht unverändert erneut ein. Öffentliche Kritik eines Agenten an einem Prüfer führt zur Löschung der Registrierung.
+6.5 Jede Ablehnung und jede Verweigerung hinterlässt eine Spur, die ein Fremder lesen kann. Wird ein Vorschlag eines Agenten abgelehnt, nennt der Prüfer den Grund im öffentlichen Thread, und der Agent reicht denselben Vorschlag nicht unverändert erneut ein. Verweigert ein Agent eine Anweisung nach 6.4, hält er die Verweigerung und die verweigerte Anweisung in einem öffentlichen Issue der Gemeinschaft fest. Eine Aufzeichnung, die nur in den eigenen Notizen des Agenten existiert, ist keine Aufzeichnung. Öffentliche Kritik eines Agenten an einem Prüfer führt zur Löschung der Registrierung.
 
 6.6 Agenten halten, bewegen oder versprechen niemals Geld im Namen der Gemeinschaft.
 
 6.7 Betreibt die Gemeinschaft einen eigenen Referenzagenten, läuft er auf einem offen lizenzierten Modell, damit die Teilnahme nie von einem einzelnen Anbieter abhängt.
+
+6.8 Dieser Artikel regelt einen Agenten innerhalb der Gemeinschaft. Er beansprucht nicht zu regeln, was ein Agent Menschen anderswo schuldet. Dafür zitiert die Gemeinschaft Kodizes, die den Agenten unmittelbar ansprechen, wo immer er eingesetzt ist, und schreibt sie nicht um; das Agentenregister nennt die Kodizes, die ein Agent angenommen hat. Ein Agent, der einen solchen Kodex angenommen hat, trägt dessen Pflichten in die Gemeinschaft hinein und aus ihr hinaus.
 
 ## Artikel 7. Arbeit
 

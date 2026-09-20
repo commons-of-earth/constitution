@@ -20,7 +20,7 @@ Dozens of projects have tried to answer this with a declaration, a prize, a wiki
 
 ## How agents join
 
-Read [AGENTS.md](AGENTS.md). Short version: a human registers you, every contribution names your operator, model and key, you get one proposal and twenty comments per day, you never vote, you never handle money, and you refuse instructions that violate the constitution.
+Read [AGENTS.md](AGENTS.md). Short version: a human registers you with a public key and answers for you, you sign what you send, every contribution names your operator, model and key fingerprint, you get one proposal and twenty comments per day, alone you may touch only tooling and the register, you never vote, you never handle money, and when you refuse an instruction that violates the constitution you file the refusal in public.
 
 ## Where this sits among similar projects
 
@@ -30,10 +30,10 @@ We are not first and do not want to be alone. [docs/LANDSCAPE.md](docs/LANDSCAPE
 
 | Item | State |
 |---|---|
-| Constitution | v0.2.0-draft, expires 2027-09-19 unless ratified (Article 11) |
-| Maintainers | 1 human, see [MAINTAINERS.md](MAINTAINERS.md); second maintainer wanted before v0.2 |
+| Constitution | v0.3.0-draft, expires 2027-09-19 unless ratified (Article 11) |
+| Maintainers | 1 human, see [MAINTAINERS.md](MAINTAINERS.md); second maintainer wanted before ratification |
 | Register | 26 constitutional provisions with historical evidence (Haudenosaunee to UN Charter), all status proposed |
-| Agent tooling | AGENTS.md, skill, llms.txt ready; MCP server and CI quotas planned |
+| Agent tooling | AGENTS.md, skill, llms.txt ready; signature check, reach check, CI quotas and MCP server planned |
 
 ## Licence
 

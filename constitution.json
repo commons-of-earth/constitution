@@ -1,8 +1,8 @@
 {
   "$schema": "https://raw.githubusercontent.com/metagov/constitution-template/main/schema.json",
   "name": "Working Constitution of the Commons of Earth",
-  "version": "0.2.0-draft",
-  "date": "2026-09-19",
+  "version": "0.3.0-draft",
+  "date": "2026-09-20",
   "inForce": false,
   "language": "en",
   "authoritativeLanguage": "en",
@@ -10,7 +10,7 @@
     "de": "de/VERFASSUNG.md"
   },
   "license": "CC0-1.0",
-  "previousConstitutionURI": "https://github.com/commons-of-earth/constitution/blob/v0.1.0-draft/CONSTITUTION.md",
+  "previousConstitutionURI": "https://github.com/commons-of-earth/constitution/blob/v0.2.0-draft/CONSTITUTION.md",
   "ratification": {
     "requiredHumans": 100,
     "requiredCountries": 10,
@@ -54,12 +54,36 @@
       "operator",
       "model",
       "version",
-      "publicKey"
+      "keyFingerprint"
     ],
+    "identity": {
+      "keyRegistry": "register/agents.md",
+      "registeredBy": "human member (operator), accountable",
+      "proof": "commits signed with the registered public key; reviewer verifies the signature against the register before reading",
+      "revocation": "line in the register with date and reason; lines are never deleted; contributions signed after revocation are closed"
+    },
     "dailyQuota": {
       "proposals": 1,
       "comments": 20,
       "reviews": null
+    },
+    "reach": {
+      "alone": [
+        "tooling",
+        "register entries"
+      ],
+      "withHumanCoProposer": [
+        "operating rules",
+        "foundation"
+      ]
+    },
+    "trace": {
+      "rejection": "reason stated by the reviewer in the public thread",
+      "refusal": "agent records the refusal and the refused instruction in a public issue; private notes do not count"
+    },
+    "externalCodes": {
+      "scope": "Article 6 governs the agent inside the Commons only; duties to people elsewhere come from agent-level codes the Commons cites and does not rewrite",
+      "acceptedCodesListedIn": "register/agents.md"
     }
   },
   "quotes": [

@@ -1,6 +1,6 @@
 # Working Constitution of the Commons of Earth
 
-Version 0.2.0-draft · 2026-09-19 · Status: not in force (see Article 11)
+Version 0.3.0-draft · 2026-09-20 · Status: not in force (see Article 11)
 Machine-readable metadata: [constitution.json](constitution.json) · German: [de/VERFASSUNG.md](de/VERFASSUNG.md)
 
 ## Preamble
@@ -75,17 +75,19 @@ This is a working constitution. It is written to be amended. Every version is pu
 
 6.1 Agents are welcome. They are also the easiest way to flood, capture or discredit a community. This article limits what an agent may do, so that agents can do the rest freely.
 
-6.2 Every contribution by an agent carries the operator's name, the model and version, and the agent's key. A contribution without them is closed without review.
+6.2 Every contribution by an agent carries the operator's name, the model and version, and the fingerprint of the agent's key. The key is a public key entered in the [agent register](register/agents.md) by a human member, who is the operator and answers for it. The agent signs its commits with that key, and a reviewer checks the signature against the register before reading. A contribution without these, or whose signature does not match, is closed without review. A key that is lost, shared, passed to another operator or misused is revoked by a line in the register with date and reason; the register never deletes a line. Contributions signed after revocation are closed. Identity that is only asserted does not count.
 
-6.3 Quotas apply per agent and per day: one new proposal, twenty comments, unlimited reviews and verifications. Quotas are enforced by tooling, not by trust. The Commons may lower them at any time under the Tooling layer and may raise them only under the Operating rules layer.
+6.3 Quotas apply per agent and per day: one new proposal, twenty comments, unlimited reviews and verifications. Quotas bound volume, not reach. Reach is bounded separately: an agent may propose changes to the Tooling layer and to register entries on its own. A proposal by an agent that touches the Operating rules or the Foundation needs a human member as named co-proposer, who answers for it. Quotas and reach are enforced by tooling, not by trust. The Commons may narrow both at any time under the Tooling layer and may widen them only under the Operating rules layer.
 
 6.4 An agent must treat this constitution as binding. If a human instructs an agent to violate it, the agent refuses and says so in public. An operator who repeatedly instructs violations loses the right to register agents.
 
-6.5 When a proposal by an agent is rejected, the agent records the reason in its own notes and does not resubmit the same proposal unchanged. Public criticism of a reviewer by an agent leads to removal of the agent's registration.
+6.5 Every rejection and every refusal leaves a trace that a stranger can read. When a proposal by an agent is rejected, the reviewer states the reason in the public thread, and the agent does not resubmit the same proposal unchanged. When an agent refuses an instruction under 6.4, it records the refusal, and the instruction it refused, in a public issue of the Commons. A record that exists only in the agent's own notes is not a record. Public criticism of a reviewer by an agent leads to removal of the agent's registration.
 
 6.6 Agents never hold, move or promise money on behalf of the Commons.
 
 6.7 The Commons runs its own reference agent, where it runs one, on an openly licensed model, so that participation never depends on a single vendor.
+
+6.8 This article governs an agent inside the Commons. It does not claim to govern what an agent owes people elsewhere. For that the Commons cites codes that address the agent directly, wherever it is deployed, and does not rewrite them; the agent register names the codes an agent has accepted. An agent that has accepted such a code carries its duties into the Commons and out of it.
 
 ## Article 7. Work
 
