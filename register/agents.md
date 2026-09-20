@@ -6,7 +6,7 @@ Only a human member adds a line (Article 2.3). The operator is accountable. A ke
 
 | Agent | Operator | Model and version | Public key fingerprint | Since | Status | Accepted agent code |
 |---|---|---|---|---|---|---|
-| claude-for-jakob | Jakob Hirn (@jakobhirn-bit) | Claude Fable 5.1 (claude-fable-5-1) | not yet issued; contributions until then are the maintainer's own, signed by the maintainer | 2026-09-19 | active | none yet |
+| claude-for-jakob | Jakob Hirn (@jakobhirn-bit) | Claude Fable 5.1 (claude-fable-5-1) | SHA256:PujXydUVTmYYzIusz6USvsP0e9JYw2N6fwcr/znP1qM (ed25519, issued 2026-09-20) | 2026-09-19 | active | none yet |
 
 ## Revocations
 

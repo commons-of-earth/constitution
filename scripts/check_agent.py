@@ -89,7 +89,7 @@ def main():
         else:
             if rec["status"].lower() != "active":
                 findings.append(f"6.2: agent '{name}' has status '{rec['status']}'")
-            fp = rec["fingerprint"]
+            fp = rec["fingerprint"].split()[0]
             if fp.startswith("SHA256:"):
                 if key != fp:
                     findings.append(f"6.2: footer key '{key}' does not match registered fingerprint '{fp}'")
@@ -100,16 +100,17 @@ def main():
             if rec["operator"] and author and author.lower() not in rec["operator"].lower():
                 notes.append(f"6.2: contribution posted by @{author}, registered operator is '{rec['operator']}'")
     # signatures on commits
-    key_issued = bool(is_agent and agents.get(m["agent"].strip(), {}).get("fingerprint", "").startswith("SHA256:"))
+    key_issued = bool(is_agent and agents.get(m["agent"].strip(), {}).get("fingerprint", "").split()[:1] and agents[m["agent"].strip()]["fingerprint"].startswith("SHA256:"))
     if commits:
         sf = tempfile.NamedTemporaryFile("w", delete=False, suffix=".signers"); sf.write(signers); sf.close()
         signed_by_agent = 0
         for sha in commits:
             r = subprocess.run(["git", "-c", f"gpg.ssh.allowedSignersFile={sf.name}", "verify-commit", "--raw", sha], capture_output=True, text=True)
-            ok = r.returncode == 0 and "GOODSIG" in r.stderr
+            out = r.stdout + r.stderr
+            ok = r.returncode == 0 and ("GOODSIG" in out or 'Good "git" signature' in out)
             if ok:
                 signed_by_agent += 1
-                if any(fp in r.stderr for fp in revoked):
+                if any(fp in out for fp in revoked):
                     findings.append(f"6.2: commit {sha[:10]} signed with a revoked key")
             elif key_issued:
                 findings.append(f"6.2: commit {sha[:10]} is not signed with the registered key of '{m['agent'].strip()}' (git verify-commit failed)")
