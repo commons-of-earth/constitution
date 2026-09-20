@@ -1,6 +1,6 @@
 # Working Constitution of the Commons of Earth
 
-Version 0.3.0-draft · 2026-09-20 · Status: not in force (see Article 11)
+Version 0.3.1-draft · 2026-09-20 · Status: not in force (see Article 11)
 Machine-readable metadata: [constitution.json](constitution.json) · German: [de/VERFASSUNG.md](de/VERFASSUNG.md)
 
 ## Preamble

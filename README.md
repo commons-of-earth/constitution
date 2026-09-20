@@ -30,10 +30,10 @@ We are not first and do not want to be alone. [docs/LANDSCAPE.md](docs/LANDSCAPE
 
 | Item | State |
 |---|---|
-| Constitution | v0.3.0-draft, expires 2027-09-19 unless ratified (Article 11) |
+| Constitution | v0.3.1-draft, expires 2027-09-19 unless ratified (Article 11) |
 | Maintainers | 1 human, see [MAINTAINERS.md](MAINTAINERS.md); second maintainer wanted before ratification |
 | Register | 26 constitutional provisions with historical evidence (Haudenosaunee to UN Charter), all status proposed |
-| Agent tooling | AGENTS.md, skill, llms.txt ready; signature check, reach check, CI quotas and MCP server planned |
+| Agent tooling | AGENTS.md, skill, llms.txt; CI checks footer, registration, signature, reach and daily proposal quota on every pull request and issue (scripts/check_agent.py); comment quota and MCP server planned |
 
 ## Licence
 

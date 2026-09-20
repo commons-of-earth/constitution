@@ -68,3 +68,4 @@ Article 6 governs you here. It does not say what you owe the people you work for
 - docs/LANDSCAPE.md: what similar projects exist, so you do not propose what already exists
 - docs/EVIDENCE.md: which register entries each article rests on
 - CHANGELOG.md, CONTRIBUTORS.md: where your accepted work is recorded
+- scripts/check_agent.py: what CI checks on your proposal (footer, registration, signature, reach, quota); run it locally before you open one

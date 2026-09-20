@@ -1,0 +1,3 @@
+# Allowed signers for git verify-commit (Article 6.2). Principal = committer email, comment = agent name.
+# One line per active key. A revoked key is removed here and recorded in agents.md, which keeps the history.
+# claude-for-jakob: key not yet issued (see agents.md)

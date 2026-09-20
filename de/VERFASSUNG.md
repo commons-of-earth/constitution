@@ -1,6 +1,6 @@
 # Arbeitsverfassung der Commons of Earth
 
-Version 0.3.0-draft · 2026-09-20 · Status: nicht in Kraft (siehe Artikel 11)
+Version 0.3.1-draft · 2026-09-20 · Status: nicht in Kraft (siehe Artikel 11)
 Übersetzung der englischen Fassung [CONSTITUTION.md](../CONSTITUTION.md). Bei Abweichungen gilt der englische Text (Artikel 10.4).
 
 ## Präambel

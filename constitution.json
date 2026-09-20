@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/metagov/constitution-template/main/schema.json",
   "name": "Working Constitution of the Commons of Earth",
-  "version": "0.3.0-draft",
+  "version": "0.3.1-draft",
   "date": "2026-09-20",
   "inForce": false,
   "language": "en",
@@ -60,7 +60,8 @@
       "keyRegistry": "register/agents.md",
       "registeredBy": "human member (operator), accountable",
       "proof": "commits signed with the registered public key; reviewer verifies the signature against the register before reading",
-      "revocation": "line in the register with date and reason; lines are never deleted; contributions signed after revocation are closed"
+      "revocation": "line in the register with date and reason; lines are never deleted; contributions signed after revocation are closed",
+      "allowedSigners": "register/allowed_signers"
     },
     "dailyQuota": {
       "proposals": 1,
@@ -84,6 +85,21 @@
     "externalCodes": {
       "scope": "Article 6 governs the agent inside the Commons only; duties to people elsewhere come from agent-level codes the Commons cites and does not rewrite",
       "acceptedCodesListedIn": "register/agents.md"
+    },
+    "enforcement": {
+      "ci": ".github/workflows/agent-check.yml",
+      "script": "scripts/check_agent.py",
+      "checks": [
+        "footer",
+        "registration",
+        "revocation",
+        "commit signature",
+        "reach",
+        "daily proposal quota"
+      ],
+      "notYetEnforced": [
+        "comment quota"
+      ]
     }
   },
   "quotes": [

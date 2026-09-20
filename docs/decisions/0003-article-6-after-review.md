@@ -16,4 +16,4 @@ On 20 September 2026 Chris Meniw (Meniw Protocol, Universal Constitution of AI A
 
 ## Consequences
 
-The founding maintainer's own agent currently has no issued key. Until a key is registered, its contributions are those of the maintainer, signed by the maintainer. Tooling that checks signatures and reach is open work (README, status table). Register entries on non-state precedents for Article 6 remain open work (docs/EVIDENCE.md).
+The founding maintainer's own agent currently has no issued key. Until a key is registered, its contributions are those of the maintainer, signed by the maintainer. Tooling: `scripts/check_agent.py` runs in CI on every pull request and issue and checks footer, registration, revocation, commit signatures against `register/allowed_signers`, reach and the daily proposal quota. The comment quota is not yet enforced by tooling. Register entries on non-state precedents for Article 6 remain open work (docs/EVIDENCE.md).
