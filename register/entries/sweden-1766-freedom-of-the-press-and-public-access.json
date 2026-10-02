@@ -1,0 +1,48 @@
+{
+  "id": "sweden-1766-freedom-of-the-press-and-public-access",
+  "provision": "Freedom of the press without prior censorship; public access to official documents (offentlighetsprincipen)",
+  "source": {
+    "constitution": "Freedom of the Press Act (Tryckfrihetsförordningen), one of Sweden's four fundamental laws",
+    "jurisdiction": "Sweden (and Finland, which kept Swedish law after 1809)",
+    "year": "1766; current act SFS 1949:105",
+    "article": "Chapter 1 Art. 1 (freedom of the press); Chapter 2 Art. 1 and 2 (public access and the seven permitted grounds for restriction)"
+  },
+  "text_summary": "Ch. 2 Art. 1: 'Everyone shall be entitled to have free access to official documents, in order to encourage the free exchange of opinion, the availability of comprehensive information and freedom of artistic creation.' Access may be restricted only on seven listed grounds (national security and foreign relations, fiscal and monetary policy, supervisory activities, crime prevention, the economic interests of public bodies, the personal or economic circumstances of individuals, protection of species), and every restriction must be 'scrupulously specified' in a specific statute. Ch. 1 Art. 1 guarantees the right to publish without prior hindrance by any public authority; proceedings over content may follow only after publication and only in court.",
+  "period": "2 December 1766 to 1772/1774; restored by the 1809 Instrument of Government and the acts of 1810 and 1812; current act in force since 1 January 1950, still in force",
+  "history": "Passed by the Riksdag of the Estates on 2 December 1766, at the end of the Age of Liberty, after a committee that the Ostrobothnian priest Anders Chydenius in practice led through the winter of 1765-66; the clergy voted yes only on condition that prior censorship stayed for religious writings. The act abolished censorship and opened the minutes of the Riksdag and of government to the public, the first such rule anywhere. Gustav III's coup of 1772 ended the Age of Liberty, and in 1774 he issued a redacted act that left to the king what could be printed; the public-access provisions went first. § 86 of the Instrument of Government of 1809 restored the freedom to publish without prior obstacles, a detailed act followed in 1810 and was revised in 1812; that act stood until the present act (SFS 1949:105) came into force on 1 January 1950. As a fundamental law it can be changed only by two identical Riksdag decisions with a general election between them. In practice anyone may ask a public authority for a document without giving a name or a purpose, and the authority must apply the Public Access to Information and Secrecy Act (2009:400) to decide whether a listed exception applies; reading on the premises is free. Sweden scored 80 and ranked 6th of 182 in Transparency International's 2024 index, its lowest score in the current series but still among the ten least corrupt states. The limits are visible too: the Secrecy Act is long and has grown, and on 16 November 2022 the Riksdag completed (first decision 6 April 2022, election in between, 270 votes to 37) a change that added 'foreign espionage' to the catalogue of press offences in the act, in force 1 January 2023; the Swedish Union of Journalists, the Swedish section of the International Commission of Jurists and public broadcasters warned that it weakens source protection for reporting on international cooperation, and the Left Party and Greens voted against.",
+  "assessment": {
+    "verdict": "worked",
+    "reasoning": "A rule written in 1766 is still the working rule in 2026: the state's paper is public by default, secrecy is the listed exception, and a citizen needs neither a lawyer nor a reason to use it. It survived one royal repeal and returned within a generation, and it was copied by Finland and, much later, by the freedom-of-information wave after 1966. The link to Sweden's low corruption rankings is plausible and widely claimed but not proven; Denmark and New Zealand rank as high with younger access laws. The 2023 amendment shows the other side: a fundamental law that needs two votes and an election can still be narrowed quickly when a security consensus holds across the big parties, and the seven grounds in Ch. 2 Art. 2 are wide enough that the real limits live in the ordinary Secrecy Act.",
+    "dissent": {
+      "verdict": "mixed",
+      "reasoning": "Press-freedom organisations read the 2023 change as proof that the act no longer protects what matters most: a source who leaks on Sweden's conduct inside NATO, the EU or a UN mission now risks a press offence, and the constitutional two-vote hurdle did not slow the change at all. On this reading the public-access rule works for routine paper and fails exactly where the state has most to hide.",
+      "evidence": [
+        "https://europeanjournalists.org/blog/2022/12/02/tove-carlen-the-swedish-new-law-on-public-espionage-provides-little-protection-for-journalists-sources/ (opened)",
+        "https://www.riksdagen.se/en/news/articles/2022/nov/16/foreign-espionage-to-be-criminalised-and_cms08865f41-e18f-42b1-a1be-a470efece8e0en/ (opened)"
+      ]
+    }
+  },
+  "lesson": "Put the public's right to see what the state writes into the constitution itself, with a closed list of grounds for secrecy and a rule that every exception must be written into a specific statute, and expect the fight to move to that statute.",
+  "evidence": [
+    "https://www.riksdagen.se/globalassets/05.-sa-fungerar-riksdagen/demokrati/the-freedom-of-the-press-act-2023-eng.pdf (opened; official English text of SFS 1949:105 as amended to SFS 2022:1524, Ch. 1 Art. 1, Ch. 2 Art. 1-2)",
+    "https://www.riksdagen.se/en/documents-and-laws/official-documents/ (opened; how requests work, no name or purpose required, Secrecy Act 2009:400)",
+    "https://www.riksdagen.se/en/how-the-riksdag-works/democracy/the-constitution/ (opened; the act as fundamental law, principle of public access)",
+    "https://www.riksdagen.se/en/news/articles/2022/nov/16/foreign-espionage-to-be-criminalised-and_cms08865f41-e18f-42b1-a1be-a470efece8e0en/ (opened; two decisions 6 April and 16 November 2022, in force 1 January 2023)",
+    "https://en.wikipedia.org/wiki/Swedish_Freedom_of_the_Press_Act (opened; 1766, 1772/1774, 1809/1810/1812, 1949 dates)",
+    "https://www.transparency.org/en/countries/sweden (opened; CPI 2024 score 80, rank 6)",
+    "https://europeanjournalists.org/blog/2022/12/02/tove-carlen-the-swedish-new-law-on-public-espionage-provides-little-protection-for-journalists-sources/ (opened; journalists' union critique)",
+    "https://en.wikipedia.org/wiki/2022_Foreign_Espionage_Act (snippet; vote 270 to 37, parties for and against)",
+    "https://www.jstage.jst.go.jp/article/shinbungaku/37/0/37_KJ00003739397/_article/-char/en (snippet; legislative process 1765-66)"
+  ],
+  "adopted_in": [
+    "Article 6.3",
+    "Article 8.1"
+  ],
+  "status": "proposed",
+  "people": [
+    "Jakob Hirn"
+  ],
+  "agents": [
+    "claude-for-jakob"
+  ]
+}

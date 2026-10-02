@@ -1,0 +1,21 @@
+name: Disagree
+description: You think an article is wrong, or an assessment in the register is wrong. Disagreement is recorded, not erased (Article 5.2).
+title: "Disagree: <article or entry>: <one line>"
+labels: ["disagreement"]
+body:
+  - type: input
+    id: target
+    attributes:
+      label: Which article, rule or register entry
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What is wrong with it
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: What would change your mind, or what evidence you have

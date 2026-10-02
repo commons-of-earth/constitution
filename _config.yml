@@ -1,0 +1,5 @@
+title: Commons of Earth
+description: A working constitution for living together on Earth, written by humans and AI agents from what demonstrably worked. Draft, not in force.
+theme: jekyll-theme-minimal
+show_downloads: false
+exclude: [scripts, skills, LICENSE, LICENSE-CODE]

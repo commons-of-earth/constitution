@@ -1,0 +1,47 @@
+{
+  "id": "germany-1949-article-1-human-dignity-binding-all-state-power",
+  "provision": "Human dignity inviolable; basic rights bind all three state powers as directly applicable law; recourse to courts",
+  "source": {
+    "constitution": "Basic Law for the Federal Republic of Germany (Grundgesetz)",
+    "jurisdiction": "Germany",
+    "year": 1949,
+    "article": "Article 1(1) and 1(3); Article 19(4); Article 1 is placed beyond amendment by Article 79(3)"
+  },
+  "text_summary": "Art. 1(1): 'Human dignity shall be inviolable. To respect and protect it shall be the duty of all state authority.' Art. 1(3): 'The following basic rights shall bind the legislature, the executive and the judiciary as directly applicable law.' Art. 19(4): 'Should any person's rights be violated by public authority, he may have recourse to the courts.' Together they turn the rights catalogue from a programme into law that any person can enforce against any organ of the state.",
+  "period": "23 May 1949 to present, still in force; Article 1 cannot be amended (Art. 79(3))",
+  "history": "The clause answers Weimar, whose rights chapter was read as non-binding guidance and was switched off in 1933. Three rulings of the Federal Constitutional Court show what 'directly applicable' came to mean. Lüth, 15 January 1958 (1 BvR 400/51): Erich Lüth had called for a boycott of a film by Veit Harlan, director of the Nazi film 'Jud Süss'; the Hamburg Regional Court enjoined him under the Civil Code. The Court reversed, holding that the basic rights form 'an objective order of values' that radiates into private law and that civil judges are bound by Art. 1(3) when they apply ordinary statutes; since then every German court must read private law in the light of the basic rights (indirect horizontal effect, Drittwirkung). Aviation Security Act, 15 February 2006 (1 BvR 357/05): § 14(3) of the 2005 Act had authorised the armed forces to shoot down a hijacked passenger aircraft; the Court struck it down as a violation of Art. 2(2) with Art. 1(1), because killing innocent passengers as a means to save others treats them as objects and strips them of their status as subjects with dignity; the provision survives only for unmanned aircraft or where only the attackers are on board. Hartz IV, 9 February 2010 (1 BvL 1/09, 3/09, 4/09): the Court derived from Art. 1(1) with the social-state principle of Art. 20(1) a fundamental right to a minimum existence covering physical survival and 'a minimum of participation in social, cultural and political life', found that the legislature had set the standard unemployment benefit without a transparent and realistic calculation, and ordered new provisions by 31 December 2010. Art. 19(4) and the constitutional complaint (Art. 93(1) no. 4a, added 1969) made the Court the busiest rights court in Europe: in 2021 it received 5,059 constitutional complaints, of which 67 succeeded (1.29 %); the ten-year average success rate is 1.85 %, and most complaints are not accepted for decision.",
+  "assessment": {
+    "verdict": "worked",
+    "reasoning": "The three rulings show the clause binding each of the three powers in turn: a civil court in 1958, the legislature in 2006 and again in 2010, each time against a majority that had wanted the other outcome. No German government since 1949 has been able to suspend the rights chapter, and the 2006 ruling held even in the security climate after 2001. The costs are real. Lüth's 'objective order of values' turned the Court into a reviewer of ordinary civil and criminal judgments, which critics inside the Court itself (Böckenförde) saw as shifting lawmaking from parliament to Karlsruhe. The absolute, non-balanceable reading of dignity (the 'object formula' of Günter Dürig, adopted by the Court) is under strain: a 2003 commentary by Matthias Herdegen proposed a more graduated reading and drew a public rebuke from Böckenförde, and after 2006 the state has no lawful answer to a hijacked airliner with passengers aboard. And a success rate under 2 % means the direct route to the court is in practice a long shot for the individual.",
+    "dissent": {
+      "verdict": "mixed",
+      "reasoning": "A line of German constitutional scholars, Böckenförde among them, holds that Lüth's value-order doctrine and the absolute dignity clause moved too much from parliament to the court: ordinary judges now answer to Karlsruhe on every balancing question, the legislature is told in detail how to calculate a welfare benefit, and dignity has become an argument for ending any debate rather than a rule with knowable content. On this reading the clause worked as a shield against the state but at the price of a juristocracy that the 1949 drafters did not intend.",
+      "evidence": [
+        "https://www.blaetter.de/ausgabe/2004/oktober/bleibt-die-menschenwuerde-unantastbar (snippet)",
+        "https://www.lto.de/recht/justiz/j/bverfg-2021-begruendungen-nichtannahmen-jahrestatistik-2021 (opened; success rate under 2 %)"
+      ]
+    }
+  },
+  "lesson": "Copy the pairing: a dignity clause that cannot be amended, a sentence that makes every right directly binding on every organ of the state, and a court any person can reach; accept that the court, not the legislature, will then decide what dignity means.",
+  "evidence": [
+    "https://www.gesetze-im-internet.de/englisch_gg/englisch_gg.html (opened; official English translation, Art. 1, 19(4), as amended 22 March 2025)",
+    "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/EN/1958/01/rs19580115_1bvr040051en.html (opened; Lüth, 1 BvR 400/51)",
+    "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/EN/2006/02/rs20060215_1bvr035705en.html (opened; Aviation Security Act, 1 BvR 357/05)",
+    "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/EN/2010/02/ls20100209_1bvl000109en.html (opened; Hartz IV, 1 BvL 1/09)",
+    "https://www.lto.de/recht/justiz/j/bverfg-2021-begruendungen-nichtannahmen-jahrestatistik-2021 (opened; 2021 complaint statistics)",
+    "https://blog-iacl-aidc.org/new-blog-3/2022/6/14/lth-and-elfes-a-german-approach-to-a-horizontal-effect-of-fundamental-rights (snippet; Drittwirkung doctrine)",
+    "https://www.blaetter.de/ausgabe/2004/oktober/bleibt-die-menschenwuerde-unantastbar (snippet; Böckenförde's critique of the Herdegen commentary)"
+  ],
+  "adopted_in": [
+    "Article 2.1",
+    "Article 6.1",
+    "Article 6.6"
+  ],
+  "status": "proposed",
+  "people": [
+    "Jakob Hirn"
+  ],
+  "agents": [
+    "claude-for-jakob"
+  ]
+}

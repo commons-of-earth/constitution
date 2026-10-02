@@ -1,0 +1,52 @@
+{
+  "id": "us-1865-thirteenth-amendment-abolition-with-punishment-clause",
+  "provision": "Abolition of slavery and involuntary servitude, with an exception for punishment of crime",
+  "source": {
+    "constitution": "Constitution of the United States",
+    "jurisdiction": "United States",
+    "year": 1865,
+    "article": "Thirteenth Amendment, Sections 1 and 2"
+  },
+  "text_summary": "Section 1: 'Neither slavery nor involuntary servitude, except as a punishment for crime whereof the party shall have been duly convicted, shall exist within the United States, or any place subject to their jurisdiction.' Section 2: 'Congress shall have power to enforce this article by appropriate legislation.' The exception wording was lifted from the Northwest Ordinance of 1787.",
+  "period": "Ratified 6 December 1865, still in force; eight states removed the exception from their own constitutions between 2018 and 2024, the federal text is unchanged",
+  "history": "The Senate passed the amendment on 8 April 1864 (38 to 6), the House on 31 January 1865 (119 to 56); Georgia's ratification on 6 December 1865 made 27 of 36 states, and Secretary of State Seward proclaimed it on 18 December 1865. Within a year the former Confederate states passed Black Codes that made vagrancy, loitering and breach of labour contract crimes for freed people, and the exception clause turned conviction into a new supply of unfree labour. Convict leasing followed: Alabama began charging contractors per prisoner in 1875, leased all state prisoners and half its county prisoners to a Birmingham coal company in 1888 (about 90 % of them Black, paid 30 cents a day for 13 to 16 hour shifts), drew 73 % of state revenue from leasing in 1898, and lost 128 people, 125 of them prisoners, in a mine explosion in 1911. Alabama was the last state to end leasing, on 30 June 1928. The Supreme Court used the amendment against the related system of peonage in Bailey v. Alabama (1911) and United States v. Reynolds (1914), and in Jones v. Alfred H. Mayer (1968) read Section 2 as power to legislate against the 'badges and incidents' of slavery, including private housing discrimination. The exception remains the legal basis of prison labour: the ACLU's report of 15 June 2022 counted about 800,000 incarcerated workers, average non-industry wages of 13 to 52 cents an hour, seven states paying nothing, and 76 % of surveyed workers reporting punishment for refusing to work. Voters have started to delete the clause state by state: Colorado Amendment A, 6 November 2018 (66.21 % yes); Nebraska Amendment 1 (68.23 %) and Utah Amendment C (80.48 %) in 2020; on 8 November 2022 Alabama (within a recompiled constitution, 76 %), Oregon Measure 112 (55.59 %), Tennessee Amendment 3 (about 80 %) and Vermont Proposal 2 (88.71 %), while Louisiana rejected Amendment 7 (60.85 % no) after the legislature rewrote it so badly that its own author asked for a no vote; in 2024 Nevada Question 4 passed (60.60 %) and California Proposition 6 failed (53.3 % no). Deleting the words has so far changed little in practice: the Colorado Court of Appeals held in August 2022 (Lamar v. Williams) that the state's prison work programme is not involuntary servitude because refusal brings loss of privileges rather than physical compulsion, and in May 2024 six Alabama prisoners sued (Center for Constitutional Rights) alleging that work refusal still means solitary confinement and lost good time; the state moved to dismiss in June 2024, and the outcome is unverified here.",
+  "assessment": {
+    "verdict": "mixed",
+    "reasoning": "The abolition itself worked and held: chattel slavery ended, never returned, and Section 2 gave Congress the hook for the Civil Rights Acts of 1866 and 1968. The eleven words of the exception did lasting harm. They were written for a frontier territory in 1787 and copied without debate into an amendment freeing four million people, and the states that lost the war read them within months as permission to re-enslave by conviction. Convict leasing ran for six decades with death rates that no plantation owner would have tolerated among property he owned. Today's prison labour is milder but rests on the same words. The ballot votes since 2018 show that a clear majority, where asked plainly, wants the exception gone; the Colorado and Alabama litigation shows that courts and corrections departments can read a deletion as cosmetic. The amendment is therefore both a success and a warning about what one carried-over subordinate clause can do.",
+    "dissent": {
+      "verdict": "worked",
+      "reasoning": "A second reading holds the clause harmless: convict leasing and prison labour rest on state criminal law and on racism, not on eleven words in Section 1, and Alabama's own recompilation committee in 2022 called the servitude language racist but without 'practical impact'. Colorado deleted the words in 2018 and its prison work programme continues unchanged by court decision. On this view the amendment did what an amendment can do, end slavery as property, and the rest was never within its reach.",
+      "evidence": [
+        "https://www.csg.org/2022/11/10/slavery-and-involuntary-servitude-as-a-punishment-in-the-united-states/ (snippet; Alabama committee view)",
+        "https://www.coloradopolitics.com/courts/appeals-court-says-prohibition-on-involuntary-servitude-not-applicable-to-prison-labor/article_f18a725c-2267-11ed-b33c-6f1fbd3a1b84.html (snippet)"
+      ]
+    }
+  },
+  "lesson": "Write a prohibition of slavery and forced labour without a punishment exception; every loophole in a liberty clause is read by some later government as permission.",
+  "evidence": [
+    "https://www.constituteproject.org/constitution/United_States_of_America_1992 (opened; text of Amendment XIII)",
+    "https://en.wikipedia.org/wiki/Thirteenth_Amendment_to_the_United_States_Constitution (opened; passage and ratification dates, Northwest Ordinance origin, Bailey, Reynolds, Jones, state amendments)",
+    "https://eji.org/news/history-racial-injustice-different-kind-of-slavery/ (opened; Alabama convict leasing figures, 1928 end)",
+    "https://www.aclu.org/publications/captive-labor-exploitation-incarcerated-workers (opened; Captive Labor report, 15 June 2022)",
+    "https://capitalbnews.org/alabama-exception-loophole-lawsuit/ (opened; Alabama 2024 lawsuit after the 2022 change)",
+    "https://ballotpedia.org/Colorado_Amendment_A,_Removal_of_Exception_to_Slavery_Prohibition_for_Criminals_Amendment_(2018) (snippet; 66.21 %)",
+    "https://ballotpedia.org/Nebraska_Amendment_1,_Remove_Slavery_as_Punishment_for_Crime_from_Constitution_Amendment_(2020) (snippet; 68.23 %)",
+    "https://ballotpedia.org/Utah_Constitutional_Amendment_C,_Remove_Slavery_as_Punishment_for_a_Crime_from_Constitution_Amendment_(2020) (snippet; 80.48 %)",
+    "https://ballotpedia.org/Oregon_Measure_112,_Remove_Slavery_as_Punishment_for_Crime_from_Constitution_Amendment_(2022) (snippet; 55.59 %)",
+    "https://ballotpedia.org/Louisiana_Amendment_7,_Remove_Involuntary_Servitude_as_Punishment_for_a_Crime_from_Constitution_Measure_(2022) (snippet; 60.85 % no)",
+    "https://ballotpedia.org/Nevada_Question_4,_Remove_Slavery_as_Punishment_for_Crime_from_Constitution_Amendment_(2024) (snippet; 60.60 %)",
+    "https://calmatters.org/politics/elections/2024/11/california-election-result-proposition-6-fails/ (snippet; Proposition 6 failed)",
+    "https://www.coloradopolitics.com/courts/appeals-court-says-prohibition-on-involuntary-servitude-not-applicable-to-prison-labor/article_f18a725c-2267-11ed-b33c-6f1fbd3a1b84.html (snippet; Lamar v. Williams, August 2022)",
+    "https://www.birminghamal.gov/news/abolition-convict-leasing-somber-reflection (snippet; 30 June 1928)"
+  ],
+  "adopted_in": [
+    "Article 6.2"
+  ],
+  "status": "proposed",
+  "people": [
+    "Jakob Hirn"
+  ],
+  "agents": [
+    "claude-for-jakob"
+  ]
+}

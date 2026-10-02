@@ -1,0 +1,58 @@
+{
+  "id": "alaska-1976-permanent-fund-and-dividend",
+  "provision": "Constitutional permanent fund from mineral revenue with untouchable principal; statutory per-resident dividend",
+  "source": {
+    "constitution": "Constitution of the State of Alaska (1956/1959), amended by Ballot Proposition 2 of 2 November 1976",
+    "jurisdiction": "State of Alaska, United States",
+    "year": 1976,
+    "article": "Article IX, Section 15 (Alaska Permanent Fund), with Section 7 (Dedicated Funds) amended to allow it; dividend only by statute, AS 43.23"
+  },
+  "text_summary": "'At least twenty-five percent of all mineral lease rentals, royalties, royalty sale proceeds, federal mineral revenue sharing payments and bonuses received by the State shall be placed in a permanent fund, the principal of which shall be used only for those income-producing investments specifically designated by law as eligible for permanent fund investments. All income from the permanent fund shall be deposited in the general fund unless otherwise provided by law.' The dividend to every resident is not in the constitution; it rests on a 1982 statute.",
+  "period": "In force since 21 February 1977 (still in force); dividend paid every year since 1982",
+  "history": "Voters approved the amendment on 2 November 1976 by 75,588 to 38,518 (66.2 per cent yes), after the legislature had spent the first $900 million Prudhoe Bay lease bonus of 1969 within a few years. The fund received its first deposit of $734,000 on 28 February 1977. In 1980 the legislature created the Alaska Permanent Fund Corporation with a board of trustees as fiduciaries; in 1982 it paid the first dividend of $1,000 per resident and enacted inflation-proofing of the principal. Dividends since then have ranged from $331 (1984) to $2,072 (2015) and $3,284 in 2022 (including an energy relief payment); $1,000 in 2025. Total dividends paid 1982-2025: about $31.3 billion. The fund stood at $85.1 billion in 2025 and $91.9 billion at 30 June 2026, with lifetime realised earnings above $93 billion, i.e. more than the fund's own value. In an advisory vote of 14 September 1999 (Ballotpedia lists 17 September) voters rejected using fund earnings to balance the state budget by 83.25 to 16.75 per cent. The political fight began when oil prices fell in 2015: on 29 June 2016 Governor Walker vetoed half the dividend appropriation, cutting the payment to $1,022, and the courts upheld the veto in 2016-2017, confirming that the dividend is an ordinary appropriation. In 2018 the legislature passed SB 26, a 'percent of market value' draw of 5.25 per cent (5 per cent from FY2022) of the fund's average value, which can be split between dividend and government; in FY2019 about 63 per cent of the draw went to operations. Governor Dunleavy's 2021 proposal (SJR 6) to write a '50-50' dividend into the constitution never reached the required two-thirds in the legislature and did not go to the 2022 ballot. In 2023 the Senate passed a '75-25' formula (SB 107) that the House did not take up; the Permanent Fund Corporation warned in July 2023 that the spendable earnings reserve could run dry within three years. Since 2016 the dividend has been set each year by negotiation rather than by the statutory formula.",
+  "assessment": {
+    "verdict": "worked",
+    "reasoning": "The constitutional part did what it was written to do: fifty years on, no legislature has been able to spend the principal, and a one-off resource windfall has become a fund larger than its total deposits that now finances a large share of the state budget. The dividend produced the political constituency that guards the fund: 90 per cent of Alaskans say every resident should receive it, 64 per cent would rather pay an income tax than lose it (up from 29 per cent in 1984), and the 1999 advisory vote shows the same across party lines. Goldsmith (2012) found Alaska to be the only US state in which the poorest fifth gained more income than the richest fifth over recent decades; Berman (2024) measures a 20-40 per cent reduction in poverty, though only a 0.02 point drop in the Gini coefficient. The weaknesses are equally clear. The dividend's statutory basis means governors and legislatures can cut it, which has happened every year since 2016 and has turned the fund into the centre of a permanent budget fight. The state remains dependent on oil both for deposits and for its general budget, with no broad-based tax to fall back on. And the rule leaves open what 'principal' and 'income' mean, which is where the current struggle over the earnings reserve is fought."
+  ,
+    "dissent": {
+      "verdict": "mixed",
+      "reasoning": "Critics in Alaska argue the dividend has crowded out basic state services and made any tax politically impossible, so that the fund now feeds a structural deficit instead of curing it; others note the inequality effect is small once measured properly (Gini minus 0.02) and that broad popularity of a cash payment is not evidence of good fiscal design.",
+      "evidence": [
+        "https://onlinelibrary.wiley.com/doi/full/10.1002/pop4.398 (snippet; Berman 2024, small Gini effect)",
+        "https://alaskapublic.org/2023/09/21/alaska-heading-toward-fiscal-brick-wall-that-could-force-end-to-pfd-formula-debate/ (opened)"
+      ]
+    }
+  },
+  "lesson": "Copy the constitutional lock on a resource fund's principal with a fixed minimum deposit, but also write the citizens' share of the income into the constitution, because a dividend that lives in statute is renegotiated every budget year.",
+  "evidence": [
+    "https://apfc.org/wp-content/uploads/2023/04/APFC-Constitution-and-Statutes_2020.pdf (opened; text of Art. IX Sec. 15, effective 21 February 1977)",
+    "https://ltgov.alaska.gov/information/alaskas-constitution/ (snippet; official text, site blocks automated access)",
+    "https://50constitutions.org/ak/constitution/section-id-55566 (opened; 1976 text and ratification figures)",
+    "https://ballotpedia.org/Alaska_Permanent_Fund_Amendment,_Proposition_2_(1976) (opened; 75,588 to 38,518, ballot title)",
+    "https://apfc.org/about/history/ (opened; first deposit 1977, APFC 1980, first dividend 1982, $85.1bn in 2025)",
+    "https://pfd.alaska.gov/division-info/summary-of-dividend-applications-payments (opened; dividend amounts 1982-2025, total $31.3bn)",
+    "https://ballotpedia.org/Alaska_Permanent_Fund_Advisory_Question_(1999) (opened; 153,996 to 30,994)",
+    "https://www.akleg.gov/basis/Bill/Plaintext/21?Hsid=SB0076B (snippet; special advisory election 14 September 1999)",
+    "https://www.adn.com/politics/2016/06/29/walker-budget-vetoes-include-capping-permanent-fund-divdends-at-1000/ (snippet)",
+    "https://www.ktoo.org/2016/11/17/judge-upholds-walkers-veto-halving-permanent-fund-dividends/ (snippet)",
+    "https://www.akleg.gov/basis/get_documents.asp?session=31&docid=60648 (snippet; SB 26 POMV draw 5.25 / 5 per cent)",
+    "https://alaskapublic.org/2021/05/12/new-proposal-from-gov-dunleavy-would-put-pfd-in-constitution-along-with-rural-electricity-fund/ (snippet; SJR 6)",
+    "https://www.adn.com/politics/alaska-legislature/2023/05/01/alaska-senate-advances-a-75-25-permanent-fund-dividend-formula-bill-to-a-hostile-house/ (snippet)",
+    "https://alaskapublic.org/2023/09/21/alaska-heading-toward-fiscal-brick-wall-that-could-force-end-to-pfd-formula-debate/ (opened)",
+    "https://mustreadalaska.com/apfcs-fy26-annual-report-permanent-fund-sees-12-42-return-exceeding-8-54-objective/ (snippet; $91.9bn at 30 June 2026)",
+    "https://scholarworks.alaska.edu/bitstream/handle/11122/10581/2019_05_20-EffectsOfAKPFD.pdf (snippet; ISER review citing Goldsmith 2012)",
+    "https://onlinelibrary.wiley.com/doi/full/10.1002/pop4.398 (snippet; Berman 2024 on poverty and Gini)",
+    "https://economicsecurityproject.org/news/what-a-new-survey-from-alaska-can-teach-us-about-public-support-for-basic-income%EF%BF%BC/ (snippet; 64 per cent prefer income tax to ending the dividend)"
+  ],
+  "adopted_in": [
+    "Article 15.3",
+    "Article 14.4"
+  ],
+  "status": "proposed",
+  "people": [
+    "Jakob Hirn"
+  ],
+  "agents": [
+    "claude-for-jakob"
+  ]
+}

@@ -1,44 +1,72 @@
 {
   "$schema": "https://raw.githubusercontent.com/metagov/constitution-template/main/schema.json",
   "name": "Working Constitution of the Commons of Earth",
-  "version": "0.3.1-draft",
-  "date": "2026-09-20",
+  "version": "0.4.0-draft",
+  "date": "2026-10-02",
   "inForce": false,
   "language": "en",
   "authoritativeLanguage": "en",
   "translations": {
-    "de": "de/VERFASSUNG.md"
+    "de": "de/VERFASSUNG.md",
+    "es": "translations/es/CONSTITUTION.md",
+    "fr": "translations/fr/CONSTITUTION.md",
+    "pt": "translations/pt/CONSTITUTION.md",
+    "ar": "translations/ar/CONSTITUTION.md",
+    "hi": "translations/hi/CONSTITUTION.md",
+    "zh": "translations/zh/CONSTITUTION.md",
+    "ru": "translations/ru/CONSTITUTION.md"
   },
   "license": "CC0-1.0",
-  "previousConstitutionURI": "https://github.com/commons-of-earth/constitution/blob/v0.2.0-draft/CONSTITUTION.md",
+  "previousConstitutionURI": "https://github.com/commons-of-earth/constitution/blob/v0.3.1-draft/CONSTITUTION.md",
   "ratification": {
     "requiredHumans": 100,
     "requiredCountries": 10,
     "threshold": "3/4 of votes cast",
-    "sunset": "2027-09-19"
+    "sunset": "2027-09-19",
+    "requiresCourt": true,
+    "register": "register/ratifications.md",
+    "howTo": "RATIFY.md"
   },
   "layers": {
     "foundation": {
+      "file": "CONSTITUTION.md",
       "articles": [
         "preamble",
         1,
         2,
         3,
-        9,
-        11,
-        12
-      ],
-      "threshold": "3/4",
-      "minOpenDays": 21
-    },
-    "operating": {
-      "articles": [
         4,
         5,
         6,
         7,
         8,
-        10
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "threshold": "3/4",
+      "minOpenDays": 21,
+      "exception": "Article 11.1 core is not amendable"
+    },
+    "operating": {
+      "file": "GOVERNANCE.md",
+      "rules": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
       ],
       "threshold": "2/3",
       "minOpenDays": 14
@@ -61,7 +89,8 @@
       "registeredBy": "human member (operator), accountable",
       "proof": "commits signed with the registered public key; reviewer verifies the signature against the register before reading",
       "revocation": "line in the register with date and reason; lines are never deleted; contributions signed after revocation are closed",
-      "allowedSigners": "register/allowed_signers"
+      "allowedSigners": "register/allowed_signers",
+      "dispositions": "register/dispositions.md"
     },
     "dailyQuota": {
       "proposals": 1,
@@ -100,7 +129,10 @@
       "notYetEnforced": [
         "comment quota"
       ]
-    }
+    },
+    "holdOffice": false,
+    "holdMoney": false,
+    "rule": "GOVERNANCE.md Rule 2"
   },
   "quotes": [
     {
@@ -123,5 +155,101 @@
     "kind": "constitutional provisions with historical evidence",
     "schema": "register/schema.json",
     "evidenceMap": "docs/EVIDENCE.md"
+  },
+  "operatingRules": "GOVERNANCE.md",
+  "structure": {
+    "parts": [
+      {
+        "part": 1,
+        "title": "Foundations",
+        "articles": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "part": 2,
+        "title": "Rights and duties",
+        "articles": [
+          6,
+          7,
+          8
+        ]
+      },
+      {
+        "part": 3,
+        "title": "Power",
+        "articles": [
+          9,
+          10,
+          11,
+          12,
+          13
+        ]
+      },
+      {
+        "part": 4,
+        "title": "The commons and the economy",
+        "articles": [
+          14,
+          15
+        ]
+      },
+      {
+        "part": 5,
+        "title": "The Commons as a community",
+        "articles": [
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ]
+      }
+    ],
+    "articles": {
+      "1": "Purpose and scope",
+      "2": "The human being",
+      "3": "The Earth",
+      "4": "Future generations",
+      "5": "Evidence",
+      "6": "Rights of every human",
+      "7": "Duties",
+      "8": "Knowledge, truth and machines",
+      "9": "Where power sits",
+      "10": "How decisions are made",
+      "11": "Limits of power",
+      "12": "Justice",
+      "13": "Peace",
+      "14": "The commons",
+      "15": "Economy and money",
+      "16": "Members",
+      "17": "Defection and enforcement",
+      "18": "Layers and operating rules",
+      "19": "Amendment and versions",
+      "20": "Ratification and sunset",
+      "21": "Forking and licence"
+    },
+    "unamendableCore": [
+      "Article 2.1",
+      "Article 2.3",
+      "Article 6.5",
+      "Article 12",
+      "Article 21",
+      "Article 11.1"
+    ]
+  },
+  "records": {
+    "neverDeleted": [
+      "register/agents.md",
+      "register/dispositions.md",
+      "register/ratifications.md",
+      "CHANGELOG.md",
+      "docs/decisions/"
+    ]
   }
 }

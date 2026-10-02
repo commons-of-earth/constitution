@@ -1,0 +1,48 @@
+{
+  "id": "paris-agreement-2015-pledges-without-enforcement",
+  "provision": "Nationally determined contributions reviewed but not enforced; withdrawal on one year's notice",
+  "source": {
+    "constitution": "Paris Agreement (adopted 12 December 2015 by decision 1/CP.21 under the UN Framework Convention on Climate Change)",
+    "jurisdiction": "Global; 195 parties (Iran, Libya and Yemen never ratified; the United States withdrew effective 27 January 2026)",
+    "year": 2015,
+    "article": "Articles 2.1(a), 4.2, 4.3, 4.9, 14, 15, 21 and 28"
+  },
+  "text_summary": "The parties aim to hold warming 'well below 2 °C' and pursue 1.5 °C (Art. 2.1(a)). 'Each Party shall prepare, communicate and maintain successive nationally determined contributions that it intends to achieve' (Art. 4.2); each new contribution 'will represent a progression' and the party's 'highest possible ambition' (Art. 4.3), communicated every five years (Art. 4.9). The content of the contribution and whether it is met are left to the party: the compliance committee is 'expert-based and facilitative' and must work in a manner 'transparent, non-adversarial and non-punitive' (Art. 15.2). A global stocktake of collective progress runs in 2023 and every five years after (Art. 14). Any party may withdraw three years after the agreement enters into force for it, effective one year after notification (Art. 28).",
+  "period": "In force since 4 November 2016; still in force",
+  "history": "The 55-party, 55-per-cent threshold of Article 21 was crossed on 5 October 2016 and the agreement entered into force thirty days later, less than a year after adoption, a speed no comparable treaty has matched. The United States gave notice of withdrawal on 4 November 2019, the first day Article 28 allowed, left on 4 November 2020, re-accepted on 20 January 2021 (effective 19 February 2021), and on 27 January 2025 notified withdrawal again (depositary notification C.N.71.2025), effective 27 January 2026; on 7 January 2026 the administration also directed withdrawal from the Framework Convention itself and 65 other bodies, which under Article 28.3 would end any later route back. The first global stocktake, decision 1/CMA.5 adopted in Dubai on 13 December 2023, records both sides of the ledger: projected warming fell from about 4 °C before the agreement to 2.1-2.8 °C with full implementation of current contributions (para. 18), yet those contributions would cut emissions only about 2 per cent below 2019 levels by 2030 against the 43 per cent the 1.5 °C pathway needs (paras. 21, 27), and the decision could only 'call on' parties to contribute to 'transitioning away from fossil fuels in energy systems' (para. 28(d)). Political scientists had described the design at the outset as 'pledge and review' (Keohane and Oppenheimer 2016), relying on transparency and peer pressure in place of sanctions; Falkner (2016) read it as the price of inclusivity in an unequal system.",
+  "assessment": {
+    "verdict": "critical",
+    "reasoning": "Measured against its own Article 2, the provision has not worked: the contributions are set unilaterally, the review cannot change them, the committee cannot punish, and the stocktake of 2023 found a gap between pledged and needed reductions of an order of magnitude. The withdrawal clause lets the largest historical emitter leave twice in a decade with no cost beyond reputation, and the second exit took the Framework Convention with it. The design bought near-universal membership by removing everything a member could be held to, and the cheapness of joining has turned out to be the cheapness of leaving. The defenders' point is real: nothing stronger was ratifiable in 2015, and the stocktake itself records the shift from a 4 °C to a 2.1-2.8 °C trajectory.",
+    "dissent": {
+      "verdict": "mixed",
+      "reasoning": "Near-universal participation is itself the achievement: 195 parties, entry into force within a year, and every party now publishing contributions that are compared in public. On this reading the Agreement never promised enforcement; it promised a cycle of transparency, review and ratcheting (Keohane and Oppenheimer's 'pledge and review'), and the first stocktake is that cycle working as designed, naming the gap and setting the 43 per cent benchmark. The projected-warming range in paragraph 18 fell by more than a degree between 2015 and 2023, and a withdrawing United States could not take the other 194 parties with it.",
+      "evidence": [
+        "https://unfccc.int/sites/default/files/resource/cma5_auv_4_gst.pdf (opened; paras 18-19)",
+        "https://www.lse.ac.uk/granthaminstitute/wp-content/uploads/2016/10/Falkner_2016_TheParisAgreement.pdf (snippet)"
+      ]
+    }
+  },
+  "lesson": "Avoid commitments whose content, measurement and consequence all rest with the party making them; a global constitution should pair universal membership with at least one of the three levers Montreal used (trade measures, majority-adopted schedules, paid compliance).",
+  "evidence": [
+    "https://unfccc.int/files/meetings/paris_nov_2015/application/pdf/paris_agreement_english_.pdf (opened; Articles 4, 15, 21, 28)",
+    "https://unfccc.int/sites/default/files/resource/cma5_auv_4_gst.pdf (opened; decision 1/CMA.5, first global stocktake, paras 18, 21, 27, 28)",
+    "https://treaties.un.org/doc/Publication/CN/2025/CN.71.2025-Eng.pdf (opened; US withdrawal notified 27 January 2025, effective 27 January 2026)",
+    "https://www.congress.gov/crs-product/R48504 (snippet; CRS on the withdrawal process, 2019-2021 dates)",
+    "https://climate.law.columbia.edu/content/white-house-and-state-department-announce-withdrawals-international-organizations (snippet; UNFCCC withdrawal directed 7 January 2026)",
+    "https://www.everycrsreport.com/reports/IN10590.html (snippet; threshold crossed 5 October 2016, entry into force 4 November 2016)",
+    "https://www.lse.ac.uk/granthaminstitute/wp-content/uploads/2016/10/Falkner_2016_TheParisAgreement.pdf (snippet; Falkner 2016)",
+    "https://repository.law.miami.edu/cgi/viewcontent.cgi?article=2034&context=fac_articles (snippet; the Article 15 compliance mechanism)",
+    "https://x.com/CFR_org/status/2016273590052634860 (snippet; Iran, Libya, Yemen the only other non-parties)"
+  ],
+  "adopted_in": [
+    "Article 17.1",
+    "Article 17.2"
+  ],
+  "status": "proposed",
+  "people": [
+    "Jakob Hirn"
+  ],
+  "agents": [
+    "claude-for-jakob"
+  ]
+}

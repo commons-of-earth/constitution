@@ -1,0 +1,48 @@
+{
+  "id": "switzerland-1999-article-5a-subsidiarity-and-cantonal-sovereignty",
+  "provision": "Cantons sovereign unless the federal constitution says otherwise; subsidiarity in allocating and performing state tasks",
+  "source": {
+    "constitution": "Federal Constitution of the Swiss Confederation of 18 April 1999 (SR 101)",
+    "jurisdiction": "Switzerland",
+    "year": "1999; Art. 5a and 43a added by popular vote 28 November 2004, in force 1 January 2008",
+    "article": "Art. 3, Art. 5a, Art. 42, Art. 43, Art. 43a"
+  },
+  "text_summary": "Art. 3: The Cantons are sovereign except to the extent that their sovereignty is limited by the Federal Constitution; they exercise all rights that are not vested in the Confederation. Art. 5a: The principle of subsidiarity must be observed in the allocation and performance of state tasks. Art. 42: the Confederation fulfils the duties assigned to it by the constitution; Art. 43: the Cantons decide which duties they fulfil within their powers; Art. 43a(1): the Confederation only undertakes tasks that the Cantons are unable to perform or which require uniform regulation, and whoever benefits from a public service bears its cost and decides its nature (fedlex.admin.ch, official English translation).",
+  "period": "Art. 3 in the 1999 constitution, continuing the residual-powers rule of the earlier federal constitutions; Art. 5a and 43a in force since 1 January 2008; still in force",
+  "history": "Art. 3 is the residual-powers clause of the federal state, carried into the 1999 constitution. The explicit subsidiarity rule came with the NFA (Neugestaltung des Finanzausgleichs und der Aufgabenteilung): on 28 November 2004 the people (64.37 per cent yes) and 20.5 of 23 cantonal votes approved the federal decree, with Nidwalden, Schwyz and Zug rejecting; turnout was 36.86 per cent. Art. 5a and 43a entered into force on 1 January 2008 together with the new fiscal equalisation. The Federal Council's NFA message (BBl 2002 2458) described subsidiarity as a maxim of state policy that is in principle not justiciable, and since Art. 190 obliges the Federal Supreme Court to apply federal acts, no Swiss court can strike down a federal statute for breaching Art. 5a; enforcement runs through the cantonal referendum, the Council of States and politics. In 2017 Avenir Suisse (NFA 2) found that the first reform had disentangled only about 40 per cent of shared tasks, that 17 tasks were still jointly financed, and that centralisation continued, proposing to shift about CHF 10 billion of spending back to the cantons. The European Union wrote a comparable rule into Article 5(3) TEU and gave national parliaments a yellow-card procedure under Protocol No 2 (one third of parliamentary votes forces the Commission to review). It has been triggered three times: May 2012 against the Monti II regulation on collective action (withdrawn in September 2012, the Commission saying it saw no subsidiarity breach but no majority), October 2013 against the European Public Prosecutor's Office (proposal maintained) and May 2016 against the posted-workers revision (maintained). The Court of Justice has never annulled an EU act for breach of subsidiarity.",
+  "assessment": {
+    "verdict": "mixed",
+    "reasoning": "In Switzerland the combination works: the cantons keep their own taxes, schools, police and courts, and a federal government that overreaches faces the cantonal majority in referendums and a Council of States elected per canton. But the written principle itself is weak. The Swiss legislator admits Art. 5a is not justiciable, Art. 190 shields federal statutes from review, and the main think tank on the subject says centralisation continued after 2008. The EU transplant shows the same pattern without the Swiss safeguards: a textual principle, a procedural alarm used three times in sixteen years, no judicial teeth, two of three objections ignored. Subsidiarity therefore worked where the lower level already held the money and the veto, and did little as a standalone clause.",
+    "dissent": {
+      "verdict": "worked",
+      "reasoning": "Swiss federalism scholars and the Federal Council hold that a programmatic subsidiarity clause is the right design: a court deciding which level should run schools would politicise the judiciary, while the referendum, the Council of States and the cantonal conferences give the principle live political enforcement. On this reading the NFA has been a success (shared tasks reduced, equalisation accepted by donor cantons) and the EU comparison is unfair because the EU lacks the Swiss popular veto, not because the clause is defective.",
+      "evidence": [
+        "https://www.efv.admin.ch/dam/it/sd-web/hufXiXpTrMkk/NFA-Broschuere-d.pdf (snippet; Federal Finance Administration NFA brochure)",
+        "https://www.unifr.ch/federalism/fr/assets/public/files/Newsletter/IFF/4_3_Subsidiaraet_fiskalische_Aequivalenz.pdf (snippet; Institute of Federalism, Fribourg)"
+      ]
+    }
+  },
+  "lesson": "Copy the residual-powers rule and the subsidiarity test of Art. 43a(1) only together with the mechanisms that enforce them, a chamber of the member units and a popular veto on central law; a subsidiarity sentence on its own, as in the EU, changes almost nothing.",
+  "evidence": [
+    "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/404/20240303/en/html/fedlex-data-admin-ch-eli-cc-1999-404-20240303-en-html-4.html (opened; official English text of Art. 3, 5a, 42, 43, 43a, 190 with footnotes on the 28 Nov. 2004 vote and 1 Jan. 2008 entry into force)",
+    "https://www.constituteproject.org/constitution/Switzerland_2014 (opened; Art. 3, 5a, 42, 43, 43a, 47)",
+    "https://swissvotes.ch/vote/514.00 (opened; vote of 28 November 2004: 64.37 per cent yes, 20.5 of 23 cantonal votes, turnout 36.86 per cent)",
+    "https://www.newsd.admin.ch/newsd/message/attachments/53827.pdf (snippet; Federal Council report of 28 September 2018 on the division of tasks, citing BBl 2002 2458 on non-justiciability)",
+    "https://www.avenir-suisse.ch/en/publication/nfa-2-towards-a-revitalisation-of-swiss-federalism/ (opened; NFA 2, 2017)",
+    "https://en.wikipedia.org/wiki/Judicial_review_in_Switzerland (snippet; Art. 190)",
+    "https://www.europarl.europa.eu/factsheets/en/sheet/7/the-principle-of-subsidiarity (opened; Art. 5(3) TEU, Protocol No 2 thresholds, three yellow cards, no CJEU annulment)",
+    "https://blogs.lse.ac.uk/europpblog/2015/04/23/the-story-of-the-first-yellow-card-shows-that-national-parliaments-can-act-together-to-influence-eu-policy/ (snippet; Monti II withdrawal, September 2012)",
+    "https://ejls.eui.eu/wp-content/uploads/sites/32/2017/11/National-Parliaments-Third-Yellow-Card-and-the-Struggle-over-the-Revision-of-the-Posted-Workers-Directive-.pdf (snippet; third yellow card, 2016)"
+  ],
+  "adopted_in": [
+    "Article 9.1",
+    "Article 9.2"
+  ],
+  "status": "proposed",
+  "people": [
+    "Jakob Hirn"
+  ],
+  "agents": [
+    "claude-for-jakob"
+  ]
+}

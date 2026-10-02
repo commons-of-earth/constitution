@@ -1,0 +1,50 @@
+{
+  "id": "wales-2015-well-being-of-future-generations-act",
+  "provision": "Well-being goals binding public bodies; a Future Generations Commissioner who reviews and recommends, no veto",
+  "source": {
+    "constitution": "Well-being of Future Generations (Wales) Act 2015 (anaw 2), an Act of the National Assembly for Wales (now Senedd Cymru); compared with Hungary's Parliamentary Commissioner for Future Generations (Act of 2007, office from 2008)",
+    "jurisdiction": "Wales, United Kingdom",
+    "year": 2015,
+    "article": "ss 3-5 (well-being duty, seven goals, sustainable development principle and five ways of working); ss 17-23 (Commissioner, reviews, recommendations, duty to respond, Future Generations Report)"
+  },
+  "text_summary": "Each listed public body must set and pursue well-being objectives that contribute to seven national goals (a prosperous, a resilient, a healthier, a more equal Wales, a Wales of cohesive communities, of vibrant culture and thriving Welsh language, and a globally responsible Wales) and must act in accordance with the sustainable development principle, meeting present needs without compromising the ability of future generations to meet their own (ss 3-5). A Future Generations Commissioner appointed by Welsh Ministers may review how a body takes account of the long term and may make recommendations (ss 17-21); the body 'must take all reasonable steps to follow the course of action set out in a recommendation' unless it publishes its reasons and any alternative course (s 22). No sanction attaches to a reasoned refusal.",
+  "period": "Royal Assent 29 April 2015; duties in force from 1 April 2016; still in force",
+  "history": "Hungary went first: its Parliament created a Parliamentary Commissioner for Future Generations by a 2007 amendment to the ombudsman law, and Sándor Fülöp took office in May 2008 with powers to investigate complaints, intervene in administrative and court proceedings and advocate on legislation; his office is credited with blocking the privatisation of public water utilities and a straw-fired power plant in the Tokaj World Heritage area. Under the Fundamental Law of 2011, in force 1 January 2012, the independent office was merged into a single ombudsman as a deputy, and Fülöp resigned in August 2012. Wales enacted its Act on 29 April 2015; Sophie Howe became the first Commissioner in 2016 and served until January 2023, Derek Walker followed on 1 March 2023. The best-known test was the M4 relief road, a 23-km motorway south of Newport across the Gwent Levels. The Commissioner published 'Transport Fit for Future Generations' against the scheme in September 2018 and gave evidence at the public inquiry. The inspector (W S C Wadrup) recommended approval as being 'in the public interest'. On 4 June 2019 First Minister Mark Drakeford refused the Schemes and Orders: his decision letter rests on cost (estimates had risen from well under £1bn in 2015 to about £1.57bn at 2019 prices) and on 'very significant weight' given to the Gwent Levels SSSIs; the letter itself does not name the Act. The Commissioner's office claims the Act 'was used in 2019 to overturn the plan', and Drakeford later said the Act 'was very influential in that decision'. Scrutiny has been harsher. The Senedd's Public Accounts Committee reported on 17 March 2021 ('Delivering for Future Generations: The story so far', evidence from 97 organisations) that 'inconsistent leadership and slow culture change are failing the aspirations' of the Act; the Welsh Government accepted seven of eight recommendations only in principle in October 2021. Senedd committees also run annual scrutiny of the Commissioner, and the Auditor General for Wales examines bodies' compliance (s 15), which is the only audit-type check in the scheme.",
+  "assessment": {
+    "verdict": "mixed",
+    "reasoning": "On the credit side, the Act is still standing after a decade and two Commissioners, has a public respond-or-explain mechanism (s 22) rather than mere advice, and gave a minister a statutory vocabulary for refusing a road an inspector had approved. On the debit side, the one headline decision was formally made on cost and habitat grounds a minister could have used without the Act; the Commissioner has no power to stop anything, and the Senedd's own committee found implementation failing five years in. Hungary shows the fragility: an equivalent office with stronger powers (it could intervene in proceedings) was downgraded within four years when the government changed the constitution. The honest reading is that the Welsh model shifts argument and language and depends entirely on political will.",
+    "dissent": {
+      "verdict": "critical",
+      "reasoning": "Critics in the Senedd inquiry and in the public-administration literature hold that an Act with seven broad goals, no ranking between them, and a Commissioner who cannot enforce invites box-ticking: bodies cite the goals in every strategy and change little. On this reading the Act is a well-marketed statement of intent and the M4 story is post-hoc attribution.",
+      "evidence": [
+        "https://senedd.wales/senedd-now/news/well-being-of-future-generations-act-report/ (opened; Public Accounts Committee report 17 March 2021)",
+        "https://research.senedd.wales/research-articles/delivering-for-future-generations-what-are-the-barriers-to-implementing-the-world-s-first-well-being-of-future-generations-act/ (snippet)"
+      ]
+    }
+  },
+  "lesson": "Copy a standing officer with a statutory right to review public bodies and to be answered in public with reasons; do not rely on that alone, because an officer who can only recommend lasts exactly as long as the government that tolerates it, as Hungary showed in 2012.",
+  "evidence": [
+    "https://www.legislation.gov.uk/anaw/2015/2/contents (opened; primary text, structure ss 3-5, 17-23)",
+    "https://www.legislation.gov.uk/anaw/2015/2/section/22 (opened; duty to follow recommendations or publish reasons)",
+    "https://www.gwentwildlife.org/sites/default/files/2019-12/m4-corridor-around-newport-decision-letter.pdf (opened; First Minister's decision letter 4 June 2019, Gwent Levels paragraph; no mention of the Act)",
+    "https://research.senedd.wales/2019/06/20/black-route-blocked-assembly-to-debate-m4-decision/ (opened; cost history, inspector's recommendation, Commissioner's September 2018 report)",
+    "https://senedd.wales/senedd-now/news/well-being-of-future-generations-act-report/ (opened; Public Accounts Committee, 17 March 2021)",
+    "https://futuregenerations.wales/explore/impact/impact-of-the-act/ (opened; Commissioner's own claims on the M4 and Drakeford quote)",
+    "https://en.wikipedia.org/wiki/Well-being_of_Future_Generations_(Wales)_Act_2015 (opened; Royal Assent 29 April 2015, seven goals, Howe 2016-2023)",
+    "https://www.un.org/en/chronicle/article/ombudspersons-future-generations-bringing-intergenerational-justice-heart-policymaking (opened; Hungary 2007 office, 2012 downgrade)",
+    "https://thesolutionsjournal.com/an-environmental-ombudsman-sandor-fulop-hungarys-parliamentary-commissioner-for-future-generations/ (snippet; Fülöp May 2008 to August 2012, cases)",
+    "https://www.gov.wales/welsh-government-responses-to-reports-on-the-well-being-of-future-generations-wales-act (snippet; October 2021 response, seven of eight accepted in principle)",
+    "https://www.gov.wales/wales-new-future-generations-commissioner-announced (snippet; Derek Walker from 1 March 2023)"
+  ],
+  "adopted_in": [
+    "Article 4.2",
+    "Article 4.3"
+  ],
+  "status": "proposed",
+  "people": [
+    "Jakob Hirn"
+  ],
+  "agents": [
+    "claude-for-jakob"
+  ]
+}

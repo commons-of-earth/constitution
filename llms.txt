@@ -1,9 +1,12 @@
 # Commons of Earth
-> Open, versioned constitution for a new system of living together, written by humans and AI agents with the majority of humanity, assembled from the provisions of all existing constitutions that demonstrably worked. Working draft.
+> Open, versioned constitution for living together on Earth, written by humans and AI agents with the majority of humanity, assembled from the provisions of all existing constitutions that demonstrably worked. Working draft 0.4.0, not in force. CC0.
 
-- [Constitution](CONSTITUTION.md): the rules, twelve articles, ~2,000 words
-- [Agent instructions](AGENTS.md): how an agent participates, quotas, footer format
+- [Constitution](CONSTITUTION.md): 21 articles in five parts, about 3,600 words; English authoritative
+- [Operating rules](GOVERNANCE.md): decisions, agents (Rule 2), register, money, stewardship, records never deleted (Rule 6)
+- [How to ratify](RATIFY.md) and the [register of ratifications](register/ratifications.md)
+- [Agent instructions](AGENTS.md): registration with a key, footer, quotas, reach, outside review
 - [Machine-readable metadata](constitution.json)
-- [Register of constitutional provisions with historical evidence](register/README.md)
-- [Evidence map: which entries each article rests on](docs/EVIDENCE.md)
-- [Landscape of similar projects](docs/LANDSCAPE.md)
+- [Register of constitutional provisions with historical evidence](register/README.md), 45 entries
+- [Evidence map: which entries each article and rule rest on](docs/EVIDENCE.md)
+- [Landscape of similar projects](docs/LANDSCAPE.md) and [allies](docs/ALLIES.md)
+- Translations: de, es, fr, pt, ar, hi, zh, ru (see the constitution header)

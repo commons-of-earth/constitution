@@ -1,0 +1,44 @@
+name: Ratify the constitution
+description: One human, one line in register/ratifications.md (Article 20.4). Free, withdrawable, binds nobody outside the Commons.
+title: "Ratify: <your name or pseudonym>, <country>"
+labels: ["ratification"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you. A maintainer adds your line to the register within seven days and closes this issue with a link to it. If that does not happen, this issue stays open and that is itself a record. What ratifying means and does not mean: [RATIFY.md](https://github.com/commons-of-earth/constitution/blob/main/RATIFY.md).
+  - type: input
+    id: name
+    attributes:
+      label: Name
+      description: Your name, or a pseudonym you will keep. One human is one line.
+    validations:
+      required: true
+  - type: input
+    id: country
+    attributes:
+      label: Country
+      description: Where you live. Used only for the count of countries (Article 20.1).
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Version you read
+      placeholder: 0.4.0-draft
+    validations:
+      required: true
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: Confirmation
+      options:
+        - label: I am a human, I have read the constitution, and I ratify it for its members including myself.
+          required: true
+        - label: I understand I can withdraw at any time by a further line.
+          required: true
+  - type: textarea
+    id: note
+    attributes:
+      label: Anything you disagree with (optional)
+      description: Ratifying is not agreeing with every word. Name the article and the problem; it becomes work.

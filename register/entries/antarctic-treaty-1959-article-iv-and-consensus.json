@@ -1,0 +1,49 @@
+{
+  "id": "antarctic-treaty-1959-article-iv-and-consensus",
+  "provision": "Claims freeze, open inspection, consultative-party consensus and the Madrid mining ban",
+  "source": {
+    "constitution": "Antarctic Treaty (Washington, 1 December 1959) with the Protocol on Environmental Protection (Madrid, 4 October 1991)",
+    "jurisdiction": "Area south of 60 degrees south latitude; 58 parties, of which 29 consultative",
+    "year": 1959,
+    "article": "Treaty Articles I, IV, V, VII, IX and XII; Protocol Articles 7 and 25"
+  },
+  "text_summary": "Antarctica is to be used for peaceful purposes only, with military measures and nuclear explosions prohibited (Art. I, V). Under Art. IV 'no acts or activities taking place while the present Treaty is in force shall constitute a basis for asserting, supporting or denying a claim to territorial sovereignty' and no new or enlarged claim may be asserted; the seven existing claims are neither recognised nor renounced. All areas, stations and ships are 'open at all times to inspection' by observers any consultative party designates (Art. VII). Measures are adopted at consultative meetings and 'become effective when approved by all the Contracting Parties whose representatives were entitled to participate'; an acceding state obtains that seat only while it demonstrates 'substantial scientific research activity' (Art. IX). The Madrid Protocol prohibits 'any activity relating to mineral resources, other than scientific research' (Art. 7); until 2048 it can be changed only by unanimous agreement of the consultative parties, and the mining ban cannot be lifted unless a binding mineral regime is in force (Art. 25).",
+  "period": "Treaty in force since 23 June 1961; Protocol since 14 January 1998; both still in force",
+  "history": "Twelve states that had run the 1957-58 International Geophysical Year (Argentina, Australia, Belgium, Chile, France, Japan, New Zealand, Norway, South Africa, the United Kingdom, the United States and the USSR) signed on 1 December 1959, including three pairs of overlapping claimants and the two Cold War powers. Article XII allowed any consultative party to call a review conference after thirty years, from 23 June 1991; none did, and the parties instead adopted a declaration on the treaty's continuing strength. Malaysia brought the 'Question of Antarctica' to the UN General Assembly in 1982-83, calling the consultative group an exclusive club; the parties refused to negotiate there and answered with a wave of accessions. The consensus rule produced both the system's biggest failure and its biggest success: the Convention on the Regulation of Antarctic Mineral Resource Activities, concluded at Wellington on 2 June 1988 after six years of talks, collapsed when Australia and France refused to sign in 1989, and within two years the same parties agreed the Madrid Protocol with its mining ban. No armed conflict has taken place on the continent since the treaty; the 1982 Falklands war was fought north of the treaty area. In the fisheries convention of the system (CCAMLR, 27 members) consensus has cut the other way: the Ross Sea marine protected area of 1.55 million square kilometres was agreed on 28 October 2016 only after Russia had blocked it five times, and since then proposals for East Antarctica, the Weddell Sea and the Antarctic Peninsula have been vetoed every year by Russia and China, most recently at the 44th meeting in Hobart on 20-31 October 2025, where the krill distribution measure 51-07 also lapsed without replacement. Russia licensed its first krill trawler in two decades in 2024 and has reported oil surveying in the Weddell Sea.",
+  "assessment": {
+    "verdict": "worked",
+    "reasoning": "Sixty-five years without a shot fired over a continent with seven overlapping claims, inspections that any party may carry out at any time, and a mining ban that outlived the regime designed to permit mining: Article IV's refusal to settle the sovereignty question is the reason the rest could be agreed at all. The cost is visible in CCAMLR, where the same consensus rule lets two states block conservation measures the other 25 support, and in the club structure, where a seat at the table has to be bought with a research station. The treaty also governs a place with no permanent population and, so far, no commercial stakes worth a war; the regime has never been tested by a resource that was both accessible and valuable.",
+    "dissent": {
+      "verdict": "mixed",
+      "reasoning": "Critics since Malaysia's 1982-83 UN initiative read the system as a club that decides for a continent on behalf of 29 states, and the CCAMLR record since 2017 shows what consultative-party consensus becomes once two members want to block: annual vetoes of protected areas supported by all the others, a lapsed krill measure, and no procedure to break the deadlock. On this reading the peace rests on the absence of a prize rather than on the rules.",
+      "evidence": [
+        "https://news.mongabay.com/2025/11/antarctic-conservation-summit-closes-with-stalemate-on-mpas-krill-fishing-rules/ (opened)",
+        "https://scholarship.law.cornell.edu/cgi/viewcontent.cgi?httpsredir=1&article=1165&context=cilj (snippet)"
+      ]
+    }
+  },
+  "lesson": "Copy the device of freezing an unresolvable question rather than deciding it, and open inspection as a right of every member; do not copy unanimity as the only decision rule once the membership includes states with an interest in blocking.",
+  "evidence": [
+    "https://www.ats.aq/e/antarctictreaty.html (opened; Secretariat page with treaty text, 58 parties)",
+    "https://documents.ats.aq/keydocs/vol_1/vol1_2_AT_Antarctic_Treaty_e.pdf (opened; treaty text, Articles I, V, IX, XII)",
+    "https://www.ats.aq/e/protocol.html (opened; Madrid Protocol, Articles 7 and 25)",
+    "https://www.antarctica.gov.au/about-antarctica/law-and-treaty/the-madrid-protocol/ (snippet; signing 4 October 1991, entry into force 14 January 1998)",
+    "https://law.unimelb.edu.au/__data/assets/pdf_file/0018/4126005/Rothwell-unpaginated.pdf (snippet; Rothwell, the treaty at sixty, Article XII review never called)",
+    "https://2009-2017.state.gov/documents/organization/15282.pdf (snippet; CRAMRA 1988 and the 1989 refusal by France and Australia)",
+    "https://scholarship.law.cornell.edu/cgi/viewcontent.cgi?httpsredir=1&article=1165&context=cilj (snippet; Malaysia and the Question of Antarctica at the UN, 1982-83)",
+    "https://sdg.iisd.org/news/worlds-largest-marine-protected-area-established-in-antarctica/ (snippet; Ross Sea MPA, 28 October 2016)",
+    "https://news.mongabay.com/2025/11/antarctic-conservation-summit-closes-with-stalemate-on-mpas-krill-fishing-rules/ (opened; CCAMLR-44, October 2025, vetoes by Russia and China)",
+    "https://www.asoc.org/wp-content/uploads/2023/02/China-and-Russia-Continue-to-Block-Protections-for-Antarctica-Scientific-American.pdf (snippet)"
+  ],
+  "adopted_in": [
+    "Article 14.1",
+    "Article 17.2"
+  ],
+  "status": "proposed",
+  "people": [
+    "Jakob Hirn"
+  ],
+  "agents": [
+    "claude-for-jakob"
+  ]
+}

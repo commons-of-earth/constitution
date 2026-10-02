@@ -1,0 +1,50 @@
+{
+  "id": "costa-rica-1949-article-12-abolition-of-the-army",
+  "provision": "Army proscribed as a permanent institution; police only; any military force subordinate to civil power",
+  "source": {
+    "constitution": "Political Constitution of the Republic of Costa Rica",
+    "jurisdiction": "Costa Rica",
+    "year": 1949,
+    "article": "Article 12"
+  },
+  "text_summary": "The Army as a permanent institution is proscribed. For the vigilance and conservation of the public order, there will be the necessary forces of police. Military forces may only be organized by a continental agreement or for the national defense; one and the other will always be subordinate to the civil power: they may not deliberate, or make manifestations or declarations in an individual or collective form (Art. 12, Hein/Gress translation on constituteproject.org).",
+  "period": "Decree of 1 December 1948; constitutional since 7 November 1949; still in force",
+  "history": "After winning the 1948 civil war, José Figueres Ferrer, head of the founding junta, abolished the army on 1 December 1948 in a ceremony at the Cuartel Bellavista in San José, where he struck a wall of the barracks with a mallet; the junta had approved the plan, presented by security minister Edgar Cardona, on 25 November 1948. The Constituent Assembly wrote the ban into Article 12 of the constitution enacted on 7 November 1949, and the barracks became the National Museum. The provision was tested once: on 7 January 1955 forces loyal to ex-president Rafael Calderón Guardia, backed by Nicaraguan dictator Somoza, crossed the border and took Villa Quesada on 11 January. Figueres appealed to the Organization of American States, which sent a five-nation investigating committee, found that the rebels' materiel had come over the northern border, and asked the United States to sell Costa Rica four P-51 fighters; volunteers and the Civil Guard pushed the invaders back into Nicaragua by 19 January 1955. No coup has succeeded since 1948, and civilian elections have run uninterrupted; V-Dem rated Costa Rica the most liberal-democratic country in Latin America in 2024. President Óscar Arias received the 1987 Nobel Peace Prize for the Esquipulas II accord of 7 August 1987 (prize announced 13 October 1987), a plan an unarmed state could credibly broker. Panama followed in 1994 with Article 310 of its constitution ('La República de Panamá no tendrá ejército'), which also allows temporary special police services against external aggression. Costa Rica keeps a Fuerza Pública, border police and coast guard; critics have noted since the 1980s that these units train at the US Army's School of the Americas (later WHINSEC), carry military-style weapons and wear camouflage, and Arias stopped the WHINSEC training during his second term. The 2026 security budget of roughly 630 million dollars responds to rising homicides and transnational crime, reviving the debate about creeping militarisation of the police.",
+  "assessment": {
+    "verdict": "worked",
+    "reasoning": "Seventy-seven years without an army and without a coup, in a region where every neighbour suffered military rule, is the strongest single data point in this register for the thesis that removing the institution removes the coup. The money went to schools and health; the diplomatic payoff (Esquipulas II, the Nobel) came because Costa Rica had no military stake in the Central American wars. The limits are real: the 1955 defence depended on the OAS and on US aircraft, so the provision only works under a collective-security umbrella; Article 12 itself allows a military force by continental agreement or for national defence, so the ban is not absolute; and the police forces have acquired military equipment and training that the article was meant to exclude. None of these limits has yet produced the harm the article was written to prevent.",
+    "dissent": {
+      "verdict": "mixed",
+      "reasoning": "Some observers argue the lesson is not transferable: Costa Rica was small, had a weak officer corps even before 1948, sits under the US security umbrella, and in 1955 still needed foreign planes and an OAS committee to survive an invasion. A state without that umbrella, or one facing a serious neighbour, might not be able to copy the rule. Others note that the Fuerza Pública now looks and trains like an army in all but name, so the ban may have shifted the institution rather than removed it.",
+      "evidence": [
+        "https://ticotimes.net/2014/04/09/militarism-in-costa-rica (snippet)",
+        "https://time.com/archive/6798609/costa-rica-invasion/ (opened; OAS aircraft and investigating committee, January 1955)"
+      ]
+    }
+  },
+  "lesson": "Copy the proscription of a standing army together with an explicit subordination of any security force to civil power, and pair it with a collective-security guarantee so that a state without an army is not a state without defence.",
+  "evidence": [
+    "https://www.constituteproject.org/constitution/Costa_Rica_2020 (opened; Art. 12 text, Hein/Gress translation)",
+    "https://en.wikipedia.org/wiki/Article_12_of_the_Constitution_of_Costa_Rica (snippet)",
+    "https://ticotimes.net/2022/12/03/costa-ricas-cuartel-bellavista (snippet; 25 November and 1 December 1948)",
+    "https://en.wikipedia.org/wiki/Constitution_of_Costa_Rica (snippet; enacted 7 November 1949)",
+    "https://time.com/archive/6798609/costa-rica-invasion/ (opened; Time, 24 January 1955)",
+    "https://en.wikipedia.org/wiki/Calderonista_invasion_of_Costa_Rica (snippet; 7 to 19 January 1955)",
+    "https://www.ebsco.com/research-starters/history/arias-sanchez-receives-nobel-peace-prize (snippet; 1987 prize citation)",
+    "https://constituciondepanama.blogspot.com/2021/04/titulo-xii-fuerza-publica-articulos-310.html (opened; Panama Art. 310 text)",
+    "https://en.wikipedia.org/wiki/Constitution_of_Panama (snippet; 1994 amendment)",
+    "https://www.idea.int/democracytracker/country/costa-rica (snippet; V-Dem 2024 ranking)",
+    "https://ticotimes.net/2014/04/09/militarism-in-costa-rica (snippet; police militarisation, WHINSEC training)"
+  ],
+  "adopted_in": [
+    "Article 13.1",
+    "Article 13.2"
+  ],
+  "status": "proposed",
+  "people": [
+    "Jakob Hirn"
+  ],
+  "agents": [
+    "claude-for-jakob"
+  ]
+}

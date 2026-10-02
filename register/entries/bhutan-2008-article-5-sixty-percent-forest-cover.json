@@ -1,0 +1,45 @@
+{
+  "id": "bhutan-2008-article-5-sixty-percent-forest-cover",
+  "provision": "Constitutional floor of 60 % forest cover for all time; every citizen a trustee of natural resources",
+  "source": {
+    "constitution": "Constitution of the Kingdom of Bhutan",
+    "jurisdiction": "Kingdom of Bhutan",
+    "year": 2008,
+    "article": "Article 5 (Environment), sections 1-5"
+  },
+  "text_summary": "'Every Bhutanese is a trustee of the Kingdom's natural resources and environment for the benefit of the present and future generations' (Art. 5(1)). The Royal Government must protect the environment, prevent pollution and secure ecologically balanced sustainable development (5(2)). 'A minimum of sixty percent of Bhutan's total land shall be maintained under forest cover for all time' (5(3)). Parliament may legislate on natural resources and keep sovereignty over biological resources (5(4)) and may declare national parks, reserves and other protected areas (5(5)).",
+  "period": "Adopted 18 July 2008; still in force",
+  "history": "The constitution was adopted on 18 July 2008 (the fifteenth day of the fifth month of the Male Earth Rat Year), the same text that turned the kingdom into a constitutional monarchy with an elected parliament. The forest floor codified a policy line that predates it; the Department of Forests and Park Services states that one objective of its national inventory is 'to ensure the constitutional mandate of maintaining 60% forest cover all times'. The first National Forest Inventory (2016) put forest at about 71 % of the land area. The second inventory, field work from July 2021, published June 2023 as 'State of Forest Report', puts it at 69.71 % (2.68 million ha, 2022 reference year), a fall of roughly one percentage point attributed to development in State Reserved Forest and clearing of private forest; the same report puts carbon stored in forests higher than in 2016. Bhutan reports to the UNFCCC that its forests sequester several times its national emissions, the basis of the 'carbon negative' claim repeated in its 2025 facilitative sharing of views. The pressure point is hydropower, which supplies nearly all electricity and most export revenue to India: a 2023 land-cover study estimated about 1,400 ha of forest and 270 ha of farmland cleared for hydropower projects over roughly 17 years, and the Punatsangchhu I and II sites lie in habitat of the White-bellied Heron; commentators have criticised the transparency of the hydropower megaplan since at least 2016. The country has fewer than 800,000 people and a state that was monarchy-led when the rule was written, so the floor has never been tested against a large population's land hunger or a hostile government.",
+  "assessment": {
+    "verdict": "worked",
+    "reasoning": "The number has held, with ten percentage points of headroom, for the whole life of the constitution, and the state measures it with a repeated inventory that it publishes even when the trend is downward. Few constitutional environmental clauses have a verifiable metric at all; this one does, and the metric is being met. The caveat is scope: the rule has only been tested in a small, forest-rich, monarchy-shaped state with weak domestic demand for land, where hydropower, not agriculture or housing, is the main pressure, and the clause measures area, not forest quality or biodiversity.",
+    "dissent": {
+      "verdict": "mixed",
+      "reasoning": "The second inventory shows cover falling, not stable, and the clause says nothing about what counts as forest or who may sue if the floor is breached; carbon negativity rests partly on exporting hydropower and on a small economy, not on the clause. On this reading the 60 % floor is a true statement about Bhutan's geography more than a working constraint.",
+      "evidence": [
+        "https://bfl.org.bt/wp-content/uploads/2024/11/National-Forest-Inventory-Volume-I_State-of-Forest-Report-2023.pdf (opened; 71 % in 2016 to 69.71 % in 2022)",
+        "https://hir.harvard.edu/carbon-negativity-in-bhutan-an-inverse-free-rider-problem/ (snippet)"
+      ]
+    }
+  },
+  "lesson": "Copy a hard, measurable, publicly inventoried floor on a shared resource rather than a general duty to protect nature; but pair it with a definition of what is counted and a right of enforcement, which Bhutan's clause lacks.",
+  "evidence": [
+    "https://www.constituteproject.org/constitution/Bhutan_2008 (opened; primary text, Article 5, adoption date)",
+    "https://bfl.org.bt/wp-content/uploads/2024/11/National-Forest-Inventory-Volume-I_State-of-Forest-Report-2023.pdf (opened; Department of Forests and Park Services, National Forest Inventory Vol. I, June 2023)",
+    "https://www.bbs.bt/189749/ (snippet; Bhutan Broadcasting Service on the 2023 report, carbon stock)",
+    "https://unfccc.int/sites/default/files/resource/Bhutan_FSV%20presentation_14%20Nov%202025_FINAL.pdf (snippet; carbon-negative reporting)",
+    "https://www.sciencedirect.com/science/article/abs/pii/S0973082623002284 (snippet; land cover change and hydropower, c. 1,400 ha forest cleared)",
+    "https://thediplomat.com/2016/02/bhutan-should-come-clean-on-hydropower-megaplan/ (snippet)",
+    "https://en.wikipedia.org/wiki/Bhutan (snippet; population)"
+  ],
+  "adopted_in": [
+    "Article 3.3"
+  ],
+  "status": "proposed",
+  "people": [
+    "Jakob Hirn"
+  ],
+  "agents": [
+    "claude-for-jakob"
+  ]
+}

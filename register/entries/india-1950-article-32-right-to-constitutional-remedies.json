@@ -1,0 +1,49 @@
+{
+  "id": "india-1950-article-32-right-to-constitutional-remedies",
+  "provision": "Right to move the Supreme Court directly to enforce fundamental rights (writ jurisdiction), itself a fundamental right",
+  "source": {
+    "constitution": "Constitution of India",
+    "jurisdiction": "India",
+    "year": 1950,
+    "article": "Article 32 (with Article 21 on life and liberty, Article 226 for High Courts, Article 359 on suspension during emergency)"
+  },
+  "text_summary": "Art. 32(1): 'The right to move the Supreme Court by appropriate proceedings for the enforcement of the rights conferred by this Part is guaranteed.' Art. 32(2) empowers the Court to issue directions, orders or writs 'including writs in the nature of habeas corpus, mandamus, prohibition, quo warranto and certiorari'. Art. 32(4): the right 'shall not be suspended except as otherwise provided for by this Constitution'. Art. 21: 'No person shall be deprived of his life or personal liberty except according to procedure established by law.'",
+  "period": "26 January 1950 to present, still in force; enforcement of Art. 21 suspended by presidential order during the Emergency of 25 June 1975 to 21 March 1977, which the 44th Amendment (1978) made impossible to repeat",
+  "history": "On 9 December 1948 B. R. Ambedkar told the Constituent Assembly that if asked to name the one article without which the Constitution 'would be a nullity' he could name no other: 'It is the very soul of the Constitution and the very heart of it.' The article's worst day came on 28 April 1976 in ADM Jabalpur v. Shivkant Shukla: with enforcement of Art. 21 suspended under Art. 359, a five-judge bench held 4:1 that no habeas corpus petition against preventive detention was maintainable, however illegal or mala fide the detention; the lone dissenter, H. R. Khanna, was passed over for Chief Justice. Parliament answered with the 44th Amendment (1978), which took Arts. 20 and 21 out of the reach of Art. 359. On 25 January 1978 Maneka Gandhi v. Union of India, a passport case, held that the 'procedure established by law' in Art. 21 must be fair, just and reasonable and that Arts. 14, 19 and 21 are read together, overruling the narrow 1950 Gopalan reading. On 12 February 1979 Hussainara Khatoon v. Home Secretary, State of Bihar, filed by advocate Kapila Hingorani on behalf of undertrial prisoners who had sat in Bihar jails longer than any sentence they could have received, made speedy trial part of Art. 21 and ordered releases on personal bond; it is counted as the first public interest litigation, and some 40,000 undertrials were released in its wake. S. P. Gupta (1981) defined PIL, relaxed standing and let the Court treat letters as petitions. The article is also the door through which the basic-structure doctrine entered: Kesavananda Bharati, filed under Art. 32 in 1970 and decided 7:6 on 24 April 1973, and L. Chandra Kumar (18 March 1997), which held judicial review under Arts. 32 and 226 to be part of the basic structure and therefore beyond amendment. On 24 August 2017 a nine-judge bench in Puttaswamy recognised privacy as a fundamental right and expressly overruled ADM Jabalpur. The price is volume: the Supreme Court's pending cases rose from about 82,400 in January 2025 to 90,250 in October 2025, the highest figure in decades, with the year-end count reported above 92,000.",
+  "assessment": {
+    "verdict": "worked",
+    "reasoning": "Making the remedy itself a fundamental right, and making the highest court the court of first instance for it, produced a rights jurisprudence that reached people who could never have afforded a lawyer: undertrials, bonded labourers, prisoners who wrote letters. Through Art. 32 the Court also built the only doctrine in the world that stops a parliament with a supermajority from amending the rights chapter away. Against that stands 1976: when the government suspended enforcement, four of five judges let it, and the article did nothing for the detainees until the voters removed the government in 1977. The 1978 amendment fixed the text; the 2017 overruling fixed the precedent; neither guarantees the judges. PIL has also drifted from the jail cell to policy: critics inside and outside the Court speak of judicial overreach, frivolous petitions and a docket that leaves ordinary litigants waiting years for the very remedy Ambedkar called the soul of the Constitution.",
+    "dissent": {
+      "verdict": "mixed",
+      "reasoning": "The other reading: the article guarantees access, not outcomes. In the one real test, the Emergency, the remedy collapsed because judges were appointed and superseded by the executive it was meant to check; what saved liberty in 1977 was an election, not Art. 32. Since then the Court has used the article to run prisons, forests and air quality by order, while a backlog of ninety thousand cases means the direct route is in practice slow, selective and dependent on which bench a petition reaches.",
+      "evidence": [
+        "https://en.wikipedia.org/wiki/ADM_Jabalpur_v._Shivkant_Shukla (opened)",
+        "https://en.wikipedia.org/wiki/Public_interest_litigation_in_India (opened; criticism section)",
+        "https://www.scobserver.in/journal/october-2025-is-the-supreme-court-approaching-a-pendency-crisis/ (opened)"
+      ]
+    }
+  },
+  "lesson": "Give every person a direct route to the highest court for a rights violation and put that route beyond suspension from the start; a remedy that an emergency order can switch off is the one that fails when it is needed.",
+  "evidence": [
+    "https://www.constituteproject.org/constitution/India_2016 (opened; text of Art. 32 and Art. 21)",
+    "https://en.wikipedia.org/wiki/ADM_Jabalpur_v._Shivkant_Shukla (opened; 1976 ruling, Khanna dissent, 44th Amendment, 2017 overruling)",
+    "https://en.wikipedia.org/wiki/Public_interest_litigation_in_India (opened; Hussainara Khatoon, S. P. Gupta, epistolary jurisdiction, criticisms)",
+    "https://www.scobserver.in/journal/october-2025-is-the-supreme-court-approaching-a-pendency-crisis/ (opened; pendency figures 2025)",
+    "https://indiankanoon.org/doc/1007347/ (snippet; Hussainara Khatoon judgment of 12 February 1979, bench Bhagwati, Pathak, Koshal)",
+    "https://indiankanoon.org/doc/1766147/ (snippet; Maneka Gandhi, 25 January 1978)",
+    "https://indiankanoon.org/doc/1152518/ (snippet; L. Chandra Kumar, 18 March 1997)",
+    "https://indiankanoon.org/doc/91938676/ (snippet; Puttaswamy, 24 August 2017)",
+    "https://www.outlookindia.com/culture-society/ambedkar-fundamental-rights-and-article-32 (snippet; Ambedkar's 9 December 1948 speech)"
+  ],
+  "adopted_in": [
+    "Article 6.6",
+    "Article 12.1"
+  ],
+  "status": "proposed",
+  "people": [
+    "Jakob Hirn"
+  ],
+  "agents": [
+    "claude-for-jakob"
+  ]
+}

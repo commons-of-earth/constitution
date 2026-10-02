@@ -1,0 +1,53 @@
+{
+  "id": "mexico-1917-article-27-land-of-the-nation-and-ejido",
+  "provision": "Original ownership of land, water and subsoil in the nation; duty to redistribute land to communities (ejido)",
+  "source": {
+    "constitution": "Constitución Política de los Estados Unidos Mexicanos, promulgated at Querétaro on 5 February 1917",
+    "jurisdiction": "United Mexican States",
+    "year": 1917,
+    "article": "Article 27 (original text 1917; agrarian paragraphs rewritten by the decree of 3 January 1992, Diario Oficial 6 January 1992; hydrocarbons paragraph amended 2013)"
+  },
+  "text_summary": "'La propiedad de las tierras y aguas comprendidas dentro de los límites del territorio nacional corresponde originariamente a la Nación', which alone may transfer them to private persons; private property may be expropriated for public utility against compensation. The nation holds direct, inalienable and imprescriptible dominion over minerals and petroleum in the subsoil. The 1917 text ordered the breaking-up of large estates and gave every settlement lacking land the right to receive it from neighbouring properties (the ejido); the 1992 text replaced that duty with legal personality and ownership for existing ejidos and the option, by vote of the ejido assembly, to turn plots into full private property.",
+  "period": "1917 to present; redistribution clause in force 1917-1992",
+  "history": "Article 27 gave constitutional form to Carranza's agrarian law of 6 January 1915. Distribution was slow until Lázaro Cárdenas (1934-1940), whose government handed out roughly 18 million hectares, by most accounts more than all predecessors together (secondary sources; figures vary). On 18 March 1938 Cárdenas invoked the nation's subsoil dominion under Article 27 to expropriate the foreign oil companies and founded Pemex. By 1992 some 30,000 ejidos and comunidades holding a little over 100 million hectares, more than half the national territory (103 million hectares, 56 per cent of agricultural land and 70 per cent of forests by World Bank count), had been granted to about 3.5 million ejidatarios and comuneros. Ejido land could not be sold, rented or mortgaged and had to be worked personally, and the ejido became the rural base of the ruling PRI. The decree of 3 January 1992 under President Salinas, published 6 January 1992, abolished fractions X to XIV and XVI and with them the state's duty to distribute land, declared that no land was left to distribute, gave ejidos legal personality and let assemblies grant members 'dominio pleno' and sell; the Ley Agraria of 26 February 1992 and the certification programme PROCEDE (1993-2006) followed. PROCEDE measured and certified about 92-95 per cent of ejidos and issued titles to some 3.6 million people, but only about 10 per cent of ejidos voted for full private ownership. Rural poverty remained extreme: in 1996 85 per cent of the rural population was poor and 60 per cent extremely poor (47 and 19 per cent in towns), and in 1991 living in an ejido raised the probability of extreme poverty by half. On 1 January 1994, the day NAFTA took effect, the EZLN rose in Chiapas, seized San Cristóbal de las Casas, Ocosingo, Las Margaritas and four other towns and fought twelve days with 145 dead before the ceasefire of 12 January 1994; the end of land reform under Article 27 is cited in every account of its causes, and thousands of pending ejido petitions had become void. The San Andrés accords of 16 February 1996 were signed but never enacted as agreed. The 2013 energy reform opened hydrocarbons to private contracts while keeping the subsoil dominion clause.",
+  "assessment": {
+    "verdict": "mixed",
+    "reasoning": "As a settlement of a revolution the article worked: a redistribution of half the country's land, carried out under a constitutional duty rather than by decree, ended the agrarian war and gave Mexico seventy years of civilian government while its neighbours had coups. The subsoil clause held against the strongest foreign interests of its day and still frames the oil question. The economic side is weaker. The ejido tied three million families to plots they could not sell, rent or borrow against, which kept them poor and dependent on the state; the agrarian bureaucracy distributed land that existed only on paper; and when the state declared the reform finished in 1992 it did so in the interest of NAFTA, not of the ejidatarios, and an armed rising followed within two years. The 1992 settlement itself is judged two ways: de Janvry calls PROCEDE 'an enormous success', an asset transfer to the poor that was not dissipated and that freed people to migrate to better work; critics see dispossession, divided communities and degraded land, and point out that 90 per cent of ejidos refused full privatisation. Both readings agree that a constitution which promises land must also say what the holders may do with it."
+  ,
+    "dissent": {
+      "verdict": "worked",
+      "reasoning": "Warman (architect of the 1992 reform) and de Janvry argue that the land was in fact delivered, that the 1992 change did not reverse it but completed it, and that the poverty of the ejidos was caused by the restrictions on use, not by the grant; on this reading Article 27 worked and the 1992 amendment fixed its design error.",
+      "evidence": [
+        "https://pa.gob.mx/publica/rev_61/reforma-Articulo27.pdf (opened)",
+        "https://clacs.berkeley.edu/mexico-de-janvry-mexicos-second-land-reform (opened)"
+      ]
+    }
+  },
+  "lesson": "Copy the principle that land, water and subsoil belong originally to the people and that private title is a conditional grant, but do not bind a community's land in a tenure it cannot adapt, and never let a later majority cancel a constitutional duty to a group without giving that group a vote on it.",
+  "evidence": [
+    "https://www.constituteproject.org/constitution/Mexico_2015 (opened; current Article 27 incl. section VII and hydrocarbons paragraph)",
+    "https://pdba.georgetown.edu/Constitutions/Mexico/mexico1917.html (opened; Spanish text of Article 27, opening sentence and subsoil paragraph)",
+    "https://www.diputados.gob.mx/sedia/sia/spi/DPI-ISS-07-05.pdf (snippet; Chamber of Deputies note on the 1917 original text and the law of 6 January 1915)",
+    "https://pa.gob.mx/publica/rev_61/reforma-Articulo27.pdf (opened; Warman: 30,000 ejidos, over 100 million hectares, 3.5 million ejidatarios; 1 million joined PROCEDE in year one)",
+    "https://pa.gob.mx/publica/pa070607.htm (snippet; Procuraduría Agraria on the decree of 3 January 1992 published 6 January 1992 and the Ley Agraria of 26 February 1992)",
+    "https://documents1.worldbank.org/curated/en/798981468147558414/pdf/487030WP0Mexic10Box338921B01PUBLIC1.pdf (opened; World Bank: 103 million hectares, 29,162 communities, rural poverty 1996, ejido and extreme poverty 1991, PROCEDE figures)",
+    "https://clacs.berkeley.edu/mexico-de-janvry-mexicos-second-land-reform (opened; 10 per cent dominio pleno, migration effect, verdict)",
+    "https://arefiles.ucdavis.edu/uploads/filer_public/a8/bc/a8bcbe38-d582-4cd3-9ee2-046e9b2ad022/mcarthur-mexico-procede-2016-09-19.pdf (snippet; 92 per cent of ejidos certified 1992-2006)",
+    "https://en.wikipedia.org/wiki/Mexican_oil_expropriation (snippet; 18 March 1938)",
+    "https://era.anthropology.ac.uk/Era_Resources/Era/Peasants/mexican_land_reform.html (snippet; Cárdenas figures)",
+    "https://schoolsforchiapas.org/teach-chiapas/zapatista-timeline/ (opened; 1992 reform, 1 January 1994, 145 dead, ceasefire 12 January 1994, San Andrés 16 February 1996)",
+    "https://www.culturalsurvival.org/publications/cultural-survival-quarterly/ecology-zapatista-revolt (snippet; 1992 change as 'last straw' for the EZLN)",
+    "https://www.tandfonline.com/doi/abs/10.1080/00187259.2024.2333766 (snippet; Human Organization 2024 on dispossession and degradation after the reform)"
+  ],
+  "adopted_in": [
+    "Article 14.3",
+    "Article 15.2"
+  ],
+  "status": "proposed",
+  "people": [
+    "Jakob Hirn"
+  ],
+  "agents": [
+    "claude-for-jakob"
+  ]
+}

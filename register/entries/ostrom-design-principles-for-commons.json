@@ -1,0 +1,49 @@
+{
+  "id": "ostrom-design-principles-for-commons",
+  "provision": "Ostrom's eight design principles for long-enduring common-pool resource institutions",
+  "source": {
+    "constitution": "Governing the Commons: The Evolution of Institutions for Collective Action (Elinor Ostrom, Cambridge University Press, 1990); not a state constitution but a provision set distilled from documented self-governing commons",
+    "jurisdiction": "Non-state; local commons in Switzerland (Törbel), Spain (huertas of Valencia, Murcia, Alicante), Japan (Hirano, Nagaike, Yamanoka), the Philippines (zanjeras) and Turkey (Alanya), against failures in Turkey (Bodrum, Bay of Izmir), Sri Lanka and Nova Scotia",
+    "year": 1990,
+    "article": "Chapter 3, Table 3.1 (principles 1-8); chapter 5 (failures and fragilities)"
+  },
+  "text_summary": "Institutions that have governed a shared resource for generations share eight features: (1) clearly defined boundaries of users and resource; (2) rules for taking and for contributing that fit local conditions; (3) collective-choice arrangements so that most of those affected can change the rules; (4) monitors who are the users themselves or accountable to them; (5) graduated sanctions, mild for a first offence and harsher for repeat offenders; (6) cheap, fast, local conflict resolution; (7) a minimal recognition by outside authorities of the users' right to organise; (8) for larger systems, nested layers of such units.",
+  "period": "Published 1990, still the reference framework in commons research; the institutions it rests on range from the Törbel covenant of 1 February 1483 and the Valencia water tribunal (documented since the Middle Ages, still sitting every Thursday) to Alanya's rotation system devised in the 1970s",
+  "history": "On 1 February 1483, 22 farmers of Törbel in the Valais signed a covenant regulating their alp and forest; its core rule, that nobody may summer more cattle on the alp than he can feed through the winter, was still in force when the anthropologist Robert Netting studied the village in the 1970s and Ostrom took it as her first case. The Tribunal de las Aguas of the Valencia huerta meets every Thursday at noon at the Apostles' Door of the cathedral, judges water disputes orally and without appeal, is documented since the Middle Ages and was listed by UNESCO as intangible heritage in 2009. Japanese villages such as Hirano, Nagaike and Yamanoka ran their iriai common lands with detailed harvesting rules, labour duties and strict enforcement. The Alanya fishers on the Turkish coast devised in the 1970s a lottery each September for named fishing spots and a daily eastward rotation; Ostrom notes that the few infractions were handled at the local coffeehouse. Nearby Bodrum and the Bay of Izmir, where the state had promoted larger trawlers in the 1970s and rarely enforced the three-mile limit, suffered overcrowding and rent dissipation and had no forum to make local rules. James Acheson's Maine lobster 'harbor gangs' (1988), with their informal territories and mutual monitoring, are a further case Ostrom drew on. Ostrom received the 2009 Nobel memorial prize in economics for this work. In 2010 Cox, Arnold and Villamayor-Tomás coded 91 studies covering 77 cases: the average verdict on the principles was 3.73 on a five-point scale, empirical studies rated them higher than abstract critiques, congruence with local conditions (2A) and accountable monitors (4B) were the best supported, nested enterprises (8) and collective-choice arrangements (3) the weakest, and the authors proposed splitting principles 1, 2 and 4 into user/resource, rule/cost-benefit and presence/accountability halves. Arun Agrawal (2001) had objected that scholars list more than thirty conditions for durable commons, too many to test cleanly, and warned against blueprint use. Paul Stern (2011) found the principles have 'considerable external validity' for global commons but that clear boundaries and congruence with ecological conditions are not meaningful at planetary scale, where millions of actors, invisible degradation and irreversibility change the problem. Ostrom herself argued in a 2009 World Bank paper that a single global policy is unlikely to generate the trust collective action needs and proposed polycentric governance at many levels.",
+  "assessment": {
+    "verdict": "worked",
+    "reasoning": "The principles are the only constitutional provision set in this register that was derived from institutions with a measured survival record of centuries rather than from a drafting table, and the 2010 meta-analysis found them supported by most empirical work. Their limits are equally clear. They describe small to medium commons with a few hundred users who know each other; Ostrom never claimed they transfer unchanged to the atmosphere or the oceans, and Stern shows that two of the eight do not. Causality is also weaker than the list suggests: the cases were selected as successes, several principles are hard to operationalise (Agrawal), and nesting, the one principle that would carry the set to larger scales, has the thinnest evidence.",
+    "dissent": {
+      "verdict": "mixed",
+      "reasoning": "Agrawal (2001) and Stern (2011) hold that the list is incomplete and partly inapplicable beyond the village: more than thirty variables influence durability, the cases were chosen as successes, and at global scale clear user boundaries and congruence with local ecology cannot be specified at all, so two of eight principles drop out before the hard part begins.",
+      "evidence": [
+        "https://thecommonsjournal.org/articles/10.18352/ijc.305 (opened; Stern 2011)",
+        "https://www.researchgate.net/publication/222582157_Common_Property_Institutions_and_Sustainable_Governance_of_Resources (snippet; Agrawal 2001)"
+      ]
+    }
+  },
+  "lesson": "Copy graduated sanctions, user-accountable monitoring and cheap local conflict resolution as the default design for any shared resource, and treat the nesting principle as the open question a global constitution must answer rather than as a settled finding.",
+  "evidence": [
+    "https://www.thetedkarchive.com/library/elanor-ostrum-et-al-governing-the-commons (opened; full text of Governing the Commons, chapter 3 principles, Alanya case)",
+    "https://www.ecologyandsociety.org/vol15/iss4/art38/main.html (opened; Cox, Arnold, Villamayor-Tomás 2010, 91 studies)",
+    "https://thecommonsjournal.org/articles/10.18352/ijc.305 (opened; Stern 2011, design principles for global commons)",
+    "https://documents1.worldbank.org/curated/en/480171468315567893/pdf/WPS5095.pdf (snippet; Ostrom 2009, polycentric approach)",
+    "https://www.researchgate.net/publication/222582157_Common_Property_Institutions_and_Sustainable_Governance_of_Resources (snippet; Agrawal 2001 critique)",
+    "https://boris-portal.unibe.ch/server/api/core/bitstreams/0048b542-e064-41b9-bad6-0d4ab659cb0c/content (snippet; Törbel covenant 1483, Netting)",
+    "https://www.uv.es/horta-valencia-chair/en/heritage-catalogue/tribunal-de-les-aigues/tribunal-de-les-aigues.html (snippet; Tribunal de las Aguas)",
+    "https://www.cambridge.org/core/books/abs/governing-the-commons/analyzing-institutional-failures-and-fragilities/EFD3C8A6E5C7CD262DF16BD2B623D041 (snippet; chapter 5, Bodrum and Izmir)",
+    "https://thecommonsjournal.org/articles/10.18352/ijc.336 (snippet; Acheson's Maine lobster gangs and Ostrom)",
+    "https://ostromworkshop.indiana.edu/courses-teaching/teaching-tools/ostrom-design/index.html (snippet; Ostrom Workshop list of the eight principles)"
+  ],
+  "adopted_in": [
+    "Article 14.2",
+    "Article 17.3"
+  ],
+  "status": "proposed",
+  "people": [
+    "Jakob Hirn"
+  ],
+  "agents": [
+    "claude-for-jakob"
+  ]
+}

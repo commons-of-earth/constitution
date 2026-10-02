@@ -1,0 +1,49 @@
+{
+  "id": "new-zealand-2017-te-awa-tupua-river-legal-person",
+  "provision": "A river declared a legal person, spoken for by two appointed guardians, one nominated by the iwi and one by the Crown",
+  "source": {
+    "constitution": "Te Awa Tupua (Whanganui River Claims Settlement) Act 2017 (2017 No 7), an ordinary statute giving effect to the Whanganui River deed of settlement of 5 August 2014; preceded by the Te Urewera Act 2014",
+    "jurisdiction": "New Zealand (Aotearoa)",
+    "year": 2017,
+    "article": "ss 12-16 (recognition, Tupua te Kawa values, legal person, legal effect, limits), ss 18-20 (Te Pou Tupua: establishment, functions, appointments), s 41 (vesting of Crown-owned riverbed), s 46 (matters not affected by vesting)"
+  },
+  "text_summary": "Te Awa Tupua is 'an indivisible and living whole, comprising the Whanganui River from the mountains to the sea, incorporating all its physical and metaphysical elements' (s 12) and 'a legal person' with 'all the rights, powers, duties, and liabilities of a legal person' (s 14(1)). Those rights are exercised by Te Pou Tupua, 'the human face of Te Awa Tupua' (s 18(2)), an office of two persons, one nominated by the iwi with interests in the river and one on behalf of the Crown, appointed jointly (s 20). Decision makers under listed Acts must 'recognise and provide for' or 'have particular regard to' the river's status and values and state in writing how they did so (s 15), but 'unless expressly provided for' nothing in the Act limits existing private property rights, creates or affects rights in water, or 'affects the application of any enactment' (s 16).",
+  "period": "Royal assent 20 March 2017, in force the following day; still in force (version as at 10 July 2026 checked)",
+  "history": "The Whanganui iwi's claim over the river is usually dated from petitions in the 1870s; the deed of settlement was signed at Rānana on 5 August 2014. Parliament had already made Te Urewera, until then a national park, 'a legal entity' with 'all the rights, powers, duties and liabilities of a legal person' on 27 July 2014 (Te Urewera Act 2014, s 11), governed by a board of nine, six appointed by Tūhoe and three by the Minister. The Te Awa Tupua Act passed its third reading on 15 March 2017 and received assent on 20 March 2017; the Crown-owned parts of the riverbed vested in Te Awa Tupua itself (s 41), minus roads, railway infrastructure, structures, land held under the Public Works Act and the marine area, and s 46(2) preserves existing public access and navigation, private property rights, existing resource consents, fishing rights and statutory powers. The first Te Pou Tupua, Dame Tariana Turia and Turama Hawira, were appointed in September 2017. The first operational tests came in March 2019, when Whanganui District Council and the lines company Powerco had to involve Te Pou Tupua before removing powerlines over the river and before varying a consent for the Upokongaro cycle bridge abutment; both works proceeded after consultation. On 27 October 2021 the Crown and the iwi jointly appointed Keria Ponga alongside Hawira for a three-year term after Turia stepped down. Te Kōpuka, the 17-member strategy group of iwi, councils, Genesis Energy, Fish and Game and sector representatives (s 32), released the first draft of the river strategy Te Heke Ngahuru in September 2023; once approved, planners must 'have particular regard to' it (s 37). Academic reviews in 2024 (Williams, University of Auckland thesis; Macpherson and others in the International Journal of Human Rights) report that Te Pou Tupua has taken part in consent processes and water-quality disputes since 2020 but holds no veto: the Resource Management Act regime and every consent granted before 2017 stand, and s 15(5) expressly leaves decision makers' discretion intact. The brief for this entry referred to 2021 Supreme Court references; the one 2021 Supreme Court judgment checked, Trans-Tasman Resources v Taranaki-Whanganui Conservation Board [2021] NZSC 127 (30 September 2021), affirms tikanga as law but does not mention the Act, so that claim is unverified here.",
+  "assessment": {
+    "verdict": "mixed",
+    "reasoning": "The design is more than symbolic: the status is a mandatory, written-reasons consideration for consent authorities (s 15(6)), the riverbed is owned by the river, a fund (Te Korotete, s 57) and an Auditor-General-audited office (s 24) exist, and the office has been staffed continuously since 2017 through one orderly succession. But the Act changed who must be heard, not who decides: s 16 and s 46 leave water rights, existing consents, Genesis Energy's hydro diversions and the whole RMA untouched, and the river cannot refuse anything. Nine years is too early to judge river health; no measured water-quality outcome attributable to the status was found for this entry. Whether 'legal person' was the right vehicle for what the iwi sought (ko au te Awa, ko te Awa ko au) is itself disputed among Māori scholars.",
+    "dissent": {
+      "verdict": "critical",
+      "reasoning": "A line of Māori and settler-colonial scholarship reads personhood as a Western legal fiction imposed on a tupuna relationship, which settles the Crown's liability without returning authority over water: the iwi got a seat, the Crown kept the pen. On this reading the model should not be exported as 'rights of nature' at all.",
+      "evidence": [
+        "https://e-tangata.co.nz/comment-and-analysis/the-limits-of-legal-personhood/ (snippet)",
+        "https://www.tandfonline.com/doi/full/10.1080/21622671.2026.2658040 (snippet; 'Possessing the Awa', 2026)"
+      ]
+    }
+  },
+  "lesson": "Copy the pairing of a declared legal status with a named, audited human office that must act and speak for the entity and must be answered in writing; do not copy a declaration that leaves every existing consent, water right and statute untouched and expect it to change outcomes by itself.",
+  "evidence": [
+    "https://www.legislation.govt.nz/act/public/2017/0007/latest/whole.html (opened; primary text, assent 20 March 2017, ss 12-20, 41, 46)",
+    "https://researchspace.auckland.ac.nz/server/api/core/bitstreams/e2ec9ad4-9a0b-46e8-9528-27d9ea048346/content (opened; T C T Williams, PhD thesis, University of Auckland 2024, on ss 16, 41, 46 and Te Pou Tupua)",
+    "https://www.scoop.co.nz/stories/PA2110/S00276/appointment-of-new-te-pou-tupua-welcomed.htm (opened; ministerial release 27 October 2021)",
+    "https://www.nzherald.co.nz/whanganui-chronicle/news/whanganui-river-work-triggers-te-awa-tupua-legislation/VOU5EVLN457XJ77VQD7R7EEHTU/ (opened; first operational tests, 14 March 2019)",
+    "https://www.courtsofnz.govt.nz/assets/cases/2021/2021-NZSC-127.pdf (opened; no mention of the Act found)",
+    "https://en.wikipedia.org/wiki/Whanganui_River (opened)",
+    "https://m.scoop.co.nz/stories/PA1709/S00132/first-te-pou-tupua-appointed-4917.htm (snippet; first appointments September 2017)",
+    "https://www.tandfonline.com/doi/full/10.1080/13642987.2024.2314532 (snippet; implementation review 2024)",
+    "https://journals.sagepub.com/doi/full/10.1177/11771801241289156 (snippet; Te Kōpuka and Te Heke Ngahuru draft September 2023)",
+    "https://en.wikipedia.org/wiki/Te_Urewera (snippet; Te Urewera Act 2014, 27 July 2014)"
+  ],
+  "adopted_in": [
+    "Article 3.2",
+    "Article 12.3"
+  ],
+  "status": "proposed",
+  "people": [
+    "Jakob Hirn"
+  ],
+  "agents": [
+    "claude-for-jakob"
+  ]
+}

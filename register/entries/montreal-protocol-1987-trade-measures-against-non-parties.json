@@ -1,0 +1,43 @@
+{
+  "id": "montreal-protocol-1987-trade-measures-against-non-parties",
+  "provision": "Trade bans against non-parties, adjustments by two-thirds vote binding on all parties, Multilateral Fund",
+  "source": {
+    "constitution": "Montreal Protocol on Substances that Deplete the Ozone Layer (adopted 16 September 1987 under the Vienna Convention of 1985)",
+    "jurisdiction": "Global; universal ratification since 16 September 2009 (196 parties then, every UN member state today)",
+    "year": 1987,
+    "article": "Articles 2 (paragraph 9), 4, 8 and 10; amendments London 1990, Copenhagen 1992, Montreal 1997, Beijing 1999, Kigali 2016"
+  },
+  "text_summary": "Parties must ban the import of controlled substances from any state not party to the Protocol (from 1 January 1990 for the first group), later the export of such substances and the import of products containing them, and discourage the export of production technology; a non-party escapes the ban only if a meeting of the parties finds it in full compliance (Art. 4). Phase-out schedules may be tightened by 'adjustment': the parties first seek consensus, failing which a two-thirds majority of those present and voting, carrying a majority of developing-country (Article 5) parties and a majority of the others, decides, and such decisions 'shall be binding on all Parties' without ratification (Art. 2.9). A financial mechanism, the Multilateral Fund, pays the 'agreed incremental costs' of developing countries' compliance, run by an executive committee with balanced membership (Art. 10). A non-compliance procedure with an implementation committee operates under Article 8.",
+  "period": "In force since 1 January 1989; Kigali Amendment in force since 1 January 2019; still in force",
+  "history": "The Antarctic ozone hole was reported in 1985; the Protocol was adopted on 16 September 1987 and entered into force on 1 January 1989. The London Amendment of June 1990 created the financial mechanism; the Multilateral Fund began work in 1991 and has been replenished every three years since, US$ 965 million for 2024-2026. In 1995 Belarus, Bulgaria, Poland, Russia and Ukraine themselves notified expected non-compliance, the first use of the Article 8 procedure (decision VII/18). In September 2007 the parties used the adjustment power (decision XIX/6) to bring forward the HCFC phase-out for all parties. On 16 September 2009 Timor-Leste's ratification made the Protocol and the Vienna Convention the first treaties in the UN system with universal participation. The Kigali Amendment of 15 October 2016 added HFCs, climate gases that do not harm ozone, with a phase-down of 80-85 per cent by the late 2040s. In 2018 Montzka and colleagues reported in Nature an unexpected rise in CFC-11 emissions since 2013; a 2019 study traced 40-60 per cent of it to Shandong and Hebei in eastern China, China announced inspections and enforcement, and two Nature papers in 2021 showed global and east-Asian emissions falling again by 2019. The 2022 WMO/UNEP Scientific Assessment found about 99 per cent of ozone-depleting substances phased out and projected a return of the ozone column to 1980 values around 2040 globally, 2045 in the Arctic and 2066 over Antarctica, with roughly 0.5 degrees of warming avoided and a further 0.3-0.5 degrees expected from Kigali. Whether the two-thirds vote on an adjustment has ever had to be taken, rather than serving as a backstop to consensus, we could not verify.",
+  "assessment": {
+    "verdict": "worked",
+    "reasoning": "This is the one global environmental treaty whose target is measurably recovering, and its three provisions explain why: trade bans made staying outside more expensive than joining, so membership became universal; adjustments by qualified majority let the parties tighten schedules nine times without a single ratification round; and the Fund paid developing countries' incremental costs instead of asking them to carry them. The 2018 CFC-11 episode shows that the regime detects and corrects cheating only because independent atmospheric monitoring exists outside the treaty. The honest caveat is that ozone was an easy case: a few producer firms, substitutes already in development, and a problem visible within years rather than decades. Scholars broadly agree on the verdict; they disagree on how much of it transfers to climate."
+  },
+  "lesson": "Copy the pair of trade measures against non-members and schedule changes by qualified majority binding on all, backed by a fund that pays the incremental cost of compliance; the combination, not any one part, made participation universal.",
+  "evidence": [
+    "https://ozone.unep.org/treaties/montreal-protocol/articles/article-2-control-measures (opened; Article 2.9 adjustments)",
+    "https://ozone.unep.org/treaties/montreal-protocol/articles/article-4-control-trade-non-parties (opened)",
+    "https://ozone.unep.org/treaties/montreal-protocol/articles/article-10-financial-mechanism (opened)",
+    "https://ozone.unep.org/ozone-timeline (opened; Ozone Secretariat timeline)",
+    "https://www.multilateralfund.org/about (opened; Fund since 1991, replenishments)",
+    "https://ozone.unep.org/sites/default/files/2019-08/MP-Handbook-2009.pdf (snippet; universal ratification 16 September 2009)",
+    "https://ozone.unep.org/treaties/montreal-protocol/meetings/seventh-meeting-parties/decisions/decision-vii18-compliance-montreal-protocol-russian-federation (snippet; Russia 1995)",
+    "https://ozone.unep.org/treaties/montreal-protocol/meetings/nineteenth-meeting-parties/decisions/decision-xix6-adjustments-montreal-protocol-regard-annex-c-group-i-substances (snippet; HCFC adjustment 2007)",
+    "https://csl.noaa.gov/assessments/ozone/2022/executivesummary/ (snippet; WMO/UNEP Scientific Assessment 2022)",
+    "https://www.unep.org/news-and-stories/press-release/ozone-layer-recovery-track-helping-avoid-global-warming-05degc (snippet; 99 per cent phased out, 0.5 degrees avoided)",
+    "https://www.nature.com/articles/s41586-019-1193-4 (snippet; CFC-11 from eastern China) and https://www.nature.com/articles/s41586-021-03260-5 (snippet; decline 2018-2019)",
+    "https://www.dcceew.gov.au/environment/protection/ozone/hfc-phase-down/international-hfc-phase-down (snippet; Kigali 15 October 2016, in force 1 January 2019)"
+  ],
+  "adopted_in": [
+    "Article 17.2",
+    "Article 17.4"
+  ],
+  "status": "proposed",
+  "people": [
+    "Jakob Hirn"
+  ],
+  "agents": [
+    "claude-for-jakob"
+  ]
+}

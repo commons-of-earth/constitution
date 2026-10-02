@@ -1,0 +1,51 @@
+{
+  "id": "ethiopia-1995-article-39-right-to-secession",
+  "provision": "Unconditional right of every nation, nationality and people to self-determination, including secession",
+  "source": {
+    "constitution": "Constitution of the Federal Democratic Republic of Ethiopia (Proclamation No. 1/1995)",
+    "jurisdiction": "Ethiopia",
+    "year": "adopted 8 December 1994, in force 21 August 1995",
+    "article": "Article 39"
+  },
+  "text_summary": "Every Nation, Nationality and People in Ethiopia has an unconditional right to self-determination, including the right to secession (Art. 39(1)), plus rights to its language, culture and full self-government (39(2)-(3)). Secession takes effect when two thirds of the group's legislative council approve it, the federal government organises a referendum within three years, the referendum passes by majority, power is transferred and assets are divided by law (39(4)). A nation, nationality or people is a group with a shared culture, language, identity and psychological make-up living in a contiguous territory (39(5)).",
+  "period": "21 August 1995 to present; still in force, under reform debate since 2019",
+  "history": "The clause codified the TPLF/EPRDF doctrine that had governed since 1991. Eritrea left by a separate route: under the 1991 transitional charter, a UN-verified referendum on 23 to 25 April 1993 returned 99.83 per cent for independence and Eritrea became independent on 24 May 1993, before the constitution existed. No group has since completed the Art. 39(4) procedure. Demands for statehood have gone through Art. 47 instead: the Sidama referendum of 20 November 2019 (98.5 per cent yes, turnout 98.9 per cent) created a tenth regional state. Ethnic federalism drew academic fire early: Jon Abbink (Journal of Eastern African Studies 5(4), 2011) argued that Art. 39 gave insurgent movements a legal basis and hardened ethnic identity; Assefa Fiseha (Regional and Federal Studies 22(4), 2012) defended it as the only way to recognise historical grievances and prevent domination by any one group. After Abiy Ahmed took office in 2018 the Oromo Liberation Front returned from exile in September 2018 but its armed wing refused to disarm, formally split in April 2020 and has fought an insurgency in Oromia since. The TPLF, having left the ruling coalition when the Prosperity Party was founded on 1 December 2019, invoked self-determination up to secession; war began on 4 November 2020 and ended with the Pretoria cessation-of-hostilities agreement of 2 November 2022, with death estimates from 600,000 upward. An Amhara (Fano) insurgency began in April 2023 and brought a federal state of emergency on 4 August 2023. The Prosperity Party has floated amendments that would replace the ethnic-federal language, revisit secession and redraw regions. On 23 September 2026 a coalition including Tigrayan forces launched a new offensive in Tigray, Afar and Amhara, the largest fighting since 2022, and Tigray's leaders declared a new war with the federal government.",
+  "assessment": {
+    "verdict": "critical",
+    "reasoning": "The clause was meant to make membership in the federation voluntary and therefore stable. In thirty-one years it has never been used as written, while the territorial units it defines have become the lines along which Ethiopia's wars are fought: Tigray 2020 to 2022, Oromia since 2018, Amhara since 2023, Tigray again in 2026. Abbink's point stands: an unconditional secession right turns every dispute with the centre into an existential bargaining chip and tells every group that its identity is its territory. The procedure in 39(4) also depends on the federal government organising the referendum, so the right is unconditional in words and conditional on the centre in practice, the worst of both: enough to threaten, not enough to use peacefully. Ethnic federalism did deliver language rights and local self-rule, and Sidama shows the statehood route can run without violence, but the secession clause itself has produced no orderly exit and much leverage for war.",
+    "dissent": {
+      "verdict": "mixed",
+      "reasoning": "Fiseha and others argue the clause held a multinational empire together for a quarter century after the Derg's collapse, when the alternative was the Yugoslav or Somali path, and that Eritrea's separate exit shows what denying self-determination costs. On this reading the wars since 2018 came from the centre abandoning the federal bargain (dissolving the EPRDF, centralising under the Prosperity Party), not from Art. 39, and removing the clause now would confirm the fears that make groups arm.",
+      "evidence": [
+        "https://www.tandfonline.com/doi/full/10.1080/13597566.2012.709502 (snippet; Fiseha 2012, Ethiopia's Experiment in Accommodating Diversity: 20 Years' Balance Sheet)",
+        "https://blogs.lse.ac.uk/africaatlse/2021/01/11/talking-fighting-about-self-determination-constitution-civil-war-ethiopia/ (snippet)"
+      ]
+    }
+  },
+  "lesson": "Do not write an unconditional, ethnically defined right of secession into a union; if exit is allowed at all, make the procedure independent of the central government and tie it to a territory of consent rather than to an ethnic definition of who may leave.",
+  "evidence": [
+    "https://www.constituteproject.org/constitution/Ethiopia_1994 (opened; Art. 39 text, adopted 8 December 1994)",
+    "https://www.icnl.org/resources/library/a-proclamation-to-pronounce-the-coming-into-effect-of-the-constitution-of-the-federal-democratic-republic-of-ethiopia-no-1 (snippet; Proclamation No. 1/1995, in force 21 August 1995)",
+    "https://en.wikipedia.org/wiki/1993_Eritrean_independence_referendum (snippet; 23 to 25 April 1993, 99.83 per cent)",
+    "https://www.ifes.org/news/ethiopia-holds-referendum-determine-statehood-sidama-zone (snippet; 20 November 2019)",
+    "https://scholarlypublications.universiteitleiden.nl/access/item:2871539/view (opened; Abbink, Journal of Eastern African Studies 5(4), 2011, 596-618)",
+    "https://www.tandfonline.com/doi/full/10.1080/13597566.2012.709502 (snippet; Fiseha, Regional and Federal Studies 22(4), 2012)",
+    "https://en.wikipedia.org/wiki/Oromo_Liberation_Army (snippet; return of OLF September 2018, split April 2020)",
+    "https://www.ids.ac.uk/opinions/marking-the-third-year-of-the-tigray-war/ (snippet; 4 November 2020)",
+    "https://www.peaceagreements.org/agreements/wgg/2464/ (snippet; Pretoria agreement, 2 November 2022)",
+    "https://en.wikipedia.org/wiki/2023_Ethiopian_state_of_emergency (snippet; 4 August 2023)",
+    "https://en.wikipedia.org/wiki/Prosperity_Party (snippet; founded 1 December 2019)",
+    "https://www.cnn.com/2026/09/23/africa/tigray-ethiopia-fighting-erupts-intl (snippet; 23 September 2026)"
+  ],
+  "adopted_in": [
+    "Article 9.4",
+    "Article 17.5"
+  ],
+  "status": "proposed",
+  "people": [
+    "Jakob Hirn"
+  ],
+  "agents": [
+    "claude-for-jakob"
+  ]
+}

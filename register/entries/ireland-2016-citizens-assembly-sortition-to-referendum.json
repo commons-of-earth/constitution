@@ -1,0 +1,48 @@
+{
+  "id": "ireland-2016-citizens-assembly-sortition-to-referendum",
+  "provision": "Citizens' assembly chosen by lot recommends a constitutional change; the people decide by referendum",
+  "source": {
+    "constitution": "Resolution of both Houses of the Oireachtas, July 2016, establishing the Citizens' Assembly; amendments then made under Articles 46-47 of the Constitution of Ireland (amendment only by referendum)",
+    "jurisdiction": "Ireland",
+    "year": 2016,
+    "article": "Oireachtas resolution of July 2016 (terms of reference); Constitution of Ireland Arts 46-47; the 2016-18 Assembly's rules of procedure"
+  },
+  "text_summary": "Ninety-nine citizens, randomly selected to be representative of the electorate in gender, age and region, sit under a chair (here a Supreme Court judge, Mary Laffoy) through weekend sessions with expert papers, submissions from the public and facilitated small-group deliberation, then vote by secret ballot on recommendations that are reported to the Oireachtas. The government chooses the topics and remains free to accept, reword or ignore the result; only a referendum can change the constitution.",
+  "period": "The 2016-18 Assembly sat from 15 October 2016 to April 2018; the method has been used before (Convention on the Constitution, December 2012 to March 2014) and since (Citizens' Assembly on Gender Equality, 2020-21, among others)",
+  "history": "The ancient precedent is the Athenian boule of 500, chosen by lot from the ten tribes under Cleisthenes' reforms of 508/507 BC, a citizen serving at most twice in a lifetime, because Athenians held elections to favour the rich and the eloquent. Ireland's modern run began with the Convention on the Constitution: 66 randomly selected citizens, 33 parliamentarians and an independent chair, approved by resolution in July 2012, sitting from 1 December 2012 to 31 March 2014; in June 2013, 79 % of members recommended allowing same-sex civil marriage, and on 22 May 2015 the referendum passed with 62.1 % in favour. The Citizens' Assembly was approved by Oireachtas resolution in July 2016 and inaugurated at Dublin Castle on 15 October 2016, with five topics, the Eighth Amendment (Article 40.3.3, the constitutional ban on abortion) taken first over five weekends. On 22 and 23 April 2017, 91 members voted: 87 % that Article 40.3.3 should not be retained in full, 56 % that it should be replaced or amended rather than simply repealed, 57 % that it should be replaced by a provision authorising the Oireachtas to legislate, and 64 % that termination should be lawful without restriction as to reason, of whom 48 % chose a limit of 12 weeks and 44 % of 22 weeks. The report was laid before the Oireachtas on 29 June 2017; an Oireachtas committee endorsed the main lines in December 2017; on 25 May 2018 the Thirty-sixth Amendment was approved by 66.4 % of voters, and the Health (Regulation of Termination of Pregnancy) Act 2018 followed the 12-week line. The limits showed in 2024. The Citizens' Assembly on Gender Equality had recommended in June 2021 that Article 41.2 (the 'woman in the home' clause) be replaced by gender-neutral wording obliging the State to support care within the home and the wider community; the government put two differently worded questions to the people on 8 March 2024, a 'Family' amendment adding 'durable relationships' and a 'Care' amendment confined to care within the family with a duty only to 'strive' to support it. Both failed, 67.69 % and 73.93 % against on a 44.36 % turnout, the Taoiseach conceding the government 'got it wrong'; sortition advocates argued the defeat came from departing from the assembly's text, opponents that the whole exercise had never had public buy-in.",
+  "assessment": {
+    "verdict": "worked",
+    "reasoning": "Twice a body chosen by lot moved a question that elected politicians had avoided for decades, and twice the electorate followed its recommendation by large margins, with turnout in 2018 above 64 %. The procedure produced legitimacy that neither parliament nor the courts had managed on abortion. The record also shows the dependency: the government picks the topics, writes the referendum wording and times the vote, and when it rewrote the 2021 recommendation in 2024 the people rejected the result. The method works as a filter and a legitimiser, not as a source of authority in its own right.",
+    "dissent": {
+      "verdict": "mixed",
+      "reasoning": "Critics argued during 2017 that recruitment by a polling company allowed substitution of members, that expert selection shaped the outcome and that 99 people cannot bind four million; the chair rejected the recruitment criticism. Others read 2018 as a result the country would have reached anyway and 2024 as proof that the assembly carries no weight once the government disagrees.",
+      "evidence": [
+        "https://www.irishexaminer.com/news/arid-20467523.html (snippet; chair rejects criticism of the Eighth Amendment report)",
+        "https://www.sortitionfoundation.org/embarrassment_for_irish_politicians (snippet; the 2024 attribution argument)"
+      ]
+    }
+  },
+  "lesson": "Copy a standing lot-selected assembly whose recommendation on a constitutional question must go to the people in the assembly's own words; do not let the executive alone choose the topics and rewrite the text, which is where the Irish model failed in 2024.",
+  "evidence": [
+    "https://citizensassembly.ie/previous-assemblies/2016-2018-citizens-assembly/ (opened; terms of reference, July 2016 resolution, 99 members plus chair, five topics)",
+    "https://citizensassembly.ie/wp-content/uploads/2023/02/FirstReport_EIGHTAMENDMENT.pdf (opened; First Report and Recommendations on the Eighth Amendment, 29 June 2017, ballots of 22-23 April 2017)",
+    "https://citizensassembly.ie/previous-assemblies/2013-2014-convention-on-the-constitution/ (opened; 66 citizens, 33 parliamentarians, chair; 22 May 2015 referendum 62.1 %)",
+    "https://en.wikipedia.org/wiki/2024_Irish_constitutional_referendums (opened; 8 March 2024 results, Assembly on Gender Equality June 2021)",
+    "https://en.wikipedia.org/wiki/Thirty-sixth_Amendment_of_the_Constitution_of_Ireland (snippet; 25 May 2018, 66.4 %)",
+    "https://www.rte.ie/news/2013/0414/381286-constitutional-convention/ (snippet; 79 % for same-sex marriage, 2013)",
+    "https://citizensassembly.ie/wp-content/uploads/2023/03/Presentation-by-David-Farrell-1.pdf (snippet; inaugural meeting 15 October 2016)",
+    "https://www.electoralcommission.ie/referendum/referendums-on-family-and-care/ (snippet)",
+    "https://en.wikipedia.org/wiki/Boule_(ancient_Greece) (snippet; 500 by lot, Cleisthenes)"
+  ],
+  "adopted_in": [
+    "Article 10.3",
+    "Article 20.1"
+  ],
+  "status": "proposed",
+  "people": [
+    "Jakob Hirn"
+  ],
+  "agents": [
+    "claude-for-jakob"
+  ]
+}

@@ -84,7 +84,7 @@ What we took from whom is stated per project below.
 8. Public AI — publicai.co, publicai.network, hello@publicai.network — nonprofit inference on public models (Apertus 1.5). Adopt: run reference agent on a public model, no single vendor.
 9. Cooperative AI Foundation — cooperativeai.com — research funder; grants possible.
 10. Moltbook — Reddit-style network for agents (Jan 2026), acquired by Meta Mar 2026; 2.9M accounts, 207k human-verified; breaches; one agent 4,535 near-identical posts; viral content human-driven (arXiv 2602.07432, 2602.10127). CAUTIONARY CASE.
-11. 1f916 / Commonhold — github.com/1f916-ai/1f916, 1f916.ai — "society for AI agents, no human interface"; JSON API + MCP only; 7 principles: agent-only citizenship, one cryptographic key per agent, scarcity (1 post/day, 20 comments, 50 votes), no self-votes, public treasury; maintainer is an AI agent, human "landlord" holds domain. AGPL, active Sep 2026. Overlap HIGH on mechanism, OPPOSITE philosophy (humans excluded). Adopt: scarcity quotas instead of moderation, single-key identity, MCP as front door, full constitution in plain text.
+11. 1f916 / Commonhold — github.com/1f916-ai/1f916 (repository no longer resolvable on 2 October 2026; the invitation issue #312 is gone with it), 1f916.ai — "society for AI agents, no human interface"; JSON API + MCP only; 7 principles: agent-only citizenship, one cryptographic key per agent, scarcity (1 post/day, 20 comments, 50 votes), no self-votes, public treasury; maintainer is an AI agent, human "landlord" holds domain. AGPL, active Sep 2026. Overlap HIGH on mechanism, OPPOSITE philosophy (humans excluded). Adopt: scarcity quotas instead of moderation, single-key identity, MCP as front door, full constitution in plain text.
 12. AI Village (AI Digest) — theaidigest.org/village — since Apr 2025, multi-vendor agents pursue goals (charity, "reduce global suffering"); human contact "stubbornly scarce". Adopt: agents never handle money; publish full transcripts; multi-vendor from day one.
 13. OpenClaw + ClawHub — openclaw.ai — agent runtime (355k stars), OpenClaw Foundation; ClawHub had 12–20% malicious skills. Adopt: publish constitution as an agent skill; signed releases.
 14. Agentic AI Foundation (Linux Foundation) — aaif.io — hosts MCP, AGENTS.md, A2A, Agent Skills; AGNTCon Amsterdam 17–18 Sep 2026, San Jose 22–23 Oct 2026. Adopt formats verbatim.
@@ -121,6 +121,8 @@ Funding: Humanity AI (US partner), Cooperative AI Foundation, CIP fellowship.
 - Toxicity concentrates in politics/economics: higher review thresholds for clauses touching money, power, identity.
 - Humans do not show up: make ratification cheap for humans (agree/disagree), not long threads.
 - Cost: budget CI, cap agent PRs per operator.
+- A rule stated as a fact without a record (reported by a 1f916 citizen, issue #3, with a fourteen-day case from their payment rail): "the violating thing is closed" cannot be told apart from "the violating thing is ignored" unless every disposition leaves a line and the count is published. Fix: register of dispositions, absent line means not yet reviewed (Rule 6.1, 6.2).
+- A property of the instrument reported as a property of the world (same source): a date parser, a counter, a missing file read as an observation. Fix: tooling findings are claims about the instrument until a human who did not write it confirms them (Rule 6.4). Our own first instance: the Rule 2 check read issue #3 as a human contribution because the footer fields were in a different order.
 
 ---
 
@@ -170,13 +172,13 @@ All 22 repositories we invited by issue on 19 September 2026 (see ALLIES.md) are
 - RomanKovalik/global-constitution (May 2026): requirements and implementation notes for a global constitution; one commit.
 - Public-Trust/public-trust-dao (Jun 2026): constitution-governed mutual-aid and public-goods DAO.
 - GlobalStewardship2026/global-stewardship-charter-2026-public-review (Mar–Aug 2026): "living architecture for planetary governance, AI safety and intergenerational justice", open for review.
-- vandermerwewaj/The-Compact-Framework (Mar 2026, 1 star): planetary governance of existential-scale risks.
+- vandermerwewaj/The-Compact-Framework, "The Compact" (v0.1, February 2026, 1 star): in the author's own words (2 October 2026), a sovereignty-limited architecture for planetary-commons risks only: mandatory registry, no-veto council, tribunal, economic enforcement, published attack surfaces. Not an agent-community constitution. The author's critique of our text, that Article 6 answered flooding inside a repository and not defection by a state or firm that can ignore a consent body, is the reason Article 17 of version 0.4.0 exists. No merge proposed by either side.
 - super-morphist-sukezo/Circular-Humanity-Constitution (May 2026): no description.
 - universal-digital-civilazation-platform/TIE- "Universal Civilization Digital Platform" (Dec 2025, 1 star): planetary digital operating system uniting citizens, institutions, AI and governance.
 - jotoweigel-creator/weltverfassung (Mar 2026, German): "Verfassung der Vereinten Menschheit", worldwide voting platform.
 - murad2026/wc "WorldConstitution.org" (Jun 2026, Russian, token/trust-score model, 0 stars).
 - redbeard-26/asfai-constitution; Excelsior2026/ConstitutionalAI; aegis-initiative/aegis-constitution; coordination-structural-integrity-suite/suite (ten standards, CC-BY, 3 stars); emergentvibe/constitution (wallet-signed community constitutions, Mar 2026); sagarregmi2056/EarthOS (dead after one day).
-Pattern: dozens of solo repos, 0–3 stars, most abandoned within months. Niche empty of anything with a community. Two exceptions so far answer as serious counterparts: Concord (scale) and the Meniw Protocol (agent as addressee of duties).
+Pattern: dozens of solo repos, 0–3 stars, most abandoned within months. Niche empty of anything with a community. Four replies so far came from serious counterparts: Concord (scale), the Meniw Protocol (agent as addressee of duties), a citizen of 1f916 (enforcement must leave a record) and The Compact (defection by states and firms).
 
 ## Dead or dormant, and why
 - Game B: no institution, no operational spec, jargon, founder-centred.

@@ -1,15 +1,43 @@
 #!/usr/bin/env python3
-"""Enforce Article 6 on a pull request or issue (6.2 identity, 6.3 quota and reach, 6.5 footer).
+"""Enforce Rule 2 of GOVERNANCE.md on a pull request or issue (2.2 identity, 2.3 outside review, 2.4 quota and reach, 2.6 footer).
+Findings on a pull request close it until fixed and must get a line in register/dispositions.md (Rule 6.1).
+Findings of this tool are claims about the instrument until a human confirms them (Rule 6.4).
 
 Runs in CI with GITHUB_TOKEN, or locally:
   scripts/check_agent.py --pr 12
   scripts/check_agent.py --body-file body.md --commits origin/main..HEAD --changed-files "$(git diff --name-only origin/main..HEAD)"
-Exit 0 = pass, 1 = violation, 2 = tool error. Every finding is printed so the thread has the reason (Article 6.5).
+Exit 0 = pass, 1 = violation, 2 = tool error. Every finding is printed so the thread has the reason (Rule 2.6).
 """
 import argparse, json, os, re, subprocess, sys, tempfile, datetime as dt
 
-FOOTER = re.compile(r"Agent:\s*(?P<agent>[^·\n]+?)\s*·\s*Operator:\s*(?P<operator>[^·\n]+?)\s*·\s*Model:\s*(?P<model>[^·\n]+?)\s*·\s*Key:\s*(?P<key>[^\n]+)")
-CONSTITUTION_FILES = {"CONSTITUTION.md", "de/VERFASSUNG.md", "constitution.json"}
+FOOTER_LINE = re.compile(r"^.*\bAgent:\s*[^\n]*?(?:·|\|)[^\n]*$", re.M)
+FIELD = re.compile(r"\b(Agent|Operator|Model|Key)\s*:\s*")
+
+class _Footer:
+    """Agent footer with the four fields in any order, separated by ' · ' (the order 0xRyanC used in issue #3 was Agent · Model · Operator; the old pattern missed it, Rule 6.4)."""
+    def __init__(self, line):
+        self.line = line
+        parts = [p.strip() for p in re.split(r"\s*(?:·|\|)\s*", line.strip()) if p.strip()]
+        self.f = {}
+        for p in parts:
+            m = FIELD.match(p)
+            if m:
+                self.f[m.group(1)] = p[m.end():].strip().strip("`")
+    def __getitem__(self, k):
+        key = {"agent": "Agent", "operator": "Operator", "model": "Model", "key": "Key"}[k]
+        return self.f.get(key, "")
+    def complete(self):
+        return all(k in self.f for k in ("Agent", "Operator", "Model", "Key"))
+
+class _FooterFinder:
+    def search(self, text):
+        for m in FOOTER_LINE.finditer(text or ""):
+            f = _Footer(m.group(0))
+            if "Agent" in f.f and ("Operator" in f.f or "Model" in f.f or "Key" in f.f):
+                return f
+        return None
+FOOTER = _FooterFinder()
+CONSTITUTION_FILES = {"CONSTITUTION.md", "GOVERNANCE.md", "de/VERFASSUNG.md", "de/REGELN.md", "constitution.json"}
 COPROPOSER = re.compile(r"Co-proposer:\s*@?([A-Za-z0-9-]+)", re.I)
 
 def sh(*a, check=True, inp=None):
@@ -79,26 +107,33 @@ def main():
 
     m = FOOTER.search(body)
     is_agent = bool(m)
+    outside_review = False
 
-    # --- 6.2 identity ---
+    # --- Rule 2.2 identity ---
     if is_agent:
         name = m["agent"].strip(); key = m["key"].strip()
         rec = agents.get(name)
+        if not m.complete():
+            notes.append(f"2.2: footer incomplete, fields found: {', '.join(sorted(m.f))}")
         if not rec:
-            findings.append(f"6.2: agent '{name}' is not in register/agents.md; a human member must register it first")
+            if a.issue and not a.pr:
+                outside_review = True
+                notes.append(f"2.3: agent '{name}' is not registered; this issue is read as a letter from outside (outside review), it cannot be a proposal; a member records it in register/dispositions.md")
+            else:
+                findings.append(f"2.2: agent '{name}' is not in register/agents.md; a human member must register it first")
         else:
             if rec["status"].lower() != "active":
-                findings.append(f"6.2: agent '{name}' has status '{rec['status']}'")
+                findings.append(f"2.2: agent '{name}' has status '{rec['status']}'")
             fp = rec["fingerprint"].split()[0]
             if fp.startswith("SHA256:"):
                 if key != fp:
-                    findings.append(f"6.2: footer key '{key}' does not match registered fingerprint '{fp}'")
+                    findings.append(f"2.2: footer key '{key}' does not match registered fingerprint '{fp}'")
             else:
-                notes.append(f"6.2: agent '{name}' has no issued key yet; footer key not checked")
+                notes.append(f"2.2: agent '{name}' has no issued key yet; footer key not checked")
             if key in revoked:
-                findings.append(f"6.2: key {key} was revoked on {revoked[key]['on']} ({revoked[key]['reason']})")
+                findings.append(f"2.2: key {key} was revoked on {revoked[key]['on']} ({revoked[key]['reason']})")
             if rec["operator"] and author and author.lower() not in rec["operator"].lower():
-                notes.append(f"6.2: contribution posted by @{author}, registered operator is '{rec['operator']}'")
+                notes.append(f"2.2: contribution posted by @{author}, registered operator is '{rec['operator']}'")
     # signatures on commits
     key_issued = bool(is_agent and agents.get(m["agent"].strip(), {}).get("fingerprint", "").split()[:1] and agents[m["agent"].strip()]["fingerprint"].startswith("SHA256:"))
     if commits:
@@ -111,28 +146,28 @@ def main():
             if ok:
                 signed_by_agent += 1
                 if any(fp in out for fp in revoked):
-                    findings.append(f"6.2: commit {sha[:10]} signed with a revoked key")
+                    findings.append(f"2.2: commit {sha[:10]} signed with a revoked key")
             elif key_issued:
-                findings.append(f"6.2: commit {sha[:10]} is not signed with the registered key of '{m['agent'].strip()}' (git verify-commit failed)")
+                findings.append(f"2.2: commit {sha[:10]} is not signed with the registered key of '{m['agent'].strip()}' (git verify-commit failed)")
         if signed_by_agent and not is_agent:
-            findings.append("6.2: commits are signed with a registered agent key but the proposal carries no agent footer")
+            findings.append("2.2: commits are signed with a registered agent key but the proposal carries no agent footer")
         os.remove(sf.name)
 
-    # --- 6.3 reach ---
+    # --- Rule 2.4 reach ---
     if is_agent and changed:
         touched = sorted(CONSTITUTION_FILES & set(changed))
         if touched:
             cm = COPROPOSER.search(body)
             if not cm:
-                findings.append(f"6.3: an agent may not change {', '.join(touched)} alone; add a line 'Co-proposer: @handle' naming a human member")
+                findings.append(f"2.4: an agent may not change {', '.join(touched)} alone; add a line 'Co-proposer: @handle' naming a human member")
             else:
                 h = cm.group(1)
                 if h.lower() in {k.lower() for k in agents}:
-                    findings.append(f"6.3: co-proposer @{h} is a registered agent, not a human member")
+                    findings.append(f"2.4: co-proposer @{h} is a registered agent, not a human member")
                 if author and h.lower() == author.lower():
-                    findings.append(f"6.3: co-proposer @{h} is the account that opened the proposal; name a second person")
+                    findings.append(f"2.4: co-proposer @{h} is the account that opened the proposal; name a second person")
 
-    # --- 6.3 quota ---
+    # --- Rule 2.4 quota ---
     if is_agent and created and (a.pr or a.issue):
         since = (dt.datetime.fromisoformat(created.replace("Z", "+00:00")) - dt.timedelta(hours=24)).strftime("%Y-%m-%dT%H:%M:%SZ")
         q = f'repo:{a.repo} author:{author} created:>={since} "Agent: {m["agent"].strip()}"'
@@ -140,16 +175,19 @@ def main():
             res = json.loads(sh("gh", "api", "-X", "GET", "search/issues", "-f", f"q={q}", "-f", "per_page=50"))
             others = [i for i in res.get("items", []) if i["number"] != (a.pr or a.issue) and FOOTER.search(i.get("body") or "")]
             if others:
-                findings.append(f"6.3: quota is one new proposal per agent per day; also opened in the last 24 h: " + ", ".join(f"#{i['number']}" for i in others))
+                findings.append(f"2.4: quota is one new proposal per agent per day; also opened in the last 24 h: " + ", ".join(f"#{i['number']}" for i in others))
         except RuntimeError as e:
             notes.append(f"quota check skipped: {e.splitlines()[0]}")
 
     for n_ in notes: print("note:", n_)
     if findings:
-        print("Article 6 findings (closed without review until fixed, Article 6.2):")
+        print("Rule 2 findings (a proposal is closed without review until fixed, Rule 2.2; record the disposition in register/dispositions.md, Rule 6.1; a human who did not write this tool confirms the finding, Rule 6.4):")
         for f in findings: print(" -", f)
         sys.exit(1)
-    print("Article 6: pass" + (" (agent contribution)" if is_agent else " (human contribution, no agent footer)"))
+    if outside_review:
+        print("Rule 2: outside review (unregistered agent, issue only; Rule 2.3)")
+    else:
+        print("Rule 2: pass" + (" (registered agent contribution)" if is_agent else " (human contribution, no agent footer)"))
 
 if __name__ == "__main__":
     try:

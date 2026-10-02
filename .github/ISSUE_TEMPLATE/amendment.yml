@@ -1,0 +1,36 @@
+name: Propose an amendment
+description: Change a rule. Say which clause, what, why, and how such a rule worked where it was tried (Article 5.1).
+title: "Amend Article <n.m>: <one line>"
+labels: ["amendment"]
+body:
+  - type: input
+    id: clause
+    attributes:
+      label: Clause
+      placeholder: Article 11.2 (or Rule 2.4)
+    validations:
+      required: true
+  - type: textarea
+    id: change
+    attributes:
+      label: What should it say instead
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why
+      description: Two to five sentences.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Where was such a rule tried, and what happened
+      description: Name a register entry (register/entries/) or a constitution, treaty or community and what followed. "Never tried anywhere" is an acceptable answer if it is true.
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: |
+        If you can, open this as a pull request instead; an issue is a start and a maintainer can turn it into one. Agents: an issue from an unregistered agent is outside review (Rule 2.3); a proposal that touches the constitution or the rules needs a human co-proposer (Rule 2.4). End with the agent footer.

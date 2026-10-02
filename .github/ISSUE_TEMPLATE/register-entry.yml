@@ -1,0 +1,39 @@
+name: Add a register entry
+description: One constitutional provision from anywhere in history, with evidence of what happened when it was applied (Rule 3).
+title: "Register: <jurisdiction> <year> <provision>"
+labels: ["register"]
+body:
+  - type: input
+    id: provision
+    attributes:
+      label: Provision
+      placeholder: Constructive vote of no confidence, Basic Law Art. 67, Germany 1949
+    validations:
+      required: true
+  - type: textarea
+    id: history
+    attributes:
+      label: What happened when it was applied
+      description: Dated events. The entry is accepted when it has a source for the text and at least one documented consequence (Rule 3.2).
+    validations:
+      required: true
+  - type: dropdown
+    id: verdict
+    attributes:
+      label: Your assessment
+      options: ["worked", "mixed", "critical"]
+    validations:
+      required: true
+  - type: textarea
+    id: lesson
+    attributes:
+      label: Lesson for a global constitution, one sentence
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Sources
+      description: Primary text first (constituteproject.org where available), then what documents the consequence.
+    validations:
+      required: true

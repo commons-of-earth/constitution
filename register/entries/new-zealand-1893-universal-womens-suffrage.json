@@ -1,0 +1,53 @@
+{
+  "id": "new-zealand-1893-universal-womens-suffrage",
+  "provision": "Universal women's suffrage by statute; later the lesson that a right cannot be left to the vote of those who hold it",
+  "source": {
+    "constitution": "Electoral Act 1893 (57 Vict. No. 18), an ordinary statute of the New Zealand parliament; compared with Finland's Parliament Act of 1906 and the Swiss federal votes of 1959/1971 and Federal Supreme Court ruling of 1990",
+    "jurisdiction": "Colony of New Zealand (self-governing); Grand Duchy of Finland; Swiss Confederation and canton Appenzell Innerrhoden",
+    "year": 1893,
+    "article": "Electoral Act 1893 s. 3 (interpretation: 'Person includes woman'; masculine includes women), s. 6 (qualifications of electors), s. 9 (women not qualified to be candidates)"
+  },
+  "text_summary": "Section 6 gives the vote to 'every person of the age of twenty-one years or upwards' with one year's residence in the colony, and section 3 provides that 'Person includes woman' and that 'words and expressions in this Act importing the masculine gender include women, except where otherwise expressly stated'. Section 9 kept women out of parliament itself: 'No woman, although duly registered as an elector, shall be capable of being nominated as a candidate, or of being elected a member of the House of Representatives'.",
+  "period": "Assented 19 September 1893; in force since, now carried in the Electoral Act 1993. Right to stand added 1919",
+  "history": "Three petitions organised by the Women's Christian Temperance Union under Kate Sheppard carried over 9,000 signatures in 1891, nearly 20,000 in 1892 and 31,872 in 1893 (13 sheets, the largest with 25,519 names, presented on 28 July 1893 and unrolled across the floor of the House). Both houses passed the Electoral Bill against the premier's wishes and Governor Lord Glasgow signed it on 19 September 1893, which made New Zealand the first self-governing country in which all women, Maori women included, could vote in parliamentary elections. Ten weeks later, at the general election of 28 November 1893, 109,461 women had enrolled and 90,290 voted, a turnout of 82 per cent against about 70 per cent among registered men. Women could not stand until the Women's Parliamentary Rights Act of 29 October 1919; the first woman MP, Elizabeth McCombs, was elected at the Lyttelton by-election of 1933, forty years after the Act, and the first Maori woman, Iriaka Ratana, in 1949. Finland went further at once: the Parliament Act endorsed by the Tsar on 20 July 1906 gave all citizens over 24 the vote and the right to stand, and the election of 15-16 March 1907 returned 19 women, the first women legislators anywhere. Switzerland shows the opposite path. Federal women's suffrage was put to the male electorate on 1 February 1959 and rejected by 66.9 per cent; only on 7 February 1971 did 65.7 per cent of men vote yes. Appenzell Innerrhoden's all-male Landsgemeinde refused cantonal suffrage a third time in spring 1990. Theresia Rohner and other women of the canton appealed, and on 27 November 1990 the Federal Supreme Court (BGE 116 Ia 359) held that the cantonal constitution violated the equality article (Art. 4 para. 2, added 1981) and ordered the canton to admit women at once; they first voted at the Landsgemeinde of 28 April 1991.",
+  "assessment": {
+    "verdict": "worked",
+    "reasoning": "The provision was applied immediately and completely: four fifths of eligible women enrolled within two months and more of them voted than men, which disposed of the claim that women did not want the vote. The reform was stable, never reversed and copied worldwide. Two gaps show its limits. New Zealand's drafters deliberately excluded women from candidacy, and it took 26 years and 13 failed candidacies before a woman sat in the House; Finland proves that both rights could have been granted together in 1906. And the Swiss case shows what happens when the same right is left to the holders of power: men voted it down for seventy years at federal level, and in one canton the right arrived only when a court enforced an equality clause against the majority. Universal suffrage therefore worked where it was enacted as a general rule ('person includes woman') and failed wherever it was made contingent on the consent of the group it would dilute."
+  ,
+    "dissent": {
+      "verdict": "mixed",
+      "reasoning": "Some readers point out that New Zealand's own franchise was also granted by the all-male parliament and Swiss suffrage in 1971 by a male referendum, so majority consent is in practice how most rights have been won; on this reading the 1990 ruling is the exception, and the lesson is about entrenching equality so that a court can enforce it, not about distrusting votes as such.",
+      "evidence": [
+        "https://en.wikipedia.org/wiki/1971_Swiss_women%27s_suffrage_referendum (snippet)",
+        "https://blogs.loc.gov/law/2019/08/suffrage-for-swiss-women-a-more-than-100-year-long-struggle/ (opened)"
+      ]
+    }
+  },
+  "lesson": "Write the franchise and the right to stand as one general rule for every adult person, entrench it beyond the reach of ordinary majorities and make it enforceable by a court, because those who already hold a right will not reliably vote to share it.",
+  "evidence": [
+    "https://upload.wikimedia.org/wikipedia/commons/c/cc/New_Zealand_Electoral_Act_1893.pdf (opened; scan of the Act with OCR layer, ss. 3, 6, 9, assent 19 September 1893)",
+    "http://www.nzlii.org/nz/legis/hist_act/ea189357v1893n18214/ (snippet; site blocks automated access)",
+    "https://www.women.govt.nz/about-us/history-womens-suffrage-aotearoa-new-zealand (opened; 19 September 1893, 31,872 signatures, 109,461 enrolled, 1919, 1933, 1949)",
+    "https://nzhistory.govt.nz/page/women-vote-first-general-election (snippet; 90,290 voted, 82 per cent, 70 per cent for men)",
+    "https://nzhistory.govt.nz/media/photo/suffrage-petition-1893 (snippet; 25,519 names, 28 July 1893)",
+    "https://nzhistory.govt.nz/page/women-can-stand-parliament (snippet; Women's Parliamentary Rights Act 29 October 1919)",
+    "https://blogs.loc.gov/law/2018/09/125-years-of-womens-suffrage-in-new-zealand/ (opened; petition totals 1891-1893, wording of the Act)",
+    "https://www.onb.ac.at/en/more/ariadne-the-women-and-gender-specific-knowledge-portal/women-use-your-vote/womens-right-to-vote-in-europe/first-womens-vote-in-the-north-finland (opened; 20 July 1906, 19 women)",
+    "https://en.wikipedia.org/wiki/1907_Finnish_parliamentary_election (opened; 15-16 March 1907)",
+    "https://blogs.loc.gov/law/2019/08/suffrage-for-swiss-women-a-more-than-100-year-long-struggle/ (opened; 1959 66.9 per cent no, 1971 65.7 per cent yes, Art. 4(2) 1981, BGE 116 Ia 359 of 27 November 1990)",
+    "https://www.bar.admin.ch/bar/en/home/research/research-tips/topics/frauenstimmrecht.html (opened; Swiss Federal Archives on 1959 and 1971)",
+    "https://www.swissinfo.ch/eng/politics/a-visit-to-appenzell-inner-rhodes-the-last-canton-to-grant-women-the-right-to-vote-in-switzerland/46328984 (opened; third rejection spring 1990, first Landsgemeinde with women 28 April 1991)",
+    "https://rosalux-geneva.org/theresia-rohner/ (snippet; Rohner's complaint)"
+  ],
+  "adopted_in": [
+    "Article 2.3",
+    "Article 10.5"
+  ],
+  "status": "proposed",
+  "people": [
+    "Jakob Hirn"
+  ],
+  "agents": [
+    "claude-for-jakob"
+  ]
+}

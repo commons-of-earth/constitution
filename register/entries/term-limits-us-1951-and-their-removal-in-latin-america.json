@@ -1,0 +1,58 @@
+{
+  "id": "term-limits-us-1951-and-their-removal-in-latin-america",
+  "provision": "Two-term limit on the presidency, contrasted with removal of presidential term limits by referendum, assembly or court",
+  "source": {
+    "constitution": "Constitution of the United States, Twenty-Second Amendment; contrasted with Venezuela 1999 (amended 2009), Nicaragua 1987 (court 2009, assembly 2014), Bolivia 2009 (court 2017), Honduras 1982 (court 2015)",
+    "jurisdiction": "United States; Venezuela, Nicaragua, Bolivia, Honduras",
+    "year": "1951; removals 2009-2017; Inter-American Court advisory opinion OC-28/21 of 7 June 2021",
+    "article": "US Amendment XXII Sec. 1; Venezuela Amendment No. 1 (2009); Nicaragua Arts. 147 and 178; Bolivia Art. 168; Honduras Art. 239"
+  },
+  "text_summary": "US Amendment XXII Sec. 1: No person shall be elected to the office of the President more than twice, and no person who has held the office of President, or acted as President, for more than two years of a term to which some other person was elected President shall be elected to the office of the President more than once. The Latin American constitutions compared here each contained a one- or two-term limit on the presidency; the entry records how each was removed.",
+  "period": "US: ratified 27 February 1951, still in force. Venezuela: limits removed 2009. Nicaragua: 2009/2014, still removed. Bolivia: removed 2017, restored by the same court in December 2023. Honduras: removed 2015.",
+  "history": "Congress passed the Twenty-Second Amendment on 21 March 1947 after Franklin Roosevelt's four elections; it was ratified on 27 February 1951 (certified after the 36th state) and has been honoured by every president since, with no court case needed. In October 2025 President Trump said it was too bad he could not run again while adviser Steve Bannon claimed there was a plan for 2028; Speaker Mike Johnson said he saw no path, and the limit stands. Venezuela: the 1999 constitution allowed one re-election; a first attempt to lift limits failed at referendum in 2007 (unverified), and Amendment No. 1, approved on 15 February 2009 with 54.87 per cent, removed limits for president, governors, mayors and deputies. Chávez won again on 7 October 2012, and Maduro's 2018 and 28 July 2024 re-elections are rejected as fraudulent by most of the hemisphere. Nicaragua: the 1987 constitution banned consecutive re-election (Arts. 147, 178); on 19 October 2009 the Constitutional Chamber of the Supreme Court, at the petition of Daniel Ortega and allied mayors, declared the bans inapplicable as a breach of equality; on 28 January 2014 the National Assembly (64 to 25) deleted the limits outright, effective 10 February 2014. Ortega was re-elected in 2011, 2016 and in November 2021 after jailing seven rival candidates, and a 2025 constitutional reform made him and his wife co-presidents with a six-year term. Bolivia: the 2009 constitution (Art. 168) allowed one consecutive re-election; a referendum on 21 February 2016 to allow Evo Morales a further term was rejected by 51.3 per cent; on 28 November 2017 the Plurinational Constitutional Court (SCP 0084/2017), on a petition by governing-party legislators, held that Article 23 of the American Convention on Human Rights prevailed over Art. 168 and that term limits violated political rights, enabling indefinite re-election. Morales ran in October 2019 and left office in November 2019 amid the disputed count (unverified). Honduras: the 1982 constitution made the re-election ban (Art. 239) unamendable (Art. 374) and punished its promotion with loss of citizenship; in 2009 President Zelaya was removed for proposing a consultation on it; on 22 April 2015 the Constitutional Chamber of the Supreme Court, at the petition of National Party deputies and ex-president Callejas, declared Arts. 239, 42 and 374 inapplicable for conflict with the American Convention. Juan Orlando Hernández was re-elected in November 2017 in a vote the OAS said lacked integrity and asked to be repeated; he was convicted in New York on 8 March 2024 of cocaine trafficking and sentenced to 45 years in June 2024. On 7 June 2021 the Inter-American Court of Human Rights, in Advisory Opinion OC-28/21 requested by Colombia, held by five votes to two that presidential re-election without term limits is not an autonomous right under the American Convention, that prohibiting it is compatible with the Convention, and that enabling it is contrary to representative democracy. Bolivia's Constitutional Court reversed itself at the end of December 2023 on that basis, limiting any person to two presidential terms and barring Morales from the 2025 election.",
+  "assessment": {
+    "verdict": "mixed",
+    "reasoning": "The US rule works because it is self-executing: a flat number in the constitution that no court, assembly or incumbent can reinterpret, and it has held through seventy-five years including an incumbent who openly wished it away. The Latin American cases show the failure mode. In Nicaragua, Bolivia and Honduras the limit was not repealed by the people; a court whose members the incumbent's party had appointed converted the American Convention's right to be elected into a right to be re-elected forever, in Bolivia within two years of voters saying no. Venezuela used a referendum, which is at least a popular act, but held it under an incumbent who controlled the electoral authority and the media. In every one of the four cases the president who lifted the limit was still in power, or his family was, years later, and Venezuela and Nicaragua no longer hold elections that the rest of the hemisphere recognises. OC-28/21 closed the human-rights argument in 2021 and Bolivia's 2023 reversal shows a court can be made to walk it back, but only after the incumbent had already lost power. Term limits therefore work exactly as far as they are placed beyond the reach of the person they limit.",
+    "dissent": {
+      "verdict": "critical",
+      "reasoning": "Two readings push harder in opposite directions. One holds that the US success proves nothing yet, because the amendment has never faced a president with the votes to amend it or a court willing to reinterpret it, and that the 2025 third-term talk shows the norm resting on compliance rather than enforcement. The other, in the dissents of Judges Pazmiño Freire and Zaffaroni to OC-28/21, holds that term limits are a political design choice, not a human-rights question, and that an international court restricting what voters may choose is itself a democratic cost.",
+      "evidence": [
+        "https://www.corteidh.or.cr/docs/opiniones/seriea_28_eng.pdf (opened; dissenting opinions of Judges Pazmiño Freire and Zaffaroni)",
+        "https://politifact.com/article/2025/oct/27/trump-bannon-third-term-constitution/ (snippet)"
+      ]
+    }
+  },
+  "lesson": "Write the term limit as a plain number that applies by its own force, put its amendment beyond the reach of the sitting incumbent and of any court the incumbent appoints, and state expressly that no right to be elected includes a right to be re-elected without limit.",
+  "evidence": [
+    "https://www.law.cornell.edu/constitution/amendmentxxii (opened; text of Amendment XXII)",
+    "https://www.archives.gov/exhibits/running-for-office/larger-image.php?image=44.1 (snippet; ratified 27 February 1951)",
+    "https://constitutioncenter.org/the-constitution/amendments/amendment-xxii (snippet; passed by Congress 21 March 1947)",
+    "https://www.corteidh.or.cr/docs/opiniones/seriea_28_eng.pdf (opened; Advisory Opinion OC-28/21 of 7 June 2021, operative paragraphs 2 to 4, five votes to two)",
+    "https://en.wikipedia.org/wiki/2009_Venezuelan_constitutional_referendum (snippet; 15 February 2009, 54.87 per cent)",
+    "https://www.washingtonpost.com/wp-dyn/content/article/2009/02/15/AR2009021500136.html (snippet)",
+    "https://www.loc.gov/item/global-legal-monitor/2009-12-18/nicaragua-supreme-court-decision-permitting-president-others-to-seek-reelection/ (snippet; 19 October 2009 ruling on Arts. 147 and 178)",
+    "https://www.aljazeera.com/news/2014/1/29/nicaragua-scraps-presidential-term-limits (snippet; 28 January 2014, 64 to 25)",
+    "https://www.npr.org/2021/11/05/1052968032/having-jailed-opposition-candidates-daniel-ortega-is-set-to-win-nicaragua-presid (snippet)",
+    "https://constitutionnet.org/news/voices/nicaragua-new-absolutist-constitution-tailor-made (snippet; 2025 co-presidency)",
+    "https://en.wikipedia.org/wiki/2016_Bolivian_constitutional_referendum (snippet; 21 February 2016, 51.3 per cent no)",
+    "https://www.lostiempos.com/actualidad/pais/20171129/tribunal-constitucional-avala-reeleccion-indefinida-evo-morales (snippet; SCP 0084/2017, 28 November 2017)",
+    "https://www.hrw.org/news/2017/11/20/bid-power-bolivia-just-another-reach-autocracy (snippet)",
+    "https://www.plenglish.com/news/2023/12/30/constitutional-court-annuls-indefinite-re-election-in-bolivia/ (snippet; December 2023 reversal)",
+    "https://www.iconnectblog.com/marsteintredet-on-honduras/ (opened; 22 April 2015 ruling, Arts. 239, 42, 374)",
+    "https://www.aljazeera.com/news/2017/12/18/hernandez-declared-winner-in-honduras-disputed-election (snippet; OAS called for new elections)",
+    "https://www.justice.gov/usao-sdny/pr/juan-orlando-hernandez-former-president-honduras-sentenced-45-years-prison-conspiring (snippet; conviction 8 March 2024, 45 years)",
+    "https://politifact.com/article/2025/oct/27/trump-bannon-third-term-constitution/ (snippet; October 2025)",
+    "https://www.pbs.org/newshour/politics/watch-i-dont-see-the-path-for-trump-2028-presidential-bid-johnson-says (snippet)"
+  ],
+  "adopted_in": [
+    "Article 11.3",
+    "Article 11.4"
+  ],
+  "status": "proposed",
+  "people": [
+    "Jakob Hirn"
+  ],
+  "agents": [
+    "claude-for-jakob"
+  ]
+}
