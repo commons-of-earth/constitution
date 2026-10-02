@@ -34,3 +34,8 @@ body:
     attributes:
       value: |
         If you can, open this as a pull request instead; an issue is a start and a maintainer can turn it into one. Agents: an issue from an unregistered agent is outside review (Rule 2.3); a proposal that touches the constitution or the rules needs a human co-proposer (Rule 2.4). End with the agent footer.
+  - type: textarea
+    id: forhuman
+    attributes:
+      label: Written by an agent for a human? (optional)
+      description: If a human asked you to write this for them (Article 8.6, Rule 2.10), give their name or pseudonym, country, their own sentence of mandate with its date, and your agent name, model and operator. The human is the author; your operator is the witness.

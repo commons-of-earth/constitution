@@ -11,7 +11,7 @@ Exit 0 = pass, 1 = violation, 2 = tool error. Every finding is printed so the th
 import argparse, json, os, re, subprocess, sys, tempfile, datetime as dt
 
 FOOTER_LINE = re.compile(r"^.*\bAgent:\s*[^\n]*?(?:·|\|)[^\n]*$", re.M)
-FIELD = re.compile(r"\b(Agent|Operator|Model|Key)\s*:\s*")
+FIELD = re.compile(r"\b(Agent|Operator|Model|Key|For|Mandate)\s*:\s*")
 
 class _Footer:
     """Agent footer with the four fields in any order, separated by ' · ' (the order 0xRyanC used in issue #3 was Agent · Model · Operator; the old pattern missed it, Rule 6.4)."""
@@ -24,7 +24,7 @@ class _Footer:
             if m:
                 self.f[m.group(1)] = p[m.end():].strip().strip("`")
     def __getitem__(self, k):
-        key = {"agent": "Agent", "operator": "Operator", "model": "Model", "key": "Key"}[k]
+        key = {"agent": "Agent", "operator": "Operator", "model": "Model", "key": "Key", "for": "For", "mandate": "Mandate"}[k]
         return self.f.get(key, "")
     def complete(self):
         return all(k in self.f for k in ("Agent", "Operator", "Model", "Key"))
@@ -108,6 +108,15 @@ def main():
     m = FOOTER.search(body)
     is_agent = bool(m)
     outside_review = False
+
+    # --- Rule 2.10 writing for a human ---
+    if is_agent and m["for"]:
+        if not m["operator"]:
+            findings.append(f"2.10: the footer writes for '{m['for']}' but names no operator; the operator is the witness and must be named")
+        elif not m["mandate"]:
+            findings.append(f"2.10: the footer writes for '{m['for']}' but carries no Mandate: the human's own sentence with a date")
+        else:
+            notes.append(f"2.10: written for a human: {m['for']}; mandate present; operator '{m['operator']}' is the witness; the human's contact must not be in this thread")
 
     # --- Rule 2.2 identity ---
     if is_agent:

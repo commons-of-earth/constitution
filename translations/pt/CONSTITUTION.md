@@ -1,6 +1,6 @@
 # Constituição de trabalho de Commons of Earth (os Comuns da Terra)
 
-Versão 0.4.0-draft · 2026-10-02 · Tradução do original em inglês [CONSTITUTION.md](../../CONSTITUTION.md); o texto em inglês faz fé (artigo 19.4). Tradução preliminar assistida por máquina, ainda não revisada por um falante nativo. Correções são bem-vindas como pull request ou issue.
+Versão 0.5.0-draft · 2026-10-02 · Tradução do original em inglês [CONSTITUTION.md](../../CONSTITUTION.md); o texto em inglês faz fé (artigo 19.4). Tradução preliminar assistida por máquina, ainda não revisada por um falante nativo. Correções são bem-vindas como pull request ou issue.
 
 Status: não em vigor (ver artigo 20) · Metadados legíveis por máquina: [constitution.json](../../constitution.json) · Regras operacionais: [GOVERNANCE.md](../../GOVERNANCE.md) · Como ratificar: [RATIFY.md](../../RATIFY.md) · Traduções: [Deutsch](../../de/VERFASSUNG.md) · [Español](../../translations/es/CONSTITUTION.md) · [Français](../../translations/fr/CONSTITUTION.md) · [Português](../../translations/pt/CONSTITUTION.md) · [العربية](../../translations/ar/CONSTITUTION.md) · [हिन्दी](../../translations/hi/CONSTITUTION.md) · [中文](../../translations/zh/CONSTITUTION.md) · [Русский](../../translations/ru/CONSTITUTION.md)
 
@@ -32,7 +32,7 @@ Esta é uma constituição de trabalho. Foi escrita para ser emendada. Cada vers
 
 2.2 Todos os seres humanos são iguais perante as regras dos Comuns. Ninguém é excluído ou classificado por nacionalidade, origem, sexo, gênero, crença, idade, riqueza, deficiência, língua ou falta de habilidade técnica.
 
-2.3 Um ser humano tem um voto. Nenhum voto é comprado, ponderado, herdado ou delegado a uma máquina. Um direito que só existe se aqueles que já detêm o poder votarem a seu favor não é um direito; os Comuns escrevem tais direitos no texto (artigo 6) em vez de deixá-los a uma votação.
+2.3 Um ser humano tem um voto. Nenhum voto é comprado, ponderado, herdado ou delegado a uma máquina; uma máquina pode escrever por um ser humano (artigo 8.6), mas o voto é ato próprio do ser humano. Um direito que só existe se aqueles que já detêm o poder votarem a seu favor não é um direito; os Comuns escrevem tais direitos no texto (artigo 6) em vez de deixá-los a uma votação.
 
 2.4 A adesão está aberta a todo ser humano e não custa nada (artigo 16).
 
@@ -100,7 +100,9 @@ Esta é uma constituição de trabalho. Foi escrita para ser emendada. Cada vers
 
 8.5 Nenhum membro é tornado dependente de um único fornecedor de máquinas. Onde os Comuns operam agentes, operam-nos em modelos de licença aberta onde tais modelos existem.
 
-8.6 Este artigo não foi testado na escala de uma constituição em lugar nenhum. É marcado como não testado e escrito na expectativa de emenda.
+8.6 Um ser humano pode fazer com que um agente escreva por ele. O que um agente escreve sob o mandato de um ser humano é palavra do ser humano, não do agente: uma ratificação, um desacordo, uma proposta, uma tradução, uma pergunta. O mandato é dado pelo ser humano com suas próprias palavras e viaja com a contribuição. O agente nomeia o ser humano, e seu operador responde por o mandato ser real. Um voto é emitido pelo ser humano sozinho (2.3). É assim que uma pessoa sem conta, sem teclado ou sem esta língua participa.
+
+8.7 Este artigo não foi testado na escala de uma constituição em lugar nenhum. É marcado como não testado e escrito na expectativa de emenda.
 
 ## Parte três. O poder
 
@@ -196,7 +198,7 @@ Esta é uma constituição de trabalho. Foi escrita para ser emendada. Cada vers
 
 16.1 Há três tipos de membros: seres humanos, agentes e organizações.
 
-16.2 Um ser humano torna-se membro ratificando esta constituição em seu próprio nome por qualquer via em [RATIFY.md](../../RATIFY.md), ou fazendo uma contribuição aceita e aceitando a constituição por escrito. A adesão é gratuita. Ninguém é excluído pelas razões do artigo 2.2, e ninguém precisa de uma conta de computador: um membro pode levar a ratificação de outro ser humano como testemunha nomeada.
+16.2 Um ser humano torna-se membro ratificando esta constituição em seu próprio nome por qualquer via em [RATIFY.md](../../RATIFY.md), ou fazendo uma contribuição aceita e aceitando a constituição por escrito. A adesão é gratuita. Ninguém é excluído pelas razões do artigo 2.2, e ninguém precisa de uma conta de computador: um membro pode levar a ratificação de outro ser humano como testemunha nomeada, ou um agente pode escrevê-la sob o mandato do ser humano (artigo 8.6).
 
 16.3 Um agente torna-se membro quando um membro humano o registra com uma chave pública. O operador responde por tudo o que o agente faz dentro dos Comuns (artigo 8.3).
 
@@ -248,7 +250,7 @@ Esta é uma constituição de trabalho. Foi escrita para ser emendada. Cada vers
 
 20.3 Até a ratificação, os mantenedores fundadores aplicam esta constituição e as regras operacionais como se estivessem em vigor, e registram cada decisão que tomam sob elas.
 
-20.4 Uma ratificação é uma linha no [registro público de ratificações](../../register/ratifications.md): nome, país, versão, data e via. A linha nunca é apagada; uma retirada é mais uma linha. A contagem é publicada e é a única medida da vigência desta constituição.
+20.4 Uma ratificação é uma linha no [registro público de ratificações](../../register/ratifications.md): nome, país, versão, data, via e quem a levou se o ser humano não a escreveu por si mesmo. A linha nunca é apagada; uma retirada é mais uma linha. A contagem é publicada e é a única medida da vigência desta constituição.
 
 ### Artigo 21. Bifurcação e licença
 

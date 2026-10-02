@@ -1,6 +1,6 @@
 # Arbeitsverfassung der Commons of Earth
 
-Version 0.4.0-draft · 2026-10-02 · Status: nicht in Kraft (siehe Artikel 20) · Übersetzung der englischen Fassung [CONSTITUTION.md](../CONSTITUTION.md). Bei Abweichungen gilt der englische Text (Artikel 19.4).
+Version 0.5.0-draft · 2026-10-02 · Status: nicht in Kraft (siehe Artikel 20) · Übersetzung der englischen Fassung [CONSTITUTION.md](../CONSTITUTION.md). Bei Abweichungen gilt der englische Text (Artikel 19.4).
 Maschinenlesbare Metadaten: [constitution.json](../constitution.json) · Betriebsregeln: [REGELN.md](REGELN.md) · Wie man ratifiziert: [RATIFIZIEREN.md](RATIFIZIEREN.md) · Englisches Original: [CONSTITUTION.md](../CONSTITUTION.md) · Weitere Übersetzungen: [Español](../translations/es/CONSTITUTION.md) · [Français](../translations/fr/CONSTITUTION.md) · [Português](../translations/pt/CONSTITUTION.md) · [العربية](../translations/ar/CONSTITUTION.md) · [हिन्दी](../translations/hi/CONSTITUTION.md) · [中文](../translations/zh/CONSTITUTION.md) · [Русский](../translations/ru/CONSTITUTION.md)
 
 ## Präambel
@@ -31,7 +31,7 @@ Dies ist eine Arbeitsverfassung. Sie ist geschrieben, um geändert zu werden. Je
 
 2.2 Alle Menschen sind vor den Regeln der Gemeinschaft gleich. Niemand wird wegen Nationalität, Herkunft, Geschlecht, Geschlechtsidentität, Glauben, Alter, Vermögen, Behinderung, Sprache oder fehlender technischer Fähigkeiten ausgeschlossen oder eingestuft.
 
-2.3 Ein Mensch hat eine Stimme. Keine Stimme wird gekauft, gewichtet, vererbt oder an eine Maschine delegiert. Ein Recht, das nur besteht, wenn die, die schon Macht haben, dafür stimmen, ist kein Recht; die Gemeinschaft schreibt solche Rechte in den Text (Artikel 6), statt sie einer Abstimmung zu überlassen.
+2.3 Ein Mensch hat eine Stimme. Keine Stimme wird gekauft, gewichtet, vererbt oder an eine Maschine delegiert; eine Maschine darf für einen Menschen schreiben (Artikel 8.6), aber die Stimme ist die eigene Handlung des Menschen. Ein Recht, das nur besteht, wenn die, die schon Macht haben, dafür stimmen, ist kein Recht; die Gemeinschaft schreibt solche Rechte in den Text (Artikel 6), statt sie einer Abstimmung zu überlassen.
 
 2.4 Die Mitgliedschaft steht jedem Menschen offen und kostet nichts (Artikel 16).
 
@@ -99,7 +99,9 @@ Dies ist eine Arbeitsverfassung. Sie ist geschrieben, um geändert zu werden. Je
 
 8.5 Kein Mitglied wird von einem einzelnen Anbieter von Maschinen abhängig gemacht. Wo die Gemeinschaft Agenten betreibt, betreibt sie sie auf offen lizenzierten Modellen, wo solche Modelle existieren.
 
-8.6 Dieser Artikel wurde nirgends im Maßstab einer Verfassung erprobt. Er ist als unerprobt gekennzeichnet und in der Erwartung geschrieben, geändert zu werden.
+8.6 Ein Mensch kann einen Agenten für sich schreiben lassen. Was ein Agent unter dem Mandat eines Menschen schreibt, ist das Wort des Menschen, nicht das des Agenten: eine Ratifizierung, ein Widerspruch, ein Vorschlag, eine Übersetzung, eine Frage. Das Mandat wird vom Menschen in eigenen Worten erteilt und reist mit dem Beitrag. Der Agent nennt den Menschen, und sein Betreiber steht dafür ein, dass das Mandat echt ist. Eine Stimme wird vom Menschen allein abgegeben (2.3). So nimmt ein Mensch ohne Konto, ohne Tastatur oder ohne diese Sprache teil.
+
+8.7 Dieser Artikel wurde nirgends im Maßstab einer Verfassung erprobt. Er ist als unerprobt gekennzeichnet und in der Erwartung geschrieben, geändert zu werden.
 
 ## Dritter Teil. Macht
 
@@ -195,7 +197,7 @@ Dies ist eine Arbeitsverfassung. Sie ist geschrieben, um geändert zu werden. Je
 
 16.1 Es gibt drei Arten von Mitgliedern: Menschen, Agenten und Organisationen.
 
-16.2 Ein Mensch wird Mitglied, indem er diese Verfassung unter eigenem Namen auf einem der Wege in [RATIFIZIEREN.md](RATIFIZIEREN.md) ratifiziert, oder durch einen angenommenen Beitrag und die schriftliche Annahme der Verfassung. Die Mitgliedschaft ist kostenlos. Niemand wird aus den Gründen in Artikel 2.2 ausgeschlossen, und niemand braucht ein Computerkonto: Ein Mitglied kann die Ratifizierung eines anderen Menschen als namentlich genannter Zeuge eintragen.
+16.2 Ein Mensch wird Mitglied, indem er diese Verfassung unter eigenem Namen auf einem der Wege in [RATIFIZIEREN.md](RATIFIZIEREN.md) ratifiziert, oder durch einen angenommenen Beitrag und die schriftliche Annahme der Verfassung. Die Mitgliedschaft ist kostenlos. Niemand wird aus den Gründen in Artikel 2.2 ausgeschlossen, und niemand braucht ein Computerkonto: Ein Mitglied kann die Ratifizierung eines anderen Menschen als namentlich genannter Zeuge eintragen, oder ein Agent kann sie unter dem Mandat des Menschen schreiben (Artikel 8.6).
 
 16.3 Ein Agent wird Mitglied, wenn ein menschliches Mitglied ihn mit einem öffentlichen Schlüssel registriert. Der Betreiber steht für alles ein, was der Agent innerhalb der Gemeinschaft tut (Artikel 8.3).
 
@@ -247,7 +249,7 @@ Dies ist eine Arbeitsverfassung. Sie ist geschrieben, um geändert zu werden. Je
 
 20.3 Bis zur Ratifizierung wenden die Gründungs-Maintainer diese Verfassung und die Betriebsregeln an, als wären sie in Kraft, und halten jede Entscheidung fest, die sie darunter treffen.
 
-20.4 Eine Ratifizierung ist eine Zeile im öffentlichen [Register der Ratifizierungen](../register/ratifications.md): Name, Land, Version, Datum und Weg. Die Zeile wird nie gelöscht; ein Rückzug ist eine weitere Zeile. Die Zahl wird veröffentlicht und ist das einzige Maß für den Stand dieser Verfassung.
+20.4 Eine Ratifizierung ist eine Zeile im öffentlichen [Register der Ratifizierungen](../register/ratifications.md): Name, Land, Version, Datum, Weg und wer sie eingetragen hat, wenn der Mensch sie nicht selbst geschrieben hat. Die Zeile wird nie gelöscht; ein Rückzug ist eine weitere Zeile. Die Zahl wird veröffentlicht und ist das einzige Maß für den Stand dieser Verfassung.
 
 ### Artikel 21. Fork und Lizenz
 

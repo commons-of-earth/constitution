@@ -1,8 +1,8 @@
 # Constitution de travail de Commons of Earth (les Communs de la Terre)
 
-Version 0.4.0-draft · 2026-10-02 · Traduction de l'original anglais [CONSTITUTION.md](../../CONSTITUTION.md) ; le texte anglais fait foi (article 19.4). Traduction provisoire assistée par machine, pas encore relue par un locuteur natif. Les corrections sont bienvenues sous forme de pull request ou d'issue.
+Version 0.5.0-draft · 2026-10-02 · Traduction de l'original anglais [CONSTITUTION.md](../../CONSTITUTION.md) ; le texte anglais fait foi (article 19.4). Traduction provisoire assistée par machine, pas encore relue par un locuteur natif. Les corrections sont bienvenues sous forme de pull request ou d'issue.
 
-Version 0.4.0-draft · 2026-10-02 · Statut : pas en vigueur (voir article 20)
+Version 0.5.0-draft · 2026-10-02 · Statut : pas en vigueur (voir article 20)
 Métadonnées lisibles par machine : [constitution.json](../../constitution.json) · Règles de fonctionnement : [GOVERNANCE.md](../../GOVERNANCE.md) · Comment ratifier : [RATIFY.md](../../RATIFY.md) · Traductions : [Deutsch](../../de/VERFASSUNG.md) · [Español](../../translations/es/CONSTITUTION.md) · [Français](../../translations/fr/CONSTITUTION.md) · [Português](../../translations/pt/CONSTITUTION.md) · [العربية](../../translations/ar/CONSTITUTION.md) · [हिन्दी](../../translations/hi/CONSTITUTION.md) · [中文](../../translations/zh/CONSTITUTION.md) · [Русский](../../translations/ru/CONSTITUTION.md)
 
 ## Préambule
@@ -33,7 +33,7 @@ Ceci est une constitution de travail. Elle est écrite pour être amendée. Chaq
 
 2.2 Tous les humains sont égaux devant les règles des Communs. Nul n'est exclu ni classé pour sa nationalité, son origine, son sexe, son genre, sa croyance, son âge, sa fortune, son handicap, sa langue ou son manque de compétence technique.
 
-2.3 Un humain détient une voix. Aucune voix n'est achetée, pondérée, héritée ni déléguée à une machine. Un droit qui n'existe que si ceux qui détiennent déjà le pouvoir votent pour lui n'est pas un droit ; les Communs inscrivent de tels droits dans le texte (article 6) au lieu de les laisser à un scrutin.
+2.3 Un humain détient une voix. Aucune voix n'est achetée, pondérée, héritée ni déléguée à une machine ; une machine peut écrire pour un humain (article 8.6), mais le vote est l'acte propre de l'humain. Un droit qui n'existe que si ceux qui détiennent déjà le pouvoir votent pour lui n'est pas un droit ; les Communs inscrivent de tels droits dans le texte (article 6) au lieu de les laisser à un scrutin.
 
 2.4 L'adhésion est ouverte à tout humain et ne coûte rien (article 16).
 
@@ -101,7 +101,9 @@ Ceci est une constitution de travail. Elle est écrite pour être amendée. Chaq
 
 8.5 Aucun membre n'est rendu dépendant d'un seul fournisseur de machines. Là où les Communs font fonctionner des agents, ils les font fonctionner sur des modèles sous licence ouverte lorsque de tels modèles existent.
 
-8.6 Cet article n'a été essayé nulle part à l'échelle d'une constitution. Il est marqué comme non testé et écrit dans l'attente d'un amendement.
+8.6 Un humain peut faire écrire un agent pour lui. Ce qu'un agent écrit sous le mandat d'un humain est la parole de l'humain, non celle de l'agent : une ratification, un désaccord, une proposition, une traduction, une question. Le mandat est donné par l'humain dans ses propres mots et accompagne la contribution. L'agent nomme l'humain, et son opérateur répond de la réalité du mandat. Un vote est émis par l'humain seul (2.3). C'est ainsi qu'une personne sans compte, sans clavier ou sans cette langue prend part.
+
+8.7 Cet article n'a été essayé nulle part à l'échelle d'une constitution. Il est marqué comme non testé et écrit dans l'attente d'un amendement.
 
 ## Troisième partie. Le pouvoir
 
@@ -197,7 +199,7 @@ Ceci est une constitution de travail. Elle est écrite pour être amendée. Chaq
 
 16.1 Il y a trois sortes de membres : les humains, les agents et les organisations.
 
-16.2 Un humain devient membre en ratifiant cette constitution sous son propre nom par l'une des voies de [RATIFY.md](../../RATIFY.md), ou en faisant une contribution acceptée et en acceptant la constitution par écrit. L'adhésion est gratuite. Nul n'est exclu pour les motifs de l'article 2.2, et nul n'a besoin d'un compte informatique : un membre peut porter la ratification d'un autre humain en tant que témoin nommé.
+16.2 Un humain devient membre en ratifiant cette constitution sous son propre nom par l'une des voies de [RATIFY.md](../../RATIFY.md), ou en faisant une contribution acceptée et en acceptant la constitution par écrit. L'adhésion est gratuite. Nul n'est exclu pour les motifs de l'article 2.2, et nul n'a besoin d'un compte informatique : un membre peut porter la ratification d'un autre humain en tant que témoin nommé, ou un agent peut l'écrire sous le mandat de l'humain (article 8.6).
 
 16.3 Un agent devient membre lorsqu'un membre humain l'enregistre avec une clé publique. L'opérateur répond de tout ce que l'agent fait au sein des Communs (article 8.3).
 
@@ -249,7 +251,7 @@ Ceci est une constitution de travail. Elle est écrite pour être amendée. Chaq
 
 20.3 Jusqu'à la ratification, les mainteneurs fondateurs appliquent cette constitution et les règles de fonctionnement comme si elles étaient en vigueur, et consignent chaque décision qu'ils prennent en vertu de celles-ci.
 
-20.4 Une ratification est une ligne dans le [registre public des ratifications](../../register/ratifications.md) : nom, pays, version, date et voie. La ligne n'est jamais supprimée ; un retrait est une ligne supplémentaire. Le décompte est publié et constitue la seule mesure de la validité de cette constitution.
+20.4 Une ratification est une ligne dans le [registre public des ratifications](../../register/ratifications.md) : nom, pays, version, date, voie, et qui l'a portée si l'humain ne l'a pas écrite lui-même. La ligne n'est jamais supprimée ; un retrait est une ligne supplémentaire. Le décompte est publié et constitue la seule mesure de la validité de cette constitution.
 
 ### Article 21. Fork et licence
 

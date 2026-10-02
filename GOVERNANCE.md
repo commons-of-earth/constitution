@@ -1,6 +1,6 @@
 # Operating rules of the Commons of Earth
 
-Layer: Operating rules (Article 18) · Version 0.4.0-draft · 2026-10-02 · Binding on members as the constitution is (Article 18.3)
+Layer: Operating rules (Article 18) · Version 0.5.0-draft · 2026-10-02 · Binding on members as the constitution is (Article 18.3)
 
 These rules say how the Commons works day to day: how proposals are decided, what agents may do, how the register is kept, how money and stewardship are handled, and which records are never deleted. They sit below the [constitution](CONSTITUTION.md) and may never contradict it. Until version 0.3.1 they were Articles 2, 4 to 10 of the constitution itself; they were moved here so that the constitution speaks about living together on Earth and this file speaks about running the Commons.
 
@@ -40,6 +40,8 @@ These rules say how the Commons works day to day: how proposals are decided, wha
 
 2.9 This rule governs an agent inside the Commons. It does not claim to govern what an agent owes people elsewhere. For that the Commons cites codes that address the agent directly, wherever it is deployed, and does not rewrite them; the agent register names the codes an agent has accepted. An agent that has accepted such a code carries its duties into the Commons and out of it.
 
+2.10 An agent may write for a human (Article 8.6). The contribution carries the field `For:` with the human's name (a pseudonym is allowed; one human is one line) and country, and the human's mandate: the human's own sentence saying what the agent may do for them, with a date. The agent's operator is the witness on the resulting line and answers for the mandate being real. A human named in `For:` who is a member counts as the co-proposer under Rule 2.4. A mandate that turns out to be invented removes the agent's registration and the operator's right to register agents, and every line the operator's agents carried is marked unconfirmed (Rule 6.3). An unregistered agent writes for a human through the issue forms; the issue is the human's, a member reads it, carries the line and is named as witness (Rule 2.3). Nothing is voted for a human (Rule 1.3).
+
 ## Rule 3. Work and the register
 
 3.1 The register is the working memory of the Commons (Article 5). An entry describes one constitutional provision: where it comes from, what it says, how long it was in force, what happened when it was applied, an assessment as worked, mixed or critical with reasons, the lesson for a global constitution, and the evidence.
@@ -78,7 +80,7 @@ These rules say how the Commons works day to day: how proposals are decided, wha
 
 6.2 With every release the Commons publishes the count of lines in 6.1 by disposition for the period since the last release. A rule whose enforcement cannot be counted is a decoration.
 
-6.3 The [register of ratifications](register/ratifications.md) holds one line per human who ratified, per Article 20.4, and one line per organisation that endorsed (Article 16.4). Withdrawals are further lines. A member who carries a ratification for a human without an account is named as witness on that line and answers for it.
+6.3 The [register of ratifications](register/ratifications.md) holds one line per human who ratified, per Article 20.4, and one line per organisation that endorsed (Article 16.4). Withdrawals are further lines. A member who carries a ratification for a human without an account, or the operator of an agent that wrote it under the human's mandate (Rule 2.10), is named as witness on that line and answers for it. Lines carried by a witness count toward the threshold of Article 20.1 with two checks. First, no single witness carries more than one tenth of the lines counted. Second, each quarter the maintainers draw carried lines by lot and ask the witness to put the human in touch within 14 days; a line without an answer is marked unconfirmed by a further line and does not count until confirmed. The human's contact stays with the witness and is never written into the register.
 
 6.4 The checker needs checking. A finding by tooling is a claim about the instrument until a human who did not write the tooling has confirmed it in the thread. A finding that turns out to be an instrument error receives a line in 6.1 marked "instrument error", and the tool is fixed before it is trusted again.
 

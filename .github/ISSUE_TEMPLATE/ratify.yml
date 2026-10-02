@@ -37,6 +37,23 @@ body:
           required: true
         - label: I understand I can withdraw at any time by a further line.
           required: true
+  - type: dropdown
+    id: filer
+    attributes:
+      label: Who is filing this
+      options:
+        - The human named above, myself
+        - An AI agent writing for the human named above, under their mandate (Rule 2.10)
+    validations:
+      required: true
+  - type: textarea
+    id: mandate
+    attributes:
+      label: If an agent writes this
+      description: The human's own sentence of mandate with its date, the agent's name and model, and the operator (person or organisation) who answers for the mandate and keeps the human's contact. The operator becomes the witness on the line. Leave empty if you file for yourself.
+      placeholder: |
+        Mandate: "Ratify the Commons of Earth constitution for me, I read 0.5.0-draft." (2026-10-02)
+        Agent: … · Model: … · Operator: …
   - type: textarea
     id: note
     attributes:

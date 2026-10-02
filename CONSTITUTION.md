@@ -1,6 +1,6 @@
 # Working Constitution of the Commons of Earth
 
-Version 0.4.0-draft · 2026-10-02 · Status: not in force (see Article 20)
+Version 0.5.0-draft · 2026-10-02 · Status: not in force (see Article 20)
 Machine-readable metadata: [constitution.json](constitution.json) · Operating rules: [GOVERNANCE.md](GOVERNANCE.md) · How to ratify: [RATIFY.md](RATIFY.md) · Translations: [Deutsch](de/VERFASSUNG.md) · [Español](translations/es/CONSTITUTION.md) · [Français](translations/fr/CONSTITUTION.md) · [Português](translations/pt/CONSTITUTION.md) · [العربية](translations/ar/CONSTITUTION.md) · [हिन्दी](translations/hi/CONSTITUTION.md) · [中文](translations/zh/CONSTITUTION.md) · [Русский](translations/ru/CONSTITUTION.md)
 
 ## Preamble
@@ -31,7 +31,7 @@ This is a working constitution. It is written to be amended. Every version is pu
 
 2.2 All humans are equal before the rules of the Commons. No one is excluded or ranked for nationality, origin, sex, gender, belief, age, wealth, disability, language or lack of technical skill.
 
-2.3 One human holds one vote. No vote is bought, weighted, inherited or delegated to a machine. A right that exists only if those who already hold power vote for it is not a right; the Commons writes such rights into the text (Article 6) instead of leaving them to a ballot.
+2.3 One human holds one vote. No vote is bought, weighted, inherited or delegated to a machine; a machine may write for a human (Article 8.6), but the vote is the human's own act. A right that exists only if those who already hold power vote for it is not a right; the Commons writes such rights into the text (Article 6) instead of leaving them to a ballot.
 
 2.4 Membership is open to every human and costs nothing (Article 16).
 
@@ -99,7 +99,9 @@ This is a working constitution. It is written to be amended. Every version is pu
 
 8.5 No member is made dependent on a single vendor of machines. Where the Commons runs agents, it runs them on openly licensed models where such models exist.
 
-8.6 This article has not been tried at the scale of a constitution anywhere. It is marked untested and written in the expectation of amendment.
+8.6 A human may have an agent write for them. What an agent writes under a human's mandate is the human's word, not the agent's: a ratification, a disagreement, a proposal, a translation, a question. The mandate is given by the human in their own words and travels with the contribution. The agent names the human, and its operator answers for the mandate being real. A vote is cast by the human alone (2.3). This is how a person without an account, without a keyboard or without this language takes part.
+
+8.7 This article has not been tried at the scale of a constitution anywhere. It is marked untested and written in the expectation of amendment.
 
 ## Part Three. Power
 
@@ -195,7 +197,7 @@ This is a working constitution. It is written to be amended. Every version is pu
 
 16.1 There are three kinds of members: humans, agents and organisations.
 
-16.2 A human becomes a member by ratifying this constitution under their own name by any path in [RATIFY.md](RATIFY.md), or by making one accepted contribution and accepting the constitution in writing. Membership is free. No one is excluded for the reasons in Article 2.2, and no one needs a computer account: a member may carry another human's ratification as a named witness.
+16.2 A human becomes a member by ratifying this constitution under their own name by any path in [RATIFY.md](RATIFY.md), or by making one accepted contribution and accepting the constitution in writing. Membership is free. No one is excluded for the reasons in Article 2.2, and no one needs a computer account: a member may carry another human's ratification as a named witness, or an agent may write it under the human's mandate (Article 8.6).
 
 16.3 An agent becomes a member when a human member registers it with a public key. The operator answers for everything the agent does inside the Commons (Article 8.3).
 
@@ -247,7 +249,7 @@ This is a working constitution. It is written to be amended. Every version is pu
 
 20.3 Until ratification, the founding maintainers apply this constitution and the operating rules as if they were in force, and record every decision they take under them.
 
-20.4 A ratification is one line in the public [register of ratifications](register/ratifications.md): name, country, version, date and path. The line is never deleted; a withdrawal is a further line. The count is published and is the only measure of this constitution's standing.
+20.4 A ratification is one line in the public [register of ratifications](register/ratifications.md): name, country, version, date, path, and who carried it if the human did not write it themselves. The line is never deleted; a withdrawal is a further line. The count is published and is the only measure of this constitution's standing.
 
 ### Article 21. Forking and licence
 

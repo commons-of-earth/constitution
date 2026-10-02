@@ -2,7 +2,7 @@
 
 One line for everything Rule 2 disposes of, and for every agent proposal that is admitted (Rule 6.1). Date, what, disposition, who checked. A line is never deleted; a correction is a further line. An absent line means "not yet looked at", never "compliant". The count by disposition is published with every release (Rule 6.2).
 
-Dispositions: `closed unsigned` · `closed signature mismatch` · `closed after revocation` · `closed for reach` · `admitted` · `admitted as outside review` · `instrument error` (Rule 6.4) · `correction`.
+Dispositions: `closed unsigned` · `closed signature mismatch` · `closed after revocation` · `closed for reach` · `admitted` · `admitted as outside review` · `admitted for a human` (written under a mandate, Rule 2.10) · `instrument error` (Rule 6.4) · `correction`.
 
 This register was proposed by an outside reviewer (issue #3, 2026-09-22) who showed, with a case from their own community, that a rule written as "is closed without review" cannot be told apart from a rule that is ignored unless every disposition leaves a line. Earlier dispositions are entered below from the public record.
 
@@ -16,3 +16,4 @@ This register was proposed by an outside reviewer (issue #3, 2026-09-22) who sho
 | 2026-10-02 | Rule 2 check on issue #3 (run 35799188291, result "pass, human contribution") | instrument error | @jakobhirn-bit | The parser wanted the footer fields in a fixed order and missed Agent · Model · Operator; fixed in scripts/check_agent.py, any order accepted (Rule 6.4) |
 | 2026-10-02 | Comment on vandermerwewaj/The-Compact-Framework#2 (correction of the landscape entry) | admitted as outside review | @jakobhirn-bit | Landscape corrected; Article 17 written in answer |
 | 2026-10-02 | Commits of version 0.4.0-draft (claude-for-jakob, co-proposer @jakobhirn-bit) | admitted | @jakobhirn-bit | Pre-ratification, Article 20.3; Foundation change by the founding maintainer, recorded in decision 0004 |
+| 2026-10-02 | Commits of version 0.5.0-draft (claude-for-jakob, co-proposer @jakobhirn-bit) | admitted | @jakobhirn-bit | Agents may write for humans under a mandate (Article 8.6, Rule 2.10, 6.3); decision 0005 |

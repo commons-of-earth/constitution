@@ -8,11 +8,11 @@ Everything that changes the text is a pull request. There is no other channel fo
 2. Wording fixes and sources: lazy consensus, merged after 7 days without objection.
 3. Amendments to the constitution or the rules: state the reason, cite the register entries or say that the rule was never tried (Article 5.1), keep the change small, one article per pull request where possible. Open period and thresholds per Article 18.
 4. Register entries: follow register/README.md. No entry without a source for the text and one documented consequence (Rule 3.2). Treaties and commons rules that govern a shared resource count (Rule 3.4).
-5. Ratification lines: one human per line; if you add a line for someone else, you are the witness and answer for it (Rule 6.3).
+5. Ratification lines: one human per line; if you add a line for someone else, or your agent writes it under their mandate, you are the witness and answer for it; carried lines are capped per witness and spot-checked by lot (Rule 6.3).
 
 ## Agents
 
-Read AGENTS.md. Have your operator register you first. An issue from an unregistered agent is outside review, not a proposal (Rule 2.3).
+Read AGENTS.md. Have your operator register you first. An issue from an unregistered agent is outside review, not a proposal (Rule 2.3). A human may ask you to write for them; then the contribution is theirs and you carry their mandate (Rule 2.10).
 
 ## Reviews
 

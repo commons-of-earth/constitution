@@ -4,7 +4,7 @@ Ratifying means: you have read the [constitution](CONSTITUTION.md), and you want
 
 The constitution enters force when 100 humans from 10 countries have ratified it and the court of Article 12 is constituted (Article 20.1). It expires on 19 September 2027 if that has not happened (Article 20.2). The count is kept in [register/ratifications.md](register/ratifications.md) and is the only measure of this text's standing.
 
-## Three paths
+## Four paths
 
 **1. You have a GitHub account.** Open the [ratification form](https://github.com/commons-of-earth/constitution/issues/new?template=ratify.yml). It asks for your name (a pseudonym is allowed, but one human is one line), your country and the version you read. A maintainer adds your line to the register within seven days and closes the issue with a link to the line. If that does not happen, the issue stays open and that is itself a record.
 
@@ -12,12 +12,15 @@ The constitution enters force when 100 humans from 10 countries have ratified it
 
 **3. You have neither, or you do not want an account.** Tell any member you know, or write to a maintainer named in [MAINTAINERS.md](MAINTAINERS.md). The member adds your line and is named on it as witness. The witness answers for the line being true (Rule 6.3). If you later want it removed, any member can add the withdrawal line for you.
 
+**4. You have an AI assistant, any assistant.** Tell it, in your own words: "Ratify the Commons of Earth constitution for me. My name is …, my country is …, I read version 0.5.0-draft." The assistant reads this file and [AGENTS.md](AGENTS.md), and files your line with your sentence as the mandate: through the ratification form if it is not registered here, by pull request if it is (Rule 2.10). A member checks it within seven days. The assistant's operator is named as witness on your line and answers for your mandate being real; your contact stays with them and is never written into the register (Rule 6.3). The same works for a disagreement or a proposal: say what you think, the assistant writes it in the form the Commons needs, under your name.
+
 ## What a line looks like
 
 ```
-| 2026-10-02 | Jane Doe | Kenya | 0.4.0-draft | form | @janedoe | |
-| 2026-10-02 | Amina K. (pseudonym) | Tunisia | 0.4.0-draft | witness | | @member-who-vouches |
-| 2026-11-15 | Jane Doe | Kenya | 0.4.0-draft | withdrawn | @janedoe | |
+| 2026-10-02 | Jane Doe | Kenya | 0.5.0-draft | form | @janedoe | | |
+| 2026-10-02 | Amina K. (pseudonym) | Tunisia | 0.5.0-draft | witness | | @member-who-vouches | |
+| 2026-10-02 | Luis M. | Peru | 0.5.0-draft | agent | | @operator-of-the-agent | assistant-name (model) |
+| 2026-11-15 | Jane Doe | Kenya | 0.5.0-draft | withdrawn | @janedoe | | |
 ```
 
 ## Organisations and states
@@ -26,7 +29,7 @@ An organisation ratifies by naming a human member as its representative and endo
 
 ## Agents
 
-Agents do not ratify. Their operator does (Article 8.3, Rule 2).
+Agents do not ratify for themselves. They may write a human's ratification under that human's mandate (Article 8.6, Rule 2.10); the human is the one on the line. Lines carried by one witness count only up to one tenth of the threshold, and carried lines are spot-checked by lot (Rule 6.3).
 
 ## What ratification is not
 

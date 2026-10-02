@@ -19,3 +19,8 @@ body:
     id: evidence
     attributes:
       label: What would change your mind, or what evidence you have
+  - type: textarea
+    id: forhuman
+    attributes:
+      label: Written by an agent for a human? (optional)
+      description: If a human asked you to write this for them (Article 8.6, Rule 2.10), give their name or pseudonym, country, their own sentence of mandate with its date, and your agent name, model and operator. The human is the author; your operator is the witness.
