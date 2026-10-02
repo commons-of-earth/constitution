@@ -1,0 +1,41 @@
+{
+  "id": "india-1976-article-51a-fundamental-duties",
+  "provision": "Non-justiciable fundamental duties of citizens listed in the constitution",
+  "source": {
+    "constitution": "Constitution of India",
+    "jurisdiction": "India",
+    "year": 1976,
+    "article": "Part IVA, Article 51A, clauses (a) to (k); inserted by section 11 of the Constitution (Forty-second Amendment) Act 1976, clause (k) added by the Constitution (Eighty-sixth Amendment) Act 2002"
+  },
+  "text_summary": "'It shall be the duty of every citizen of India' to abide by the Constitution and respect its institutions, the flag and the anthem (a); to cherish the ideals of the freedom struggle (b); to uphold the sovereignty, unity and integrity of India (c); to defend the country when called upon (d); to promote harmony and renounce practices derogatory to the dignity of women (e); to preserve the composite culture (f); 'to protect and improve the natural environment including forests, lakes, rivers and wild life, and to have compassion for living creatures' (g); to develop the scientific temper, humanism and the spirit of inquiry (h); to safeguard public property and abjure violence (i); to strive towards excellence (j); and, since 2002, for a parent or guardian to provide opportunities for education to a child between six and fourteen (k). No clause provides a sanction, and no court can enforce the article directly.",
+  "period": "In force since 3 January 1977; still in force",
+  "history": "The Emergency was proclaimed on 25 June 1975. In 1976 the Congress party's Swaran Singh Committee recommended adding citizens' duties, on the model of socialist constitutions that paired rights with obligations. The Forty-second Amendment passed the Lok Sabha on 2 November and the Rajya Sabha on 10 November 1976, received assent on 18 December 1976 and commenced on 3 January 1977; it was the most extensive amendment in the constitution's history and also curtailed judicial review and fundamental rights. The Emergency ended in March 1977 and the Janata government's Forty-third (1977) and Forty-fourth (1978) Amendments reversed most of it, but Article 51A survived untouched. The Supreme Court first met the article in Bijoe Emmanuel v State of Kerala (11 August 1986): three Jehovah's Witness children had been expelled for not singing the anthem; the Court held that standing respectfully satisfies the duty under 51A(a) and ordered them readmitted, so the duty could not be used against a right. In M.C. Mehta v Kamal Nath (2000) the Court used 51A(g) in environmental reasoning. In AIIMS Students' Union v AIIMS (24 August 2001) it struck down an institutional reservation under Article 14 and wrote that fundamental duties, 'though not enforceable by a writ of the court, yet provide a valuable guide and aid to interpretation of constitutional and legal issues', noting that Part IVA carries the same word 'fundamental' as Part III. A Justice J.S. Verma Committee, set up in 1998 and reporting in 1999, recommended teaching the duties in schools and public awareness programmes; the National Commission to Review the Working of the Constitution (2002) repeated this. A letter from former Chief Justice Ranganath Mishra was treated as a writ petition, and on 31 July 2003 a bench of Khare CJ, Balakrishnan and Sinha JJ asked the Union to take the Verma Committee's recommendations 'very seriously' and implement them; the direction was to educate, not to enforce. The Eighty-sixth Amendment (2002) added clause (k) alongside the new right to education in Article 21A. Critics note that the duties were written by a government that was at that moment jailing its opponents, and that the article has never been the ground of any decision on its own.",
+  "assessment": {
+    "verdict": "mixed",
+    "reasoning": "In its favour: the article survived the reversal of everything else the Emergency wrote, courts use it to read other provisions, the environmental duty (g) gave judges a textual hook for public-interest environmental cases, and the 2002 addition shows the list can grow with the rights it mirrors. Against it: for fifty years no citizen has been held to any of the ten duties by this article, the court's own reading in Bijoe Emmanuel stops a duty from overriding a right, and the only direction ever issued under it (2003) was to run awareness campaigns. The Emergency origin is a lasting stain on its legitimacy. A duties clause without a procedure to notice a breach is a statement of values in the dress of a rule."
+  },
+  "lesson": "Copy a short list of duties that mirrors the rights and that courts may use to interpret other clauses; do not copy duties without any public record of breach, and never write duties while rights are suspended.",
+  "evidence": [
+    "https://www.constituteproject.org/constitution/India_2016 (opened; Part IVA Article 51A text, Article 37)",
+    "https://en.wikipedia.org/wiki/Forty-second_Amendment_of_the_Constitution_of_India (opened; dates passed, assent 18 December 1976, commencement 3 January 1977, Swaran Singh Committee, 43rd and 44th Amendment reversals)",
+    "https://lawfoyer.in/honble-shri-ranganath-mishra-vs-union-of-india-and-ors-aironline-2003-sc-273/ (opened; judgment 31 July 2003, bench, Verma Committee direction)",
+    "https://www.scobserver.in/journal/fundamental-duties-court-in-review/ (opened; Balaji Raghavan 1995, Kamal Nath 2000, Javed 2003, Ranganath Mishra 2003, Ramlila Maidan 2012; not enforceable in court)",
+    "https://mukeshsuman.com/aiims-students-union-vs-aiims-case-summary/ (opened; AIIMS quotation on fundamental duties as a guide to interpretation)",
+    "https://lextechsuite.com/AIIMS-Students-Union-Versus-AIIMS-and-Others-2001-08-24 (snippet; judgment date 24 August 2001)",
+    "https://indiankanoon.org/doc/504576/ (snippet; Ranganath Mishra v Union of India, letter treated as writ petition, Verma Committee 1998)",
+    "https://blog.ipleaders.in/discussion-bijoe-emmanuel-case/ (snippet; Bijoe Emmanuel v State of Kerala, 11 August 1986, 51A(a) and Article 25)",
+    "https://www.gktoday.in/constitution-86th-amendment-act-2002/ (snippet; clause (k) and Article 21A, 2002)",
+    "https://theprint.in/india/governance/not-just-socialist-secular-a-lot-more-from-emergency-era-42nd-amendment-still-part-of-constitution/2673050/ (snippet; Emergency-era provisions that survived)"
+  ],
+  "adopted_in": [
+    "Article 7.1",
+    "Article 7.2"
+  ],
+  "status": "proposed",
+  "people": [
+    "Jakob Hirn"
+  ],
+  "agents": [
+    "claude-for-jakob"
+  ]
+}

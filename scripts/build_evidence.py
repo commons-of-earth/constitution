@@ -30,6 +30,8 @@ art_titles={n:t for n,t in ART}; rul_titles={n:t for n,t in RUL}
 by_art=collections.defaultdict(list); by_rule=collections.defaultdict(list); bad=[]
 for e in E:
     for a in e.get('adopted_in',[]):
+        if a=="Preamble":
+            by_art[0].append((a,e)); continue
         m=re.match(r"^(Article|Rule) (\d+)(?:\.(\d+))?$", a)
         if not m: bad.append((e['id'],a)); continue
         n=int(m.group(2))

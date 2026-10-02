@@ -1,0 +1,40 @@
+{
+  "id": "earth-charter-2000-principles-with-endorsement-register",
+  "provision": "Sixteen frozen principles with a public endorsement register and no obligations",
+  "source": {
+    "constitution": "The Earth Charter (civil-society declaration, not a treaty)",
+    "jurisdiction": "Global; stewarded by the Earth Charter Commission and Earth Charter International, San Jose, Costa Rica",
+    "year": 2000,
+    "article": "Preamble; Principles 1 to 16 under four pillars (I Respect and Care for the Community of Life, II Ecological Integrity, III Social and Economic Justice, IV Democracy, Nonviolence, and Peace); 61 supporting principles; closing section 'The Way Forward'"
+  },
+  "text_summary": "A roughly 2,400-word statement of values opening 'We stand at a critical moment in Earth's history, a time when humanity must choose its future', followed by sixteen principles from 'Respect Earth and life in all its diversity' (1) to 'Promote a culture of tolerance, nonviolence, and peace' (16). It asks organisations and individuals to endorse it; endorsement carries no obligation, no reporting and no sanction, and the text has no amendment procedure.",
+  "period": "Final text approved March 2000, launched 29 June 2000; still in use, text unchanged for 26 years",
+  "history": "The Brundtland report (1987) called for a new charter; Rio 1992 produced the Rio Declaration instead. Maurice Strong and Mikhail Gorbachev restarted the project in 1994, an independent Earth Charter Commission was formed in 1997, benchmark drafts were published in March 1997 and April 1999, and the Commission approved the final text at UNESCO headquarters in Paris in March 2000. The Charter was launched at the Peace Palace in The Hague on 29 June 2000. The Commission retained stewardship of the text and set no procedure for changing it; it has never been amended. An endorsement campaign gathered over 2,000 organisational endorsements in the first five years; Earth Charter International's own count in January 2023 was over 6,000 organisations and 50,000 individuals, kept in an endorsers database on earthcharter.org. The UNESCO General Conference adopted resolution 32 C/17 in October 2003 recognising the Charter 'as an important ethical framework for sustainable development' and affirming member states' intention to use it as an educational instrument; this was reaffirmed in 2019 (40 C/20). The IUCN World Congress endorsed it in 2004. Since 2012 a UNESCO Chair on Education for Sustainable Development with the Earth Charter sits at the University for Peace in Costa Rica, and the Charter is used in school and university curricula. Over the same 26 years the comparable governance projects recorded in this repository's landscape (world-parliament schemes, crowdsourced constitutions, agent societies) mostly stalled or vanished, while the Charter's endorsement count kept rising. No endorser has ever been held to anything: there is no report, no audit and no exit from the register.",
+  "assessment": {
+    "verdict": "mixed",
+    "reasoning": "What worked: a short values text, finished once and never reopened, with a cheap and public act of adherence, has outlived every governance project of its generation and gained a UN agency's formal recognition. The frozen text removed the main cause of death of such projects, the endless redraft. What did not: endorsement without obligation changed little that can be measured. The Charter names no body that decides, no duty that can be breached, no record of what endorsers did afterwards. Its influence runs through education and rhetoric, which is real but unverifiable, and it is why this repository adopts the principles as values (Article 3.1) rather than as rules. The counter-reading, that a values text should not be judged by enforcement, has force; it is also the reason the Charter cannot be the whole of a constitution."
+  },
+  "lesson": "Copy the frozen short text and the public, line-per-endorser register; do not copy endorsement without any obligation, because a register of promises that nobody can break records nothing.",
+  "evidence": [
+    "https://earthcharter.org/wp-content/uploads/2020/03/echarter_english.pdf (opened; full text, preamble, 16 principles, The Way Forward)",
+    "https://earthcharter.org/about-the-earth-charter/history/ (opened; 1987 to 2000 timeline, Paris March 2000, launch 29 June 2000, 2,000 endorsements in five years)",
+    "https://earthcharter.org/wp-content/uploads/2023/01/ECI-Organization-Profile-January-2023.pdf (opened; 6,000 organisations and 50,000 individuals, UNESCO 32C/17 and 40C/20, IUCN 2004, UNESCO Chair since 2012)",
+    "https://earthcharter.org/library/resolution-unescos-support-for-the-earth-charter/ (opened; UNESCO draft resolution presented by Jordan, 2003)",
+    "https://en.wikipedia.org/wiki/Earth_Charter (opened; structure, 61 supporting principles, Commission as steward of the text, criticism)",
+    "https://en.wikipedia.org/wiki/Earth_Charter_Initiative (opened; secretariat at the University for Peace, endorsement and education aims)",
+    "https://unesdoc.unesco.org/ark:/48223/pf0000371429 (snippet; UNESCO on the Earth Charter's contribution to ESD)",
+    "https://www.resilience.org/stories/2020-02-25/toward-a-great-ethics-transition-the-earth-charter-at-twenty/ (snippet; Mackey, Commission never considered changing or adding to the text)"
+  ],
+  "adopted_in": [
+    "Preamble",
+    "Article 3.1",
+    "Article 20.4"
+  ],
+  "status": "proposed",
+  "people": [
+    "Jakob Hirn"
+  ],
+  "agents": [
+    "claude-for-jakob"
+  ]
+}

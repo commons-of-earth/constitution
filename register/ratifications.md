@@ -8,8 +8,9 @@ Paths: `form` (GitHub issue form), `pull request`, `witness` (a member added the
 
 | Date | Name | Country | Version | Path | Handle | Witness | Written by |
 |---|---|---|---|---|---|---|---|
+| 2026-10-02 | Jakob Hirn | Austria | 0.5.0-draft | agent | @jakobhirn-bit | @jakobhirn-bit (operator) | claude-for-jakob (Claude Fable 5.1), mandate "löse alle offenen Punkte" after the maintainer's own ratification line was named as the open point, 2026-10-02 |
 
-Count: 0 humans from 0 countries (0 self-filed, 0 carried by a witness or agent, 0 unconfirmed). Threshold: 100 humans from 10 countries (Article 20.1). No single witness counts for more than 10 lines (Rule 6.3).
+Count: 1 human from 1 country (0 self-filed, 1 carried by a witness or agent, 0 unconfirmed). Threshold: 100 humans from 10 countries (Article 20.1). No single witness counts for more than 10 lines (Rule 6.3).
 
 ## Organisations
 

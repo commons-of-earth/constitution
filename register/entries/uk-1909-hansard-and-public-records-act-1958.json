@@ -1,0 +1,52 @@
+{
+  "id": "uk-1909-hansard-and-public-records-act-1958",
+  "provision": "Verbatim public record of what the legislature said; government records opened after a fixed period by rule",
+  "source": {
+    "constitution": "United Kingdom (uncodified): the Official Report of parliamentary debates (Hansard) and the Public Records Act 1958 as amended",
+    "jurisdiction": "United Kingdom",
+    "year": "1909 (Official Report); 1958 (Public Records Act); 1967 (30 years); 2010 (20 years)",
+    "article": "Public Records Act 1958 c. 51, section 3 (selection and transfer, s. 3(4) transfer within 20 years with retention only by approved instrument), section 5 (access, now through the Freedom of Information Act 2000); Constitutional Reform and Governance Act 2010 c. 25, section 45"
+  },
+  "text_summary": "Since 1909 Parliament employs its own reporters and publishes every speech in both Houses as the Official Report, 'substantially the verbatim report with repetitions and redundancies omitted and with obvious mistakes corrected' but leaving out 'nothing that adds to the meaning'; members may correct errors of fact but not what they said. Under the Public Records Act 1958 every department must select records for permanent preservation and transfer them to the Public Record Office (now The National Archives) not later than a fixed age, originally with a 50-year closure, 30 years from 1967, and 20 years under section 45 of the 2010 Act; a department may keep a record longer only under an instrument approved on the advice of an independent council, and since 2005 access is governed by the Freedom of Information Act rather than by the clock alone.",
+  "period": "Hansard official since 1909 and still published daily; Public Records Act in force since 1958, 30-year rule 1967 to 2012, 20-year rule phased in from 1 January 2013 and complete by 2022",
+  "history": "The Commons stopped prosecuting printers of debates after the Brass Crosby affair of 1771; William Cobbett began printing debates in 1802-1803 and Thomas Curson Hansard took them over in 1812, working from newspaper reports that were partial and often slanted. Parliament subsidised the series from 1878, a Commons select committee in 1893 set the 'substantially verbatim' standard, and in 1909 Parliament took publication in-house as the Official Report with its own reporters in both Houses; the name Hansard was restored in 1943. The whole series from 1803 is online. The Public Records Act 1958 made departments responsible for selecting records and transferring them with a 50-year closure; the Public Records Act 1967, pressed by historians including A.J.P. Taylor, cut it to 30 years. The Freedom of Information Act 2000 (in force 1 January 2005) repealed the fixed access rule, so that a transferred record is closed only if an FOI exemption applies. Paul Dacre's review of January 2009 recommended a 15-year rule; section 45 of the Constitutional Reform and Governance Act 2010 settled on 20 years, commenced 1 January 2013 with ten years of double releases, the files of 1983 appearing in August 2013 and the transition finishing in 2022. The counter-case is the Foreign Office's 'migrated archives'. From 1963 to 1994 the FCO brought to Britain papers removed from 37 colonies at independence, around 8,800 files, held at Hayes and then at Hanslope Park, and in 1976 its lawyers advised they were not UK public records, so the Act's clock never ran. In 2009 five Kenyans sued the FCO over torture in the 1950s Emergency (Mutua v FCO). During disclosure the FCO found some 294 boxes of Kenyan papers (about 1,500 files, plus 13 boxes marked Top Secret) that its first searches had missed; on 22 March 2011 its lawyers reversed the 1976 opinion, the Cary report (laid before Parliament in February 2011) blamed bureaucratic failure rather than conspiracy, and on 5 May 2011 Foreign Secretary William Hague told the Commons he would 'release every part of every paper of interest subject only to legal exemptions'. The holding was later counted at about 20,000 files from 41 territories, transferred to The National Archives as FCO 141 in eight batches between April 2012 and November 2013. McCombe J ruled on 21 July 2011 that the claim could proceed and on 5 October 2012 that a fair trial was 'fully practicable' despite the delay, noting that the Hanslope material 'has filled gaps'. On 6 June 2013 the government settled with 5,228 claimants for 19.9 million pounds and expressed sincere regret. Retention outside the rule continues lawfully for security and intelligence records under instruments approved on the advice of the Advisory Council on National Records and Archives.",
+  "assessment": {
+    "verdict": "mixed",
+    "reasoning": "The strong part is the pairing: a verbatim record made at the moment of speaking and never withdrawn, and a transfer rule that runs on a calendar rather than on a minister's goodwill, backed by an outside council and, since 2005, by a right to ask earlier. The 20-year rule shows the period can be shortened without the system breaking. The weak part is that the rule covers only what a department admits is a record: the migrated archives escaped for 48 years on a legal opinion nobody outside the department could test, and were opened not by the Act but by a tort claim's disclosure duty. Retention instruments still allow indefinite closure for whole categories. A record that power can define out of existence is not yet a record.",
+    "dissent": {
+      "verdict": "worked",
+      "reasoning": "The migrated archives were in the end released, catalogued and used in court, and the Cary review, the Hague statement and the settlement all happened in public; on this reading the system corrected itself within two years of the discovery, which is what a records regime can be asked to do.",
+      "evidence": [
+        "https://en.wikipedia.org/wiki/Foreign_and_Commonwealth_Office_migrated_archives (opened)",
+        "https://www.gov.uk/government/news/statement-to-parliament-on-settlement-of-mau-mau-claims (opened)"
+      ]
+    }
+  },
+  "lesson": "Copy a verbatim record made at the time and a transfer-and-open rule that runs on a fixed clock with an outside body approving every exception; do not let the body that holds the records decide what counts as a record.",
+  "evidence": [
+    "https://www.legislation.gov.uk/ukpga/Eliz2/6-7/51 (opened; Public Records Act 1958 as amended, s. 3(4) 20 years, retention proviso, s. 5 and FOI)",
+    "https://www.legislation.gov.uk/ukpga/2010/25/section/45/2015-01-01 (opened; CRAG 2010 s. 45, 30 to 20 years, transitional orders)",
+    "https://www.judiciary.uk/wp-content/uploads/JCO/Documents/Judgments/mutua-fco-judgment-05102012.pdf (opened; McCombe J, 5 October 2012, 294 boxes and about 1,500 files found at Hanslope Park, fair trial fully practicable)",
+    "https://www.gov.uk/government/news/statement-to-parliament-on-settlement-of-mau-mau-claims (opened; 6 June 2013, 5,228 claimants, 19.9 million pounds)",
+    "https://en.wikipedia.org/wiki/Hansard (opened; 1771, Cobbett, 1812, 1878 subsidy, 1893 standard, 1909 Official Report, online from 1803)",
+    "https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/hansard/ (opened; 1909 Official Report with reporters in both Houses, edited verbatim, name restored 1943)",
+    "https://en.wikipedia.org/wiki/Thirty-year_rule (opened; 50 years 1958, 30 years 1967, FOI 2005, Dacre 2009, 1983 files released August 2013, transition complete 2022)",
+    "https://en.wikipedia.org/wiki/Foreign_and_Commonwealth_Office_migrated_archives (opened; Mutua 2009, 1976 opinion reversed 22 March 2011, Hague 5 May 2011, Cary report, FCO 141 April 2012 to November 2013, about 20,000 files from 41 territories)",
+    "https://www.legislation.gov.uk/uksi/2014/3249/pdfs/uksiem_20143249_en.pdf (snippet; commencement 1 January 2013 with ten-year transition)",
+    "https://cdn.nationalarchives.gov.uk/documents/information-management/access-to-public-records.pdf (snippet; retention instruments, Advisory Council, 'any other special reason')",
+    "https://www.historyworkshop.org.uk/empire-decolonisation/britains-secret-colonial-files/ (snippet; 8,800 files, Hayes then Hanslope Park, 1963 to 1994)",
+    "https://www.tandfonline.com/doi/full/10.1080/03086534.2022.2057740 (snippet; Cary report laid before Parliament February 2011)"
+  ],
+  "adopted_in": [
+    "Rule 6.1",
+    "Rule 6.5",
+    "Article 10.6"
+  ],
+  "status": "proposed",
+  "people": [
+    "Jakob Hirn"
+  ],
+  "agents": [
+    "claude-for-jakob"
+  ]
+}

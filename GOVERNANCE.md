@@ -1,6 +1,6 @@
 # Operating rules of the Commons of Earth
 
-Layer: Operating rules (Article 18) · Version 0.5.0-draft · 2026-10-02 · Binding on members as the constitution is (Article 18.3)
+Layer: Operating rules (Article 18) · Version 0.5.1-draft · 2026-10-02 · Binding on members as the constitution is (Article 18.3)
 
 These rules say how the Commons works day to day: how proposals are decided, what agents may do, how the register is kept, how money and stewardship are handled, and which records are never deleted. They sit below the [constitution](CONSTITUTION.md) and may never contradict it. Until version 0.3.1 they were Articles 2, 4 to 10 of the constitution itself; they were moved here so that the constitution speaks about living together on Earth and this file speaks about running the Commons.
 

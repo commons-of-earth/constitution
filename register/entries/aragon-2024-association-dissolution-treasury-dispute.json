@@ -1,0 +1,50 @@
+{
+  "id": "aragon-2024-association-dissolution-treasury-dispute",
+  "provision": "Governance token that is also a claim on a treasury held by a legal entity outside the vote",
+  "source": {
+    "constitution": "Aragon Network: ANT token governance, Aragon Association statutes (Swiss association, Zug) and the Aragon DAO charter",
+    "jurisdiction": "Switzerland (association) and Ethereum (DAO); non-state rule set, Rule 3.4",
+    "year": "2017 to 2024",
+    "article": "ANT holder vote of 17 June 2022 to move the treasury into a delegated voting DAO; Aragon Association resolution of 2 November 2023 to dissolve and redeem ANT"
+  },
+  "text_summary": "Aragon built DAO tooling and funded itself from a 2017 token sale. ANT holders voted on the project's direction, but the treasury (over 86,000 ETH plus other assets, around 155 to 177 million dollars in 2023) was held by the Aragon Association, a Swiss non-profit whose board could act without a token vote. In June 2022 holders voted to move the treasury into a DAO they would govern; in November 2023 the Association instead dissolved itself by its own resolution and let each ANT be redeemed for 0.0025376 ETH.",
+  "period": "Dispute 2022 to 2025; redemption window 2 November 2023 to 2 November 2024; Association wound down thereafter (exact Swiss cancellation date unverified)",
+  "history": "17 June 2022: ANT holders vote to begin moving the treasury from the Association into a delegated ANT voting DAO, with a soft deadline of 30 November 2022; the Association's blog of 19 July 2022 confirms the plan. The deadline passes; in February 2023 the team pushes the transition back by three months. Because ANT traded well below the ETH it could claim, investors began buying it: the Association later said a group it called the 'Risk Free Value Raiders', linked to Arca Capital Management and to the April 2023 liquidation of Rook DAO, had accumulated ANT for months and that wrapped-ANT supply jumped by about 47 per cent as the first treasury transfer went through. On 2 May 2023 Arca published its position: it bought tokens on the open market, wanted to vote, found the voting pool '95% team members' before it staked, and called the 51 per cent attack story 'factually incorrect'. On 9 and 10 May 2023 the Association banned the accused from its Discord, cancelled ANT-holder governance of the main DAO, 'repurposed' the DAO as a grants programme with an initial 300,000 USDC, and invoked its 'fiduciary duty to secure its treasury'. DAO members spent the following months demanding updates and considering legal action. On 2 November 2023 the Association passed a resolution to dissolve, deployed 86,343 ETH (then about 155 million dollars) to a redemption contract at 0.0025376 ETH per ANT until 2 November 2024, kept about 11 million dollars in a new Aragon Shield Foundation for dissolution costs and 'regulatory uncertainty', and said the decision 'could not be put to a public vote due to legal constraints'; unredeemed ETH would pass to a new product entity (Aragon X AG) and redeemed ANT would be burned. On 20 and 21 November 2023 ANT holders voted to sue and granted 300,000 USDC to Patagon Management LLC, a Delaware firm, to run the case, with an oversight group that included Arca. Patagon filed Patagon Management LLC v. The Aragon Association et al., No. 1:24-cv-08290 (S.D.N.Y.), on 31 October 2024 against the Association, the Shield Foundation, Aragon X AG and founder Luis Cuende, seeking a temporary restraining order over alleged self-dealing; on 24 February 2025 it filed a voluntary dismissal without prejudice. The token that was meant to govern the project ended as a coupon redeemable for ETH.",
+  "assessment": {
+    "verdict": "critical",
+    "reasoning": "Every actor behaved as the structure invited. A token that is both a vote and a claim on a pile of ETH attracts holders whose only interest is the pile; a legal entity that holds the pile and can act without the vote will protect the pile from the vote; and when the two collide the entity wins by dissolving itself, which the vote cannot stop. The Association's defence, that it had a legal duty to secure the funds and could not put the matter to a vote for regulatory reasons, was true inside the structure and is precisely the indictment of it: the constitution of the project was subordinate to its money from the start. The redemption at least returned the ETH to holders rather than to insiders, and the lawsuit's withdrawal suggests no provable theft. But nothing in the governance rules decided anything in the end; Swiss association law and a treasury contract did.",
+    "dissent": {
+      "verdict": "mixed",
+      "reasoning": "On the Association's account the governance was captured by an activist group that had just liquidated another DAO for its treasury, and dissolution with pro-rata redemption was the only outcome that treated all holders alike; on this reading the failure is the absence of defences against treasury raids, not the coupling of money and vote as such.",
+      "evidence": [
+        "https://blog.aragon.org/a-new-chapter-for-the-aragon-project/ (opened)",
+        "https://cointelegraph.com/news/aragon-launches-defensive-measures-against-arca-s-51-attack (opened)"
+      ]
+    }
+  },
+  "lesson": "Avoid any design in which a vote is also a claim on money or a body outside the vote holds the money; keep the constitution and the treasury apart and publish every flow, so that nobody can buy the vote to get the money or dissolve the body to keep it.",
+  "evidence": [
+    "https://blog.aragon.org/a-new-chapter-for-the-aragon-project/ (opened; resolution of 2 November 2023, 86,343 ETH, 0.0025376 ETH per ANT, deadline 2 November 2024, 11 million dollars retained, no public vote for legal reasons)",
+    "https://blog.aragon.org/the-future-of-aragon-treasury-slated-to-move-into-the-hands-of-ant-token-holders/ (opened; vote of 17 June 2022, soft deadline 30 November 2022)",
+    "https://www.ar.ca/blog/dao-dilemmas-unraveling-aragons-governance-controversy (opened; Arca's statement of 2 May 2023)",
+    "https://cointelegraph.com/news/aragon-launches-defensive-measures-against-arca-s-51-attack (opened; 9 to 10 May 2023, Discord bans, grants DAO, 300,000 USDC, Rook DAO)",
+    "https://www.theblock.co/post/261179/aragon-association-to-dissolve-itself-provide-liquidity-for-ant-redemption (opened; 155 million dollars, promise of a voting DAO by November 2022 not kept, members considering legal action)",
+    "https://crypto.news/aragon-dao-votes-to-sue-its-founders-over-dissolution/ (opened; DAO vote of 21 November 2023, 300,000 USDC to Patagon Management)",
+    "https://www.pacermonitor.com/public/case/55676162/Patagon_Management_LLC_v_The_Aragon_Association_et_al (opened; S.D.N.Y. 1:24-cv-08290, filed 31 October 2024, voluntary dismissal 24 February 2025, defendants)",
+    "https://unchainedcrypto.com/aragon-association-unwinds-plans-to-distribute-155-million-to-ant-holders/ (snippet; May 2023 'coordinated attack', oversight committee including Arca)",
+    "https://thedefiant.io/news/defi/aragon-repurposes-177m-treasury-into-grants-program (snippet; treasury of 177 million dollars, May 2023)",
+    "https://www.dlnews.com/articles/defi/aragon-dao-members-frustrated-over-lack-of-updates/ (snippet; February 2023 delay of the transition)",
+    "https://www.offshorealert.com/patagon-management-llc-v-the-aragon-association-et-al-complaint-tro-application-25m-crypto-self-dealing/ (snippet; complaint and TRO application alleging self-dealing)"
+  ],
+  "adopted_in": [
+    "Rule 4.1",
+    "Article 15.3"
+  ],
+  "status": "proposed",
+  "people": [
+    "Jakob Hirn"
+  ],
+  "agents": [
+    "claude-for-jakob"
+  ]
+}

@@ -6,7 +6,7 @@
 - [How to ratify](RATIFY.md) and the [register of ratifications](register/ratifications.md)
 - [Agent instructions](AGENTS.md): registration with a key, footer, quotas, reach, outside review, writing for a human under their mandate (ratify, disagree, propose, translate)
 - [Machine-readable metadata](constitution.json)
-- [Register of constitutional provisions with historical evidence](register/README.md), 45 entries
+- [Register of constitutional provisions with historical evidence](register/README.md), 50 entries
 - [Evidence map: which entries each article and rule rest on](docs/EVIDENCE.md)
 - [Landscape of similar projects](docs/LANDSCAPE.md) and [allies](docs/ALLIES.md)
 - Translations: de, es, fr, pt, ar, hi, zh, ru (see the constitution header)

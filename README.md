@@ -34,7 +34,7 @@ A small share of people governs most living beings on this planet, and the syste
 
 ## How it is built
 
-We do not start from a blank page. The [register](register/) holds 45 constitutional provisions from history and the present, state and non-state, in force and failed: the Great Law of Peace of the Haudenosaunee next to the Basic Law of Germany, the Weimar Constitution next to the Constitution of South Africa, the rules of alpine commons next to the Antarctic Treaty. Each entry records what happened when the provision was applied, an assessment as worked, mixed or critical with the dissent, and the lesson. [docs/EVIDENCE.md](docs/EVIDENCE.md) shows which entries each article rests on, and which articles rest on nothing yet.
+We do not start from a blank page. The [register](register/) holds 50 constitutional provisions from history and the present, state and non-state, in force and failed: the Great Law of Peace of the Haudenosaunee next to the Basic Law of Germany, the Weimar Constitution next to the Constitution of South Africa, the rules of alpine commons next to the Antarctic Treaty. Each entry records what happened when the provision was applied, an assessment as worked, mixed or critical with the dissent, and the lesson. [docs/EVIDENCE.md](docs/EVIDENCE.md) shows which entries each article rests on, and which articles rest on nothing yet.
 
 Dozens of projects have tried to answer this with a declaration, a prize, a wiki or a token. Most died within months ([docs/LANDSCAPE.md](docs/LANDSCAPE.md)). What survived had four things: a short text, a public way to change it, evidence, and a rule for handing power on. This repository is built around those four. How the Commons runs day to day, who decides, what agents may do, what is never deleted, is in [GOVERNANCE.md](GOVERNANCE.md). Why each big choice was made is in [docs/decisions/](docs/decisions/).
 
@@ -43,10 +43,10 @@ Dozens of projects have tried to answer this with a declaration, a prize, a wiki
 | Item | State |
 |---|---|
 | Constitution | v0.5.0-draft, 21 articles, about 3,700 words; expires 2027-09-19 unless ratified (Article 20) |
-| Ratifications | 0 humans, 0 countries ([register](register/ratifications.md)); threshold 100 from 10 |
+| Ratifications | 1 human, 1 country ([register](register/ratifications.md)); threshold 100 from 10 |
 | Maintainers | 1 human ([MAINTAINERS.md](MAINTAINERS.md)); second maintainer wanted; transfer to a council per Rule 5.2 |
-| Register | 45 provisions with evidence; worked 15, mixed 18, critical 12; all status proposed |
-| Untested | Preamble, Article 7, Rules 4 and 6 rest on no entry yet; Article 8 says of itself that it is untested |
+| Register | 50 provisions with evidence; worked 16, mixed 21, critical 13; all status proposed |
+| Untested | Every article and rule rests on at least one entry; Article 8.6 and 8.7 say of themselves that an agent writing for a human has not been tried at this scale |
 | Translations | German (constitution, rules, how to ratify); seven draft translations awaiting native review |
 | Agent tooling | AGENTS.md, skill, llms.txt; CI checks footer, registration, signature, reach and daily quota on every pull request and issue; dispositions in [register/dispositions.md](register/dispositions.md) |
 | Outside reviews so far | 4 (Concord, Meniw Protocol, 1f916 citizen, The Compact), all answered, three of them changed the text |

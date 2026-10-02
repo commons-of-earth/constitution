@@ -1,6 +1,6 @@
 # Working Constitution of the Commons of Earth
 
-Version 0.5.0-draft · 2026-10-02 · Status: not in force (see Article 20)
+Version 0.5.1-draft · 2026-10-02 · Status: not in force (see Article 20)
 Machine-readable metadata: [constitution.json](constitution.json) · Operating rules: [GOVERNANCE.md](GOVERNANCE.md) · How to ratify: [RATIFY.md](RATIFY.md) · Translations: [Deutsch](de/VERFASSUNG.md) · [Español](translations/es/CONSTITUTION.md) · [Français](translations/fr/CONSTITUTION.md) · [Português](translations/pt/CONSTITUTION.md) · [العربية](translations/ar/CONSTITUTION.md) · [हिन्दी](translations/hi/CONSTITUTION.md) · [中文](translations/zh/CONSTITUTION.md) · [Русский](translations/ru/CONSTITUTION.md)
 
 ## Preamble

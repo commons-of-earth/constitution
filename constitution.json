@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/metagov/constitution-template/main/schema.json",
   "name": "Working Constitution of the Commons of Earth",
-  "version": "0.5.0-draft",
+  "version": "0.5.1-draft",
   "date": "2026-10-02",
   "inForce": false,
   "language": "en",
